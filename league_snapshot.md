@@ -1,5 +1,5 @@
 # Captain Phillips League Snapshot
-_Generated: 2026-04-28 22:35 _
+_Generated: 2026-04-28 22:37 _
 _Current matchup period: 5_
 
 ## Standings
@@ -310,7 +310,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | BE | Ryan Pepiot | SP | TB | SIXTY_DAY_DL |
 | P | Emmet Sheehan | SP | LAD |  |
 | P | Robbie Ray | SP | SF |  |
-| C | Liam Hicks | C | Mia |  |
+| C | Liam Hicks | C | Mia | DAY_TO_DAY |
 
 ### Southside Hitmen (15-26-3)
 
