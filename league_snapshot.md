@@ -1,5 +1,5 @@
 # Captain Phillips League Snapshot
-_Generated: 2026-04-28 22:40 _
+_Generated: 2026-04-28 22:42 _
 _Current matchup period: 5_
 
 ## Standings
@@ -361,6 +361,40 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | BE | Brenton Doyle | CF | Col |  |
 | BE | Cam Schlittler | SP | NYY |  |
 | BE | Spencer Torkelson | 1B | Det |  |
+
+
+## Season-Long Category Totals
+
+Where each team ranks across all 11 categories. Bold = league leader, italic = bottom.
+
+| Team | AVG | R | HR | RBI | SB | K | W | SV | HLD | ERA | WHIP |
+|------|------|------|------|------|------|------|------|------|------|------|------|
+| Brian's Optimum Team | 0.276 | 157 | 48 | 143 | 17 | 212 | 7 | 8 | 0 | 3.30 | 1.43 |
+| Bay County Buccaneers | 0.267 | 159 | 38 | 136 | 20 | 131 | 11 | 16 | 11 | 3.92 | 1.33 |
+| Ellz Bellz | 0.262 | 152 | 46 | 161 | 36 | 260 | 15 | 3 | 1 | 4.40 | 1.26 |
+| Sh'Dynasty | 0.240 | 151 | 51 | 127 | 35 | 248 | 16 | 13 | 0 | 3.34 | 1.24 |
+| Captain Phillips | 0.264 | 143 | 37 | 131 | 18 | 202 | 16 | 6 | 5 | 3.62 | 1.13 |
+| The Fellowship of the  | 0.245 | 166 | 48 | 138 | 34 | 252 | 15 | 6 | 8 | 3.75 | 1.11 |
+| Antonio's Astounding T | 0.231 | 141 | 35 | 117 | 17 | 151 | 9 | 7 | 7 | 4.05 | 1.26 |
+| EL TORNADO | 0.249 | 126 | 31 | 132 | 18 | 172 | 13 | 11 | 0 | 3.43 | 1.11 |
+| Southside Hitmen | 0.209 | 99 | 21 | 102 | 28 | 310 | 18 | 16 | 7 | 4.29 | 1.25 |
+| Pete's Perfect Team | 0.253 | 110 | 22 | 99 | 19 | 141 | 7 | 6 | 0 | 3.81 | 1.11 |
+
+### Category Leaders
+
+| Cat | Leader | Value | You rank |
+|-----|--------|-------|----------|
+| AVG | Brian's Optimum Team | 0.276 | #3/10 |
+| R | The Fellowship of the  | 166 | #6/10 |
+| HR | Sh'Dynasty | 51 | #6/10 |
+| RBI | Ellz Bellz | 161 | #6/10 |
+| SB | Ellz Bellz | 36 | #8/10 |
+| K | Southside Hitmen | 310 | #6/10 |
+| W | Southside Hitmen | 18 | #3/10 |
+| SV | Bay County Buccaneers | 16 | #9/10 |
+| HLD | Bay County Buccaneers | 11 | #5/10 |
+| ERA | Brian's Optimum Team | 3.30 | #4/10 |
+| WHIP | Pete's Perfect Team | 1.11 | #4/10 |
 
 ## Top 50 Free Agents
 
