@@ -1,5 +1,6 @@
 # Captain Phillips League Snapshot
-_Generated: 2026-04-28 22:20 _
+_Generated: 2026-04-28 22:35 _
+_Current matchup period: 5_
 
 ## Standings
 
@@ -15,6 +16,96 @@ _Generated: 2026-04-28 22:20 _
 | 8 | EL TORNADO | 18 | 21 | 5 | 0.409 |
 | 9 | Southside Hitmen | 15 | 26 | 3 | 0.341 |
 | 10 | Pete's Perfect Team | 13 | 23 | 8 | 0.295 |
+
+## Current Matchups (Period 5)
+
+Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰 = tied.
+
+### The Fellowship of the Skenes @ Ellz Bellz
+**Cat record:** Ellz Bellz 2-5-4
+
+| Cat | The Fellowship of th | Ellz Bellz | Leader |
+|-----|--------|--------|--------|
+| AVG | 0.348 | 0.182 | ❌ The Fellowship  |
+| R | 6 | 2 | ❌ The Fellowship  |
+| HR | 2 | 0 | ❌ The Fellowship  |
+| RBI | 3 | 0 | ❌ The Fellowship  |
+| SB | 0 | 0 | 🟰 Tied |
+| K | 9 | 10 | ✅ Ellz Bellz |
+| W | 0 | 1 | ✅ Ellz Bellz |
+| SV | 0 | 0 | 🟰 Tied |
+| HLD | 1 | 0 | ❌ The Fellowship  |
+| ERA | 6.00 | 4.15 | 🟰 Tied |
+| WHIP | 1.50 | 0.92 | 🟰 Tied |
+
+### Captain Phillips @ Bay County Buccaneers
+**Cat record:** Bay County Buccaneers 1-8-2
+
+| Cat | Captain Phillips | Bay County Buccaneer | Leader |
+|-----|--------|--------|--------|
+| AVG | 0.280 | 0.214 | ❌ Captain Phillip |
+| R | 5 | 2 | ❌ Captain Phillip |
+| HR | 0 | 0 | 🟰 Tied |
+| RBI | 3 | 1 | ❌ Captain Phillip |
+| SB | 0 | 1 | ✅ Bay County Bucc |
+| K | 14 | 0 | ❌ Captain Phillip |
+| W | 1 | 0 | ❌ Captain Phillip |
+| SV | 0 | 0 | 🟰 Tied |
+| HLD | 1 | 0 | ❌ Captain Phillip |
+| ERA | 4.60 | inf | ❌ Captain Phillip |
+| WHIP | 1.72 | inf | ❌ Captain Phillip |
+
+### Antonio's Astounding Team @ Sh'Dynasty
+**Cat record:** Sh'Dynasty 5-0-6
+
+| Cat | Antonio's Astounding | Sh'Dynasty | Leader |
+|-----|--------|--------|--------|
+| AVG | 0.143 | 0.353 | ✅ Sh'Dynasty |
+| R | 0 | 2 | ✅ Sh'Dynasty |
+| HR | 0 | 2 | ✅ Sh'Dynasty |
+| RBI | 2 | 4 | ✅ Sh'Dynasty |
+| SB | 0 | 0 | 🟰 Tied |
+| K | 0 | 3 | ✅ Sh'Dynasty |
+| W | 0 | 0 | 🟰 Tied |
+| SV | 0 | 0 | 🟰 Tied |
+| HLD | 0 | 0 | 🟰 Tied |
+| ERA | inf | 0.00 | 🟰 Tied |
+| WHIP | inf | 1.00 | 🟰 Tied |
+
+### Pete's Perfect Team @ EL TORNADO
+**Cat record:** EL TORNADO 3-1-7
+
+| Cat | Pete's Perfect Team | EL TORNADO | Leader |
+|-----|--------|--------|--------|
+| AVG | 0.100 | 0.250 | ✅ EL TORNADO |
+| R | 3 | 2 | ❌ Pete's Perfect  |
+| HR | 0 | 1 | ✅ EL TORNADO |
+| RBI | 3 | 3 | 🟰 Tied |
+| SB | 0 | 1 | ✅ EL TORNADO |
+| K | 0 | 0 | 🟰 Tied |
+| W | 0 | 0 | 🟰 Tied |
+| SV | 0 | 0 | 🟰 Tied |
+| HLD | 0 | 0 | 🟰 Tied |
+| ERA | inf | inf | 🟰 Tied |
+| WHIP | inf | inf | 🟰 Tied |
+
+### Brian's Optimum Team @ Southside Hitmen
+**Cat record:** Southside Hitmen 0-7-4
+
+| Cat | Brian's Optimum Team | Southside Hitmen | Leader |
+|-----|--------|--------|--------|
+| AVG | 0.312 | 0.125 | ❌ Brian's Optimum |
+| R | 6 | 3 | ❌ Brian's Optimum |
+| HR | 2 | 2 | 🟰 Tied |
+| RBI | 6 | 2 | ❌ Brian's Optimum |
+| SB | 0 | 0 | 🟰 Tied |
+| K | 9 | 1 | ❌ Brian's Optimum |
+| W | 0 | 0 | 🟰 Tied |
+| SV | 1 | 0 | ❌ Brian's Optimum |
+| HLD | 0 | 0 | 🟰 Tied |
+| ERA | 8.49 | 18.00 | ❌ Brian's Optimum |
+| WHIP | 1.80 | 3.00 | ❌ Brian's Optimum |
+
 
 ## Rosters
 
@@ -146,7 +237,7 @@ _Generated: 2026-04-28 22:20 _
 | 3B | Max Muncy | 3B | LAD |  |
 | SS | Kevin McGonigle | SS | Det |  |
 | P | Landen Roupp | SP | SF |  |
-| BE | Dansby Swanson | SS | ChC |  |
+| BE | Dansby Swanson | SS | ChC | DAY_TO_DAY |
 
 ### The Fellowship of the Skenes (20-22-2)
 
@@ -276,52 +367,52 @@ _Generated: 2026-04-28 22:20 _
 | Player | Pos | Team | %Owned |
 |--------|-----|------|--------|
 | Sandy Alcantara | SP | Mia | 88.8% |
-| Chase DeLauter | RF | Cle | 69.9% |
-| Taj Bradley | SP | Min | 67.6% |
+| Chase DeLauter | RF | Cle | 69.8% |
+| Taj Bradley | SP | Min | 67.9% |
 | Gleyber Torres | 2B | Det | 66.5% |
-| Edward Cabrera | SP | ChC | 63.0% |
-| JJ Wetherholt | SS | StL | 62.0% |
-| Willy Adames | SS | SF | 62.0% |
+| Edward Cabrera | SP | ChC | 62.9% |
+| JJ Wetherholt | SS | StL | 62.2% |
+| Willy Adames | SS | SF | 61.9% |
 | Jacob Wilson | SS | Oak | 58.6% |
 | Wilyer Abreu | RF | Bos | 57.7% |
 | Trey Yesavage | SP | Tor | 57.1% |
-| Kris Bubic | SP | KC | 56.8% |
+| Kris Bubic | SP | KC | 56.7% |
 | Yainer Diaz | C | Hou | 56.5% |
 | Trevor Rogers | SP | Bal | 56.4% |
 | Michael Soroka | SP | Ari | 54.7% |
-| Jeff Hoffman | RP | Tor | 54.3% |
-| Randy Vasquez | SP | SD | 53.5% |
+| Jeff Hoffman | RP | Tor | 54.2% |
+| Randy Vasquez | SP | SD | 53.4% |
 | Carlos Correa | SS | Hou | 52.9% |
 | Chandler Simpson | CF | TB | 52.8% |
-| Daylen Lile | RF | Wsh | 52.6% |
-| Pete Fairbanks | RP | Mia | 51.9% |
+| Daylen Lile | RF | Wsh | 52.5% |
+| Pete Fairbanks | RP | Mia | 51.6% |
 | Aaron Nola | SP | Phi | 49.8% |
 | Marcus Semien | 2B | NYM | 49.7% |
-| Braxton Ashcraft | RP | Pit | 48.4% |
-| Daniel Palencia | RP | ChC | 46.2% |
+| Braxton Ashcraft | RP | Pit | 48.0% |
+| Daniel Palencia | RP | ChC | 46.1% |
 | Dansby Swanson | SS | ChC | 45.2% |
 | Jo Adell | CF | LAA | 45.1% |
-| Jack Flaherty | SP | Det | 44.2% |
+| Jack Flaherty | SP | Det | 44.1% |
 | Dillon Dingler | C | Det | 43.9% |
 | Alejandro Kirk | C | Tor | 42.6% |
 | Jakob Marsee | CF | Mia | 41.9% |
 | Jeffrey Springs | SP | Oak | 41.2% |
-| Casey Mize | SP | Det | 41.0% |
 | Hunter Greene | SP | Cin | 40.6% |
 | Bryan Abreu | RP | Hou | 40.4% |
 | Andrew Abbott | SP | Cin | 40.3% |
+| Casey Mize | SP | Det | 39.9% |
 | Jung Hoo Lee | CF | SF | 38.3% |
-| Bryson Stott | 2B | Phi | 37.0% |
+| Bryson Stott | 2B | Phi | 36.9% |
 | Mitch Keller | SP | Pit | 36.5% |
-| Payton Tolle | SP | Bos | 35.7% |
 | Clay Holmes | SP | NYM | 35.6% |
-| Jeremiah Jackson | RF | Bal | 35.2% |
-| Luis Robert Jr. | CF | NYM | 35.2% |
-| Bubba Chandler | SP | Pit | 35.2% |
+| Bubba Chandler | SP | Pit | 35.3% |
+| Luis Robert Jr. | CF | NYM | 35.1% |
+| Jeremiah Jackson | RF | Bal | 35.1% |
+| Payton Tolle | SP | Bos | 34.5% |
 | Isaac Paredes | 3B | Hou | 33.7% |
 | Sal Frelick | RF | Mil | 33.4% |
 | Caleb Durbin | 3B | Bos | 32.8% |
 | Griffin Jax | RP | TB | 32.5% |
 | Carlos Estevez | RP | KC | 31.8% |
-| Giancarlo Stanton | DH | NYY | 30.9% |
+| Giancarlo Stanton | DH | NYY | 30.8% |
 | Ramon Laureano | LF | SD | 30.8% |
