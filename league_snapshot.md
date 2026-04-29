@@ -1,5 +1,5 @@
 # Captain Phillips League Snapshot
-_Generated: 2026-04-28 22:38 _
+_Generated: 2026-04-28 22:40 _
 _Current matchup period: 5_
 
 ## Standings
@@ -26,34 +26,34 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 
 | Cat | The Fellowship of th | Ellz Bellz | Leader |
 |-----|--------|--------|--------|
-| AVG | 0.348 | 0.182 | ❌ The Fellowship  |
-| R | 6 | 2 | ❌ The Fellowship  |
-| HR | 2 | 0 | ❌ The Fellowship  |
-| RBI | 3 | 0 | ❌ The Fellowship  |
+| AVG | 0.348 | 0.182 | ✅ The Fellowship of  |
+| R | 6 | 2 | ✅ The Fellowship of  |
+| HR | 2 | 0 | ✅ The Fellowship of  |
+| RBI | 3 | 0 | ✅ The Fellowship of  |
 | SB | 0 | 0 | 🟰 Tied |
 | K | 9 | 10 | ✅ Ellz Bellz |
 | W | 0 | 1 | ✅ Ellz Bellz |
 | SV | 0 | 0 | 🟰 Tied |
-| HLD | 1 | 0 | ❌ The Fellowship  |
-| ERA | 6.00 | 4.15 | 🟰 Tied |
-| WHIP | 1.50 | 0.92 | 🟰 Tied |
+| HLD | 1 | 0 | ✅ The Fellowship of  |
+| ERA | 6.00 | 4.15 | ✅ Ellz Bellz |
+| WHIP | 1.50 | 0.92 | ✅ Ellz Bellz |
 
 ### Captain Phillips @ Bay County Buccaneers
 **Cat record:** Bay County Buccaneers 1-8-2
 
 | Cat | Captain Phillips | Bay County Buccaneer | Leader |
 |-----|--------|--------|--------|
-| AVG | 0.280 | 0.214 | ❌ Captain Phillip |
-| R | 5 | 2 | ❌ Captain Phillip |
+| AVG | 0.280 | 0.214 | ✅ Captain Phillips |
+| R | 5 | 2 | ✅ Captain Phillips |
 | HR | 0 | 0 | 🟰 Tied |
-| RBI | 3 | 1 | ❌ Captain Phillip |
-| SB | 0 | 1 | ✅ Bay County Bucc |
-| K | 14 | 0 | ❌ Captain Phillip |
-| W | 1 | 0 | ❌ Captain Phillip |
+| RBI | 3 | 1 | ✅ Captain Phillips |
+| SB | 0 | 1 | ✅ Bay County Buccane |
+| K | 14 | 0 | ✅ Captain Phillips |
+| W | 1 | 0 | ✅ Captain Phillips |
 | SV | 0 | 0 | 🟰 Tied |
-| HLD | 1 | 0 | ❌ Captain Phillip |
-| ERA | 4.60 | inf | ❌ Captain Phillip |
-| WHIP | 1.72 | inf | ❌ Captain Phillip |
+| HLD | 1 | 0 | ✅ Captain Phillips |
+| ERA | 4.60 | — | ✅ Captain Phillips |
+| WHIP | 1.72 | — | ✅ Captain Phillips |
 
 ### Antonio's Astounding Team @ Sh'Dynasty
 **Cat record:** Sh'Dynasty 5-0-6
@@ -69,8 +69,8 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | W | 0 | 0 | 🟰 Tied |
 | SV | 0 | 0 | 🟰 Tied |
 | HLD | 0 | 0 | 🟰 Tied |
-| ERA | inf | 0.00 | 🟰 Tied |
-| WHIP | inf | 1.00 | 🟰 Tied |
+| ERA | — | 0.00 | ✅ Sh'Dynasty |
+| WHIP | — | 1.00 | ✅ Sh'Dynasty |
 
 ### Pete's Perfect Team @ EL TORNADO
 **Cat record:** EL TORNADO 3-1-7
@@ -78,7 +78,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | Cat | Pete's Perfect Team | EL TORNADO | Leader |
 |-----|--------|--------|--------|
 | AVG | 0.100 | 0.250 | ✅ EL TORNADO |
-| R | 3 | 2 | ❌ Pete's Perfect  |
+| R | 3 | 2 | ✅ Pete's Perfect Tea |
 | HR | 0 | 1 | ✅ EL TORNADO |
 | RBI | 3 | 3 | 🟰 Tied |
 | SB | 0 | 1 | ✅ EL TORNADO |
@@ -86,25 +86,25 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | W | 0 | 0 | 🟰 Tied |
 | SV | 0 | 0 | 🟰 Tied |
 | HLD | 0 | 0 | 🟰 Tied |
-| ERA | inf | inf | 🟰 Tied |
-| WHIP | inf | inf | 🟰 Tied |
+| ERA | — | — | 🟰 Tied |
+| WHIP | — | — | 🟰 Tied |
 
 ### Brian's Optimum Team @ Southside Hitmen
 **Cat record:** Southside Hitmen 0-7-4
 
 | Cat | Brian's Optimum Team | Southside Hitmen | Leader |
 |-----|--------|--------|--------|
-| AVG | 0.312 | 0.125 | ❌ Brian's Optimum |
-| R | 6 | 3 | ❌ Brian's Optimum |
+| AVG | 0.312 | 0.125 | ✅ Brian's Optimum Te |
+| R | 6 | 3 | ✅ Brian's Optimum Te |
 | HR | 2 | 2 | 🟰 Tied |
-| RBI | 6 | 2 | ❌ Brian's Optimum |
+| RBI | 6 | 2 | ✅ Brian's Optimum Te |
 | SB | 0 | 0 | 🟰 Tied |
-| K | 9 | 1 | ❌ Brian's Optimum |
+| K | 9 | 1 | ✅ Brian's Optimum Te |
 | W | 0 | 0 | 🟰 Tied |
-| SV | 1 | 0 | ❌ Brian's Optimum |
+| SV | 1 | 0 | ✅ Brian's Optimum Te |
 | HLD | 0 | 0 | 🟰 Tied |
-| ERA | 8.49 | 18.00 | ❌ Brian's Optimum |
-| WHIP | 1.80 | 3.00 | ❌ Brian's Optimum |
+| ERA | 8.49 | 18.00 | ✅ Brian's Optimum Te |
+| WHIP | 1.80 | 3.00 | ✅ Brian's Optimum Te |
 
 
 ## Rosters
