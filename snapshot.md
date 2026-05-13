@@ -1,5 +1,5 @@
 # Captain Phillips League Snapshot
-_Generated: 2026-05-12 03:00 _
+_Generated: 2026-05-12 21:49 _
 _Current matchup period: 7_
 
 ## Standings
@@ -152,7 +152,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | OF | Oneil Cruz | CF | Pit |  |
 | P | Shota Imanaga | SP | ChC |  |
 | P | Gavin Williams | SP | Cle |  |
-| BE | Jose Caballero | RF | NYY | DAY_TO_DAY |
+| BE | Jose Caballero | RF | NYY | TEN_DAY_DL |
 | BE | Willson Contreras | 1B | Bos | DAY_TO_DAY |
 | BE | Adley Rutschman | C | Bal |  |
 | 3B | Ernie Clement | 3B | Tor |  |
@@ -175,7 +175,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | P | Andres Munoz | RP | Sea |  |
 | P | Aroldis Chapman | RP | Bos |  |
 | C | Drake Baldwin | C | Atl |  |
-| BE | Michael Harris II | CF | Atl |  |
+| OF | Michael Harris II | CF | Atl |  |
 | OF | Andy Pages | CF | LAD |  |
 | P | Abner Uribe | RP | Mil |  |
 | SS | Xavier Edwards | 2B | Mia |  |
@@ -186,7 +186,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | P | Paul Sewald | RP | Ari |  |
 | P | Jhoan Duran | RP | Phi |  |
 | P | Justin Wrobleski | RP | LAD |  |
-| OF | Chase DeLauter | RF | Cle |  |
+| BE | Chase DeLauter | RF | Cle |  |
 
 ### EL TORNADO (32-26-8)
 
@@ -233,10 +233,10 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | IL | Shane Bieber | SP | Tor | SIXTY_DAY_DL |
 | P | Riley O'Brien | RP | StL |  |
 | P | Bryan Baker | RP | TB |  |
-| P | Ian Seymour | RP | TB |  |
 | 2B | Travis Bazzana | 2B | Cle |  |
 | P | JoJo Romero | RP | StL |  |
 | OF | Brandon Marsh | CF | Phi |  |
+| P | Rico Garcia | RP | Bal |  |
 
 ### Brian's Optimum Team (30-28-8)
 
@@ -351,7 +351,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | OF | Jackson Merrill | CF | SD |  |
 | P | Joe Ryan | SP | Min |  |
 | 3B | Alex Bregman | 3B | ChC |  |
-| UTIL | Christian Yelich | DH | Mil | TEN_DAY_DL |
+| UTIL | Christian Yelich | DH | Mil |  |
 | C | Will Smith | C | LAD |  |
 | 1B | Yandy Diaz | DH | TB |  |
 | 2B | Jackson Holliday | 2B | Bal | TEN_DAY_DL |
@@ -401,53 +401,53 @@ Where each team ranks across all 11 categories. Bold = league leader, italic = b
 
 | Player | Pos | Team | %Owned |
 |--------|-----|------|--------|
-| Steven Kwan | LF | Cle | 76.3% |
-| Sonny Gray | SP | Bos | 75.3% |
-| Ildemaro Vargas | 2B | Ari | 73.4% |
-| Ranger Suarez | SP | Bos | 72.1% |
-| Tyler Soderstrom | LF | Oak | 71.2% |
+| Corey Seager | SS | Tex | 84.5% |
+| Steven Kwan | LF | Cle | 75.7% |
+| Sonny Gray | SP | Bos | 75.7% |
+| Ildemaro Vargas | 2B | Ari | 73.0% |
+| Ranger Suarez | SP | Bos | 72.6% |
+| Tyler Soderstrom | LF | Oak | 71.0% |
 | Bryan Reynolds | RF | Pit | 70.8% |
-| Taj Bradley | SP | Min | 70.5% |
-| Trey Yesavage | SP | Tor | 64.9% |
-| Matt Chapman | 3B | SF | 64.2% |
+| Taj Bradley | SP | Min | 70.1% |
+| Trey Yesavage | SP | Tor | 64.8% |
 | Clay Holmes | SP | NYM | 64.1% |
-| Michael Wacha | SP | KC | 63.1% |
-| Teoscar Hernandez | RF | LAD | 62.7% |
-| Mickey Moniak | RF | Col | 61.3% |
-| Jacob Wilson | SS | Oak | 59.3% |
-| Gleyber Torres | 2B | Det | 58.1% |
-| Edward Cabrera | SP | ChC | 57.0% |
-| Nick Martinez | SP | TB | 54.7% |
-| Willy Adames | SS | SF | 53.7% |
-| Ivan Herrera | DH | StL | 53.5% |
-| Chandler Simpson | CF | TB | 52.4% |
-| Mauricio Dubon | LF | Atl | 52.1% |
-| Mitch Keller | SP | Pit | 49.0% |
-| Jeff Hoffman | RP | Tor | 48.6% |
-| Ryan Weathers | SP | NYY | 48.6% |
-| Yainer Diaz | C | Hou | 48.4% |
-| Aaron Nola | SP | Phi | 47.9% |
-| Daniel Palencia | RP | ChC | 47.8% |
-| Foster Griffin | SP | Wsh | 47.5% |
-| Trevor Rogers | SP | Bal | 45.7% |
-| Marcus Semien | 2B | NYM | 45.3% |
-| Matthew Boyd | SP | ChC | 44.7% |
-| Dansby Swanson | SS | ChC | 43.7% |
-| Randy Vasquez | SP | SD | 43.4% |
+| Michael Wacha | SP | KC | 64.1% |
+| Matt Chapman | 3B | SF | 63.4% |
+| Teoscar Hernandez | RF | LAD | 62.3% |
+| Mickey Moniak | RF | Col | 60.2% |
+| Jacob Wilson | SS | Oak | 57.9% |
+| Gleyber Torres | 2B | Det | 57.8% |
+| Edward Cabrera | SP | ChC | 56.2% |
+| Nick Martinez | SP | TB | 54.2% |
+| Ivan Herrera | DH | StL | 53.8% |
+| Willy Adames | SS | SF | 53.6% |
+| Mauricio Dubon | LF | Atl | 52.8% |
+| Chandler Simpson | CF | TB | 51.9% |
+| Mitch Keller | SP | Pit | 51.8% |
+| Foster Griffin | SP | Wsh | 49.2% |
+| Jeff Hoffman | RP | Tor | 48.4% |
+| Yainer Diaz | C | Hou | 48.1% |
+| Daniel Palencia | RP | ChC | 47.5% |
+| Aaron Nola | SP | Phi | 47.2% |
+| Ryan Weathers | SP | NYY | 47.1% |
+| Marcus Semien | 2B | NYM | 45.2% |
+| Trevor Rogers | SP | Bal | 45.0% |
+| Matthew Boyd | SP | ChC | 44.4% |
+| Dansby Swanson | SS | ChC | 43.4% |
 | Pete Fairbanks | RP | Mia | 43.3% |
-| Dillon Dingler | C | Det | 43.3% |
-| Andrew Abbott | SP | Cin | 42.1% |
-| Jo Adell | CF | LAA | 41.3% |
-| Jack Flaherty | SP | Det | 41.2% |
-| Xander Bogaerts | SS | SD | 40.2% |
-| Josh Jung | 3B | Tex | 40.1% |
-| Hunter Greene | SP | Cin | 40.1% |
-| Daylen Lile | RF | Wsh | 39.6% |
-| Alejandro Kirk | C | Tor | 39.3% |
-| Ryan Jeffers | C | Min | 37.7% |
-| Michael Soroka | SP | Ari | 37.3% |
-| Bryson Stott | 2B | Phi | 36.7% |
-| Bryan Abreu | RP | Hou | 36.5% |
+| Randy Vasquez | SP | SD | 43.1% |
+| Dillon Dingler | C | Det | 43.0% |
+| Jack Flaherty | SP | Det | 42.7% |
+| Andrew Abbott | SP | Cin | 41.8% |
+| Jo Adell | CF | LAA | 41.6% |
+| Xander Bogaerts | SS | SD | 40.7% |
+| Hunter Greene | SP | Cin | 40.2% |
+| Josh Jung | 3B | Tex | 40.2% |
+| Daylen Lile | RF | Wsh | 39.8% |
+| Alejandro Kirk | C | Tor | 39.2% |
+| Ryan Jeffers | C | Min | 39.1% |
+| Max Meyer | SP | Mia | 38.2% |
+| Bryson Stott | 2B | Phi | 36.8% |
+| Bryan Abreu | RP | Hou | 36.3% |
+| Michael Soroka | SP | Ari | 36.1% |
 | Jakob Marsee | CF | Mia | 36.0% |
-| Max Meyer | SP | Mia | 35.7% |
-| Jung Hoo Lee | CF | SF | 35.5% |
