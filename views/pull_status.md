@@ -1,38 +1,38 @@
 # Data Pipeline Status
 
-_Generated: 2026-05-19T12:38 ET — db latest pull: 2026-05-18_
+_Generated: 2026-05-20T03:55 ET — db latest pull: 2026-05-19_
 
 ## Row counts
 
 - **db_path**: /Users/claudeserver/fantasy-bot/fantasy.db
-- **latest_pull**: 2026-05-18
+- **latest_pull**: 2026-05-19
 - **earliest_pull**: 2026-03-26
-- **players**: 393
-- **hitting_stats**: 10945
-- **pitching_stats**: 8699
-- **statcast**: 2
-- **rosters**: 206
-- **standings**: 10
-- **matchups**: 85
-- **fa_pool**: 200
-- **pull_log**: 3
+- **players**: 397
+- **hitting_stats**: 11215
+- **pitching_stats**: 8983
+- **statcast**: 4
+- **rosters**: 413
+- **standings**: 20
+- **matchups**: 170
+- **fa_pool**: 400
+- **pull_log**: 4
 
 ## Last pull log
 
-- id: 3
-- date_pulled: 2026-05-19
-- mode: backfill
-- start_ts: 2026-05-19T07:56:07.632207
-- end_ts: 2026-05-19T10:50:36.208634
-- duration_sec: 10468.576427
-- players_tracked: 393
-- new_players: 390
-- hit_rows: 10945
-- pit_rows: 8699
+- id: 4
+- date_pulled: 2026-05-20
+- mode: nightly
+- start_ts: 2026-05-20T03:30:02.278908
+- end_ts: 2026-05-20T03:37:23.537780
+- duration_sec: 441.258872
+- players_tracked: 397
+- new_players: 4
+- hit_rows: 270
+- pit_rows: 284
 - statcast_rows: 643
-- roster_rows: 206
+- roster_rows: 207
 - standings_rows: 10
 - matchup_rows: 85
 - fa_rows: 200
 - errors: 0
-- notes: args={'backfill': True, 'nightly': False, 'only_fantasy': False, 'skip_statcast': False, 'player': None, 'limit': 0, 'from_date': '2026-03-26', 'to_date': None}
+- notes: args={'backfill': False, 'nightly': False, 'only_fantasy': False, 'skip_statcast': False, 'player': None, 'limit': 0, 'from_date': '2026-03-26', 'to_date': None}
