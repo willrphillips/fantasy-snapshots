@@ -1,26 +1,20 @@
 # Anomaly Digest — Standout Game Lines
 
-_Generated: 2026-06-08T04:45 ET — game day 2026-06-07 (delta vs 2026-06-06)._
+_Generated: 2026-06-09T04:45 ET — game day 2026-06-08 (delta vs 2026-06-07)._
 
 ## Hitting
 
-- **Matt McLain** (CIN, 2B) — 2-for-4, 2 HR, 2 RBI, 2 R. _Season: .206/.303/.368, 8 HR in 239 PA_
-- **Carson Benge** (NYM, RF) — 5-for-5, 1 HR, 1 3B, 2 RBI, 3 R. _Season: .265/.325/.408, 7 HR in 243 PA_
-- **Sebastián Rivero** (LAA) — 5-for-5, 1 2B, 6 RBI, 1 R. _Season: .220/.264/.260, 0 HR in 54 PA_
-- **Jo Adell** (LAA, RF) — 4-for-5, 1 HR, 2 RBI, 4 R. _Season: .243/.283/.392, 10 HR in 272 PA_
-- **Dalton Rushing** (LAD, C) — 4-for-4, 1 HR, 1 2B, 3 RBI, 1 R. _Season: .287/.363/.564, 8 HR in 113 PA_
-- **Tyler Stephenson** (CIN) — 3-for-4, 1 HR, 1 2B, 1 RBI, 1 R. _Season: .203/.297/.342, 5 HR in 182 PA_
-- **Garrett Mitchell** (MIL) — 3-for-5, 2 2B, 1 3B, 2 RBI, 2 R. _Season: .244/.359/.396, 3 HR in 196 PA_
-- **Ezequiel Duran** (TEX, 2B) — 4-for-5, 1 2B, 3 RBI, 1 R. _Season: .293/.347/.457, 4 HR in 203 PA_
+- **Tyler Soderstrom** (ATH, LF) — 3-for-4, 2 HR, 4 RBI, 2 R, 2 BB. _Season: .237/.333/.457, 10 HR in 267 PA_
+- **Nick Kurtz** (ATH, 1B) — 3-for-6, 2 HR, 3 RBI, 3 R, 1 BB. _Season: .282/.434/.521, 14 HR in 297 PA_
+- **Andrew Vaughn** (MIL, 1B) — 4-for-6, 1 HR, 2 2B, 4 RBI, 1 R. _Season: .364/.417/.557, 2 HR in 96 PA_
+- **William Contreras** (MIL, C) — 3-for-6, 1 HR, 3 RBI, 3 R, 1 BB. _Season: .290/.349/.407, 6 HR in 269 PA_
+- **Shea Langeliers** (ATH, C) — 3-for-7, 1 HR, 2 RBI, 2 R. _Season: .285/.349/.542, 17 HR in 275 PA_
+- **Jung Hoo Lee** (SF, RF) — 4-for-5, 2 R. _Season: .339/.373/.462, 3 HR in 236 PA_
 
 ## Pitching
 
-- **Noah Cameron** (KC) — 6.0 IP, 0 ER, 7 K, 3 H, W. _Season: 3.84 ERA, 3.15 FIP, 63 K in 65.2 IP_
-- **Jacob deGrom** (TEX) — 6.0 IP, 0 ER, 6 K, 2 BB, 3 H, W. _Season: 3.18 ERA, 3.76 FIP, 84 K in 70.2 IP_
-- **Javier Assad** (CHC) — 6.1 IP, 0 ER, 5 K, 1 BB, 1 H. _Season: 4.73 ERA, 4.38 FIP, 19 K in 32.1 IP_
-- **Gage Jump** (ATH) — 6.1 IP, 0 ER, 3 K, 3 BB, 3 H, W. _Season: 2.45 ERA, 2.82 FIP, 13 K in 18.1 IP_
-- **Sandy Alcantara** (MIA) — 7.0 IP, 1 ER, 7 K, 1 BB, 5 H, W. _Season: 4.33 ERA, 4.07 FIP, 64 K in 89.1 IP_
-- **Michael Soroka** (AZ) — 7.0 IP, 1 ER, 6 K, 2 BB, 3 H, W. _Season: 3.28 ERA, 3.06 FIP, 72 K in 74.0 IP_
+- **Cristopher Sánchez** (PHI) — 7.0 IP, 2 ER, 10 K, 1 BB, 4 H, W. _Season: 1.54 ERA, 1.84 FIP, 113 K in 93.1 IP_
+- **Logan Webb** (SF) — 8.0 IP, 1 ER, 7 K, 5 H. _Season: 3.32 ERA, 3.31 FIP, 51 K in 62.1 IP_
 
 ---
 _Thresholds: hitters need 2+ HR, 4+ H, 5+ RBI, 4+ R, 3+ SB, a multi-hit homer game, or 3+ XBH. Pitchers need 7+ IP with ≤1 ER, a 6+ IP shutout, or 10+ K. Baselines are season-to-date only._
