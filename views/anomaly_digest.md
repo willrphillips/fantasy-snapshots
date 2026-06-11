@@ -1,23 +1,23 @@
 # Anomaly Digest — Standout Game Lines
 
-_Generated: 2026-06-10T04:45 ET — game day 2026-06-09 (delta vs 2026-06-08)._
+_Generated: 2026-06-11T04:45 ET — game day 2026-06-10 (delta vs 2026-06-09)._
 
 ## Hitting
 
-- **Dillon Dingler** (DET, C) — 4-for-5, 2 HR, 1 2B, 4 RBI, 3 R. _Season: .248/.329/.528, 16 HR in 248 PA_
-- **Jac Caglianone** (KC, RF) — 3-for-3, 2 HR, 3 RBI, 2 R, 1 BB, 1 SB. _Season: .261/.338/.442, 8 HR in 222 PA_
-- **Matt Olson** (ATL, 1B) — 2-for-4, 2 HR, 3 RBI, 2 R, 1 BB. _Season: .271/.342/.561, 19 HR in 295 PA_
-- **Randy Arozarena** (SEA, LF) — 3-for-5, 1 HR, 3 RBI, 2 R. _Season: .299/.385/.462, 7 HR in 291 PA_
-- **Otto Lopez** (MIA, SS) — 3-for-5, 2 2B, 1 RBI, 4 R, 1 SB. _Season: .341/.369/.490, 5 HR in 279 PA_
-- **Jesús Sánchez** (TOR) — 3-for-4, 1 HR, 1 2B, 1 RBI, 1 R. _Season: .296/.328/.476, 7 HR in 204 PA_
-- **Matt McLain** (CIN, 2B) — 0-for-3, 1 R, 2 BB, 3 SB. _Season: .209/.312/.372, 8 HR in 248 PA_
-- **Joe Mack** (MIA) — 4-for-4, 3 R. _Season: .253/.293/.333, 1 HR in 94 PA_
-- **Fernando Tatis Jr.** (SD, RF) — 4-for-6, 1 2B, 1 R. _Season: .278/.346/.335, 1 HR in 281 PA_
+- **Matt Chapman** (SF, 3B) — 4-for-5, 2 HR, 1 2B, 3 RBI, 3 R. _Season: .265/.346/.414, 6 HR in 283 PA_
+- **Tyler Callihan** (PIT) — 2-for-2, 2 HR, 4 RBI, 3 R, 2 BB. _Season: .333/.529/1.000, 2 HR in 17 PA_
+- **Caleb Durbin** (BOS, 3B) — 3-for-4, 2 HR, 2 RBI, 2 R. _Season: .204/.264/.330, 3 HR in 210 PA_
+- **Daylen Lile** (WSH, LF) — 4-for-5, 2 RBI, 1 R, 2 SB. _Season: .266/.323/.424, 8 HR in 300 PA_
+- **Nick Fortes** (TB) — 4-for-4, 2 2B, 3 R. _Season: .269/.311/.353, 1 HR in 168 PA_
+- **Jac Caglianone** (KC, RF) — 4-for-5, 1 2B, 1 RBI, 2 R. _Season: .275/.348/.456, 8 HR in 227 PA_
 
 ## Pitching
 
-- **Dylan Cease** (TOR) — 6.0 IP, 1 ER, 11 K, 1 BB, 3 H. _Season: 2.91 ERA, 2.35 FIP, 103 K in 68.0 IP_
-- **Dustin May** (STL) — 6.0 IP, 0 ER, 6 K, 1 BB, 4 H, W. _Season: 4.21 ERA, 3.21 FIP, 66 K in 72.2 IP_
+- **Drew Rasmussen** (TB) — 7.0 IP, 0 ER, 13 K, 1 BB, 2 H, W. _Season: 2.71 ERA, 3.03 FIP, 77 K in 73.0 IP_
+- **George Kirby** (SEA) — 6.0 IP, 3 ER, 10 K, 3 BB, 7 H. _Season: 4.07 ERA, 3.40 FIP, 74 K in 84.0 IP_
+- **Davis Martin** (CWS) — 6.0 IP, 0 ER, 6 K, 6 H, W. _Season: 2.41 ERA, 2.38 FIP, 79 K in 78.1 IP_
+- **Brandon Young** (BAL) — 7.0 IP, 0 ER, 5 K, 2 BB, 2 H, W. _Season: 3.04 ERA, 4.06 FIP, 42 K in 56.1 IP_
+- **Reid Detmers** (LAA) — 7.0 IP, 1 ER, 9 K, 1 H. _Season: 4.00 ERA, 2.87 FIP, 97 K in 81.0 IP_
 
 ---
 _Thresholds: hitters need 2+ HR, 4+ H, 5+ RBI, 4+ R, 3+ SB, a multi-hit homer game, or 3+ XBH. Pitchers need 7+ IP with ≤1 ER, a 6+ IP shutout, or 10+ K. Baselines are season-to-date only._
