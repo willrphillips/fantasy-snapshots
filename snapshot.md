@@ -1,5 +1,5 @@
 # Captain Phillips League Snapshot
-_Generated: 2026-06-19 03:00 _
+_Generated: 2026-06-20 03:00 _
 _Current matchup period: 12_
 
 ## Standings
@@ -22,89 +22,89 @@ _Current matchup period: 12_
 Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰 = tied.
 
 ### Sh'Dynasty @ The Fellowship of the Skenes
-**Cat record:** The Fellowship of the Skenes 5-5-1
+**Cat record:** The Fellowship of the Skenes 2-7-2
 
 | Cat | Sh'Dynasty | The Fellowship of th | Leader |
 |-----|--------|--------|--------|
-| AVG | 0.196 | 0.270 | ✅ The Fellowship of  |
-| R | 16 | 17 | ✅ The Fellowship of  |
-| HR | 6 | 5 | ✅ Sh'Dynasty |
-| RBI | 15 | 17 | ✅ The Fellowship of  |
+| AVG | 0.245 | 0.266 | ✅ The Fellowship of  |
+| R | 22 | 22 | 🟰 Tied |
+| HR | 8 | 6 | ✅ Sh'Dynasty |
+| RBI | 22 | 19 | ✅ Sh'Dynasty |
 | SB | 3 | 2 | ✅ Sh'Dynasty |
-| K | 21 | 26 | ✅ The Fellowship of  |
-| W | 1 | 3 | ✅ The Fellowship of  |
-| SV | 3 | 0 | ✅ Sh'Dynasty |
-| HLD | 0 | 0 | 🟰 Tied |
-| ERA | 0.69 | 0.92 | ✅ Sh'Dynasty |
-| WHIP | 0.69 | 1.02 | ✅ Sh'Dynasty |
+| K | 42 | 37 | ✅ Sh'Dynasty |
+| W | 3 | 3 | 🟰 Tied |
+| SV | 3 | 2 | ✅ Sh'Dynasty |
+| HLD | 0 | 1 | ✅ The Fellowship of  |
+| ERA | 3.06 | 3.07 | ✅ Sh'Dynasty |
+| WHIP | 0.99 | 1.23 | ✅ Sh'Dynasty |
 
 ### EL TORNADO @ Bay County Buccaneers
 **Cat record:** Bay County Buccaneers 6-5-0
 
 | Cat | EL TORNADO | Bay County Buccaneer | Leader |
 |-----|--------|--------|--------|
-| AVG | 0.289 | 0.292 | ✅ Bay County Buccane |
-| R | 12 | 18 | ✅ Bay County Buccane |
-| HR | 3 | 6 | ✅ Bay County Buccane |
-| RBI | 14 | 16 | ✅ Bay County Buccane |
-| SB | 3 | 0 | ✅ EL TORNADO |
-| K | 13 | 7 | ✅ EL TORNADO |
+| AVG | 0.293 | 0.289 | ✅ EL TORNADO |
+| R | 16 | 20 | ✅ Bay County Buccane |
+| HR | 4 | 7 | ✅ Bay County Buccane |
+| RBI | 20 | 21 | ✅ Bay County Buccane |
+| SB | 3 | 2 | ✅ EL TORNADO |
+| K | 14 | 16 | ✅ Bay County Buccane |
 | W | 1 | 0 | ✅ EL TORNADO |
-| SV | 0 | 3 | ✅ Bay County Buccane |
+| SV | 1 | 3 | ✅ Bay County Buccane |
 | HLD | 0 | 2 | ✅ Bay County Buccane |
-| ERA | 2.19 | 2.57 | ✅ EL TORNADO |
-| WHIP | 0.97 | 1.29 | ✅ EL TORNADO |
+| ERA | 2.70 | 4.02 | ✅ EL TORNADO |
+| WHIP | 1.12 | 1.72 | ✅ EL TORNADO |
 
 ### Southside Hitmen @ Ellz Bellz
-**Cat record:** Ellz Bellz 6-4-1
+**Cat record:** Ellz Bellz 7-3-1
 
 | Cat | Southside Hitmen | Ellz Bellz | Leader |
 |-----|--------|--------|--------|
-| AVG | 0.204 | 0.252 | ✅ Ellz Bellz |
-| R | 11 | 14 | ✅ Ellz Bellz |
-| HR | 5 | 2 | ✅ Southside Hitmen |
-| RBI | 11 | 8 | ✅ Southside Hitmen |
-| SB | 3 | 1 | ✅ Southside Hitmen |
-| K | 22 | 23 | ✅ Ellz Bellz |
+| AVG | 0.203 | 0.255 | ✅ Ellz Bellz |
+| R | 15 | 24 | ✅ Ellz Bellz |
+| HR | 6 | 3 | ✅ Southside Hitmen |
+| RBI | 13 | 15 | ✅ Ellz Bellz |
+| SB | 4 | 1 | ✅ Southside Hitmen |
+| K | 24 | 31 | ✅ Ellz Bellz |
 | W | 1 | 1 | 🟰 Tied |
 | SV | 1 | 3 | ✅ Ellz Bellz |
-| HLD | 1 | 0 | ✅ Southside Hitmen |
-| ERA | 6.86 | 5.06 | ✅ Ellz Bellz |
-| WHIP | 1.71 | 1.22 | ✅ Ellz Bellz |
+| HLD | 2 | 0 | ✅ Southside Hitmen |
+| ERA | 6.75 | 5.00 | ✅ Ellz Bellz |
+| WHIP | 1.68 | 1.26 | ✅ Ellz Bellz |
 
 ### Brian's Optimum Team @ Captain Phillips
-**Cat record:** Captain Phillips 7-2-2
+**Cat record:** Captain Phillips 5-5-1
 
 | Cat | Brian's Optimum Team | Captain Phillips | Leader |
 |-----|--------|--------|--------|
-| AVG | 0.245 | 0.262 | ✅ Captain Phillips |
-| R | 14 | 18 | ✅ Captain Phillips |
-| HR | 6 | 7 | ✅ Captain Phillips |
-| RBI | 18 | 18 | 🟰 Tied |
-| SB | 0 | 2 | ✅ Captain Phillips |
-| K | 18 | 15 | ✅ Brian's Optimum Te |
-| W | 3 | 1 | ✅ Brian's Optimum Te |
+| AVG | 0.255 | 0.254 | ✅ Brian's Optimum Te |
+| R | 18 | 21 | ✅ Captain Phillips |
+| HR | 8 | 7 | ✅ Brian's Optimum Te |
+| RBI | 23 | 22 | ✅ Brian's Optimum Te |
+| SB | 1 | 2 | ✅ Captain Phillips |
+| K | 31 | 19 | ✅ Brian's Optimum Te |
+| W | 3 | 2 | ✅ Brian's Optimum Te |
 | SV | 0 | 1 | ✅ Captain Phillips |
 | HLD | 0 | 0 | 🟰 Tied |
-| ERA | 3.18 | 2.51 | ✅ Captain Phillips |
-| WHIP | 1.24 | 0.91 | ✅ Captain Phillips |
+| ERA | 4.28 | 2.66 | ✅ Captain Phillips |
+| WHIP | 1.24 | 0.84 | ✅ Captain Phillips |
 
 ### Pete's Perfect Team @ Antonio's Astounding Team
-**Cat record:** Antonio's Astounding Team 3-6-2
+**Cat record:** Antonio's Astounding Team 1-8-2
 
 | Cat | Pete's Perfect Team | Antonio's Astounding | Leader |
 |-----|--------|--------|--------|
-| AVG | 0.260 | 0.264 | ✅ Antonio's Astoundi |
-| R | 11 | 12 | ✅ Antonio's Astoundi |
-| HR | 5 | 2 | ✅ Pete's Perfect Tea |
-| RBI | 11 | 9 | ✅ Pete's Perfect Tea |
+| AVG | 0.260 | 0.243 | ✅ Pete's Perfect Tea |
+| R | 17 | 14 | ✅ Pete's Perfect Tea |
+| HR | 7 | 2 | ✅ Pete's Perfect Tea |
+| RBI | 16 | 9 | ✅ Pete's Perfect Tea |
 | SB | 1 | 0 | ✅ Pete's Perfect Tea |
-| K | 27 | 28 | ✅ Antonio's Astoundi |
+| K | 28 | 28 | 🟰 Tied |
 | W | 2 | 2 | 🟰 Tied |
-| SV | 2 | 1 | ✅ Pete's Perfect Tea |
-| HLD | 0 | 0 | 🟰 Tied |
-| ERA | 0.92 | 2.13 | ✅ Pete's Perfect Tea |
-| WHIP | 0.86 | 1.07 | ✅ Pete's Perfect Tea |
+| SV | 3 | 1 | ✅ Pete's Perfect Tea |
+| HLD | 0 | 1 | ✅ Antonio's Astoundi |
+| ERA | 0.87 | 2.02 | ✅ Pete's Perfect Tea |
+| WHIP | 0.82 | 1.12 | ✅ Pete's Perfect Tea |
 
 
 ## Rosters
@@ -121,18 +121,18 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | P | Andres Munoz | RP | Sea |  |
 | P | Aroldis Chapman | RP | Bos |  |
 | C | Drake Baldwin | C | Atl |  |
-| OF | Michael Harris II | CF | Atl | DAY_TO_DAY |
+| BE | Michael Harris II | CF | Atl | DAY_TO_DAY |
 | OF | Andy Pages | CF | LAD |  |
 | P | Abner Uribe | RP | Mil |  |
-| SS | Xavier Edwards | 2B | Mia |  |
+| SS | Xavier Edwards | 2B | Mia | DAY_TO_DAY |
 | P | Tyler Rogers | RP | Tor |  |
-| BE | Ryan O'Hearn | 1B | Pit |  |
-| BE | Jose Soriano | SP | LAA | DAY_TO_DAY |
-| UTIL | Christian Walker | 1B | Hou |  |
+| UTIL | Ryan O'Hearn | 1B | Pit |  |
+| P | Jose Soriano | SP | LAA |  |
+| BE | Christian Walker | 1B | Hou |  |
 | P | Paul Sewald | RP | Ari |  |
-| P | Jhoan Duran | RP | Phi |  |
-| BE | Bryan Reynolds | RF | Pit |  |
-| P | Michael Soroka | SP | Ari |  |
+| BE | Jhoan Duran | RP | Phi |  |
+| OF | Bryan Reynolds | RF | Pit | DAY_TO_DAY |
+| P | Michael Soroka | SP | Ari | DAY_TO_DAY |
 
 ### Ellz Bellz (64-42-15)
 
@@ -147,7 +147,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | IL | Oneil Cruz | CF | Pit | TEN_DAY_DL |
 | P | Gavin Williams | SP | Cle |  |
 | BE | Adley Rutschman | C | Bal | DAY_TO_DAY |
-| BE | Ernie Clement | 3B | Tor |  |
+| BE | Ernie Clement | 3B | Tor | DAY_TO_DAY |
 | P | Louis Varland | RP | Tor |  |
 | BE | JJ Wetherholt | SS | StL |  |
 | P | Parker Messick | SP | Cle |  |
@@ -169,23 +169,23 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | IL | Francisco Lindor | SS | NYM | TEN_DAY_DL |
 | P | Chris Sale | SP | Atl |  |
 | P | Jacob deGrom | SP | Tex |  |
-| UTIL | Josh Naylor | 1B | Sea |  |
+| 1B | Josh Naylor | 1B | Sea |  |
 | P | Cade Smith | RP | Cle |  |
 | C | Hunter Goodman | C | Col |  |
 | BE | Kyle Bradish | SP | Bal |  |
 | P | Ryan Helsley | RP | Bal |  |
 | P | Jacob Misiorowski | SP | Mil |  |
-| 1B | Sal Stewart | 1B | Cin |  |
-| OF | Jordan Walker | RF | StL |  |
-| BE | Wyatt Langford | LF | Tex |  |
+| 3B | Sal Stewart | 1B | Cin |  |
+| BE | Jordan Walker | RF | StL |  |
+| UTIL | Wyatt Langford | LF | Tex |  |
 | P | Tanner Scott | RP | LAD |  |
 | OF | Byron Buxton | CF | Min |  |
 | P | Ranger Suarez | SP | Bos |  |
 | OF | Tyler Soderstrom | LF | Oak |  |
-| 3B | Maikel Garcia | 3B | KC | DAY_TO_DAY |
+| BE | Maikel Garcia | 3B | KC | DAY_TO_DAY |
 | IL | Corey Seager | SS | Tex | SEVEN_DAY_DL |
 | 2B | Nico Hoerner | 2B | ChC |  |
-| BE | Jose Altuve | 2B | Hou |  |
+| OF | Jose Altuve | 2B | Hou |  |
 
 ### The Fellowship of the Skenes (60-52-9)
 
@@ -198,10 +198,10 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | BE | Bryan Woo | SP | Sea |  |
 | SS | CJ Abrams | SS | Wsh |  |
 | IL | Randy Arozarena | LF | Sea | TEN_DAY_DL |
-| P | Kevin Gausman | SP | Tor |  |
+| BE | Kevin Gausman | SP | Tor |  |
 | P | Chase Burns | SP | Cin |  |
 | OF | Mike Trout | DH | LAA | TEN_DAY_DL |
-| BE | Zack Wheeler | SP | Phi |  |
+| P | Zack Wheeler | SP | Phi |  |
 | IL | Shane Bieber | SP | Tor | SIXTY_DAY_DL |
 | P | Bryan Baker | RP | TB |  |
 | C | Dillon Dingler | C | Det |  |
@@ -219,21 +219,21 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 |------|--------|-----|------|--------|
 | SS | Bobby Witt Jr. | SS | KC | DAY_TO_DAY |
 | OF | Jackson Chourio | CF | Mil |  |
-| 2B | Jazz Chisholm Jr. | 2B | NYY | DAY_TO_DAY |
+| 2B | Jazz Chisholm Jr. | 2B | NYY |  |
 | P | Logan Webb | SP | SF |  |
-| IL | Mason Miller | RP | SD | BEREAVEMENT |
+| IL | Mason Miller | RP | SD |  |
 | OF | Jarren Duran | LF | Bos |  |
 | P | Devin Williams | RP | NYM |  |
 | BE | Drew Rasmussen | SP | TB |  |
 | P | Garrett Whitlock | RP | Bos |  |
-| BE | Nathan Eovaldi | SP | Tex |  |
+| P | Nathan Eovaldi | SP | Tex |  |
 | 1B | Miguel Vargas | 3B | ChW |  |
 | BE | Davis Martin | SP | ChW |  |
 | P | Shane McClanahan | SP | TB |  |
 | OF | Wilyer Abreu | RF | Bos |  |
 | IL | Mickey Moniak | RF | Col | TEN_DAY_DL |
 | 3B | Manny Machado | 3B | SD |  |
-| P | Carlos Rodon | SP | NYY |  |
+| BE | Carlos Rodon | SP | NYY |  |
 | P | Dylan Lee | RP | Atl |  |
 | UTIL | Bryce Eldridge | DH | SF |  |
 | P | Jason Adam | RP | SD |  |
@@ -243,23 +243,23 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 
 | Slot | Player | Pos | Team | Status |
 |------|--------|-----|------|--------|
-| BE | Shohei Ohtani | DH | LAD |  |
-| BE | Cristopher Sanchez | SP | Phi |  |
-| 1B | Vladimir Guerrero Jr. | 1B | Tor |  |
+| UTIL | Shohei Ohtani | DH | LAD | DAY_TO_DAY |
+| P | Cristopher Sanchez | SP | Phi |  |
+| 1B | Vladimir Guerrero Jr. | 1B | Tor | DAY_TO_DAY |
 | SS | Mookie Betts | SS | LAD |  |
 | OF | Cody Bellinger | LF | NYY |  |
 | P | Dylan Cease | SP | Tor |  |
 | C | Ben Rice | 1B | NYY |  |
 | P | David Bednar | RP | NYY |  |
-| UTIL | Taylor Ward | LF | Bal |  |
+| BE | Taylor Ward | LF | Bal |  |
 | P | Gerrit Cole | SP | NYY |  |
 | P | Luis Castillo | SP | Sea |  |
 | OF | Brandon Nimmo | LF | Tex |  |
 | IL | Brendan Donovan | 2B | Sea | TEN_DAY_DL |
-| BE | Zac Gallen | SP | Ari |  |
+| P | Zac Gallen | SP | Ari |  |
 | OF | Alec Burleson | LF | StL |  |
 | IL | Munetaka Murakami | 3B | ChW | TEN_DAY_DL |
-| P | Tanner Bibee | SP | Cle |  |
+| BE | Tanner Bibee | SP | Cle |  |
 | 2B | Otto Lopez | SS | Mia |  |
 | BE | Max Muncy | 3B | Oak |  |
 | P | Will Warren | SP | NYY |  |
@@ -272,22 +272,22 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | OF | Juan Soto | RF | NYM |  |
 | P | Yoshinobu Yamamoto | SP | LAD |  |
 | IL | Max Fried | SP | NYY | FIFTEEN_DAY_DL |
-| UTIL | Freddie Freeman | 1B | LAD |  |
+| BE | Freddie Freeman | 1B | LAD |  |
 | C | Shea Langeliers | C | Oak |  |
-| 2B | Ozzie Albies | 2B | Atl |  |
+| UTIL | Ozzie Albies | 2B | Atl |  |
 | P | Emerson Hancock | SP | Sea |  |
-| IL | Erik Sabrowski | RP | Cle | FIFTEEN_DAY_DL |
+| IL | Erik Sabrowski | RP | Cle |  |
 | P | Bryce Elder | SP | Atl |  |
 | 3B | Max Muncy | 3B | LAD |  |
 | SS | Kevin McGonigle | SS | Det |  |
 | P | Braxton Ashcraft | RP | Pit |  |
-| OF | Casey Schmitt | 2B | SF |  |
+| 2B | Casey Schmitt | 2B | SF |  |
 | P | Trey Yesavage | SP | Tor |  |
 | IL | Teoscar Hernandez | RF | LAD | TEN_DAY_DL |
 | P | Gregory Soto | RP | Pit |  |
 | BE | Luke Raley | RF | Sea | DAY_TO_DAY |
 | BE | Samuel Basallo | C | Bal |  |
-| BE | Brandon Marsh | CF | Phi |  |
+| OF | Brandon Marsh | CF | Phi |  |
 | 1B | Willson Contreras | 1B | Bos |  |
 | OF | JJ Bleday | CF | Cin |  |
 | P | Ben Brown | SP | ChC |  |
@@ -344,7 +344,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 
 | Slot | Player | Pos | Team | Status |
 |------|--------|-----|------|--------|
-| OF | Julio Rodriguez | CF | Sea | DAY_TO_DAY |
+| OF | Julio Rodriguez | CF | Sea |  |
 | P | Garrett Crochet | SP | Bos | SIXTY_DAY_DL |
 | P | Hunter Brown | SP | Hou |  |
 | OF | Roman Anthony | RF | Bos | TEN_DAY_DL |
@@ -371,84 +371,84 @@ Where each team ranks across all 11 categories. Bold = league leader, italic = b
 
 | Team | AVG | R | HR | RBI | SB | K | W | SV | HLD | ERA | WHIP |
 |------|------|------|------|------|------|------|------|------|------|------|------|
-| Bay County Buccaneers | 0.266 | 410 | 123 | 381 | 46 | 333 | 21 | 58 | 26 | 3.89 | 1.26 |
-| Ellz Bellz | 0.258 | 383 | 110 | 386 | 66 | 586 | 36 | 21 | 3 | 4.13 | 1.27 |
-| Sh'Dynasty | 0.253 | 378 | 128 | 360 | 75 | 630 | 34 | 40 | 3 | 3.05 | 1.11 |
-| The Fellowship of the  | 0.239 | 367 | 99 | 327 | 73 | 667 | 41 | 27 | 14 | 3.38 | 1.07 |
-| Southside Hitmen | 0.233 | 306 | 89 | 307 | 78 | 735 | 47 | 34 | 20 | 3.75 | 1.20 |
-| Brian's Optimum Team | 0.274 | 389 | 107 | 357 | 44 | 567 | 33 | 14 | 1 | 3.34 | 1.24 |
-| Captain Phillips | 0.251 | 379 | 107 | 325 | 46 | 524 | 37 | 11 | 11 | 3.79 | 1.17 |
-| Antonio's Astounding T | 0.252 | 337 | 98 | 325 | 48 | 437 | 27 | 13 | 17 | 3.75 | 1.19 |
-| EL TORNADO | 0.253 | 343 | 92 | 315 | 52 | 369 | 22 | 20 | 0 | 4.03 | 1.26 |
-| Pete's Perfect Team | 0.249 | 274 | 70 | 233 | 45 | 294 | 15 | 11 | 1 | 3.67 | 1.10 |
+| Bay County Buccaneers | 0.267 | 412 | 124 | 386 | 48 | 342 | 21 | 58 | 26 | 3.93 | 1.28 |
+| Ellz Bellz | 0.258 | 393 | 111 | 393 | 66 | 594 | 36 | 21 | 3 | 4.14 | 1.27 |
+| Sh'Dynasty | 0.255 | 384 | 130 | 367 | 75 | 651 | 36 | 40 | 3 | 3.11 | 1.12 |
+| The Fellowship of the  | 0.239 | 372 | 100 | 329 | 73 | 678 | 41 | 29 | 15 | 3.45 | 1.08 |
+| Southside Hitmen | 0.233 | 310 | 90 | 309 | 79 | 737 | 47 | 34 | 21 | 3.76 | 1.20 |
+| Brian's Optimum Team | 0.274 | 393 | 109 | 362 | 45 | 580 | 33 | 14 | 1 | 3.39 | 1.24 |
+| Captain Phillips | 0.250 | 382 | 107 | 329 | 46 | 528 | 38 | 11 | 11 | 3.79 | 1.17 |
+| Antonio's Astounding T | 0.252 | 339 | 98 | 325 | 48 | 437 | 27 | 13 | 18 | 3.74 | 1.20 |
+| EL TORNADO | 0.253 | 347 | 93 | 321 | 52 | 370 | 22 | 21 | 0 | 4.04 | 1.26 |
+| Pete's Perfect Team | 0.249 | 280 | 72 | 238 | 45 | 295 | 15 | 12 | 1 | 3.65 | 1.10 |
 
 ### Category Leaders
 
 | Cat | Leader | Value | You rank |
 |-----|--------|-------|----------|
 | AVG | Brian's Optimum Team | 0.274 | #7/10 |
-| R | Bay County Buccaneers | 410 | #4/10 |
-| HR | Sh'Dynasty | 128 | #5/10 |
-| RBI | Ellz Bellz | 386 | #7/10 |
-| SB | Southside Hitmen | 78 | #8/10 |
-| K | Southside Hitmen | 735 | #6/10 |
+| R | Bay County Buccaneers | 412 | #5/10 |
+| HR | Sh'Dynasty | 130 | #5/10 |
+| RBI | Ellz Bellz | 393 | #6/10 |
+| SB | Southside Hitmen | 79 | #8/10 |
+| K | Southside Hitmen | 737 | #6/10 |
 | W | Southside Hitmen | 47 | #3/10 |
 | SV | Bay County Buccaneers | 58 | #10/10 |
 | HLD | Bay County Buccaneers | 26 | #5/10 |
-| ERA | Sh'Dynasty | 3.05 | #7/10 |
-| WHIP | The Fellowship of the  | 1.07 | #4/10 |
+| ERA | Sh'Dynasty | 3.11 | #7/10 |
+| WHIP | The Fellowship of the  | 1.08 | #4/10 |
 
 ## Top 50 Free Agents
 
 | Player | Pos | Team | %Owned |
 |--------|-----|------|--------|
-| Kyle Harrison | SP | Mil | 82.7% |
-| Shota Imanaga | SP | ChC | 80.7% |
-| Tyler Glasnow | SP | LAD | 79.3% |
-| Sandy Alcantara | SP | Mia | 76.8% |
-| Cole Ragans | SP | KC | 71.5% |
+| Kyle Harrison | SP | Mil | 83.3% |
+| Shota Imanaga | SP | ChC | 80.6% |
+| Tyler Glasnow | SP | LAD | 78.7% |
+| Sandy Alcantara | SP | Mia | 76.5% |
+| Cole Ragans | SP | KC | 70.9% |
+| George Springer | DH | Tor | 68.3% |
 | Daylen Lile | RF | Wsh | 67.4% |
-| George Springer | DH | Tor | 67.0% |
-| Brent Rooker | DH | Oak | 65.5% |
-| Salvador Perez | C | KC | 64.7% |
-| Justin Wrobleski | RP | LAD | 64.7% |
-| Steven Kwan | LF | Cle | 61.1% |
-| Jung Hoo Lee | CF | SF | 60.9% |
+| Brent Rooker | DH | Oak | 65.3% |
+| Justin Wrobleski | RP | LAD | 64.8% |
+| Salvador Perez | C | KC | 64.5% |
+| Jung Hoo Lee | CF | SF | 61.7% |
+| Steven Kwan | LF | Cle | 60.9% |
+| Reid Detmers | RP | LAA | 60.2% |
 | MacKenzie Gore | SP | Tex | 59.6% |
-| Reid Detmers | RP | LAA | 59.1% |
-| Nick Pivetta | SP | SD | 58.7% |
-| Eury Perez | SP | Mia | 57.4% |
-| Michael Wacha | SP | KC | 56.7% |
-| Spencer Arrighetti | SP | Hou | 56.4% |
+| Nick Pivetta | SP | SD | 58.5% |
+| Spencer Arrighetti | SP | Hou | 58.1% |
+| Eury Perez | SP | Mia | 57.5% |
 | Willy Adames | SS | SF | 55.8% |
-| Chase DeLauter | RF | Cle | 55.6% |
+| Michael Wacha | SP | KC | 55.7% |
 | Nick Martinez | SP | TB | 54.5% |
-| Jacob Wilson | SS | Oak | 52.1% |
-| Gleyber Torres | 2B | Det | 51.5% |
-| Vinnie Pasquantino | 1B | KC | 50.2% |
-| Eduardo Rodriguez | SP | Ari | 48.3% |
-| Foster Griffin | SP | Wsh | 48.0% |
-| Eugenio Suarez | 3B | Cin | 47.3% |
-| Luke Keaschall | 2B | Min | 46.8% |
-| Hunter Greene | SP | Cin | 46.4% |
-| Payton Tolle | SP | Bos | 45.5% |
-| Josh Jung | 3B | Tex | 44.6% |
-| Taj Bradley | SP | Min | 43.8% |
-| Andrew Abbott | SP | Cin | 43.4% |
-| Ildemaro Vargas | 2B | Ari | 42.3% |
-| Marcus Semien | 2B | NYM | 42.1% |
-| Yainer Diaz | C | Hou | 41.6% |
-| Jeff Hoffman | RP | Tor | 41.4% |
+| Chase DeLauter | RF | Cle | 54.3% |
+| Jacob Wilson | SS | Oak | 52.2% |
+| Gleyber Torres | 2B | Det | 51.0% |
+| Vinnie Pasquantino | 1B | KC | 49.9% |
+| Foster Griffin | SP | Wsh | 47.6% |
+| Eduardo Rodriguez | SP | Ari | 47.5% |
+| Eugenio Suarez | 3B | Cin | 47.0% |
+| Luke Keaschall | 2B | Min | 46.9% |
+| Hunter Greene | SP | Cin | 46.8% |
+| Payton Tolle | SP | Bos | 45.1% |
+| Taj Bradley | SP | Min | 44.9% |
+| Josh Jung | 3B | Tex | 44.2% |
+| Andrew Abbott | SP | Cin | 43.7% |
+| Marcus Semien | 2B | NYM | 42.0% |
+| Ildemaro Vargas | 2B | Ari | 41.8% |
+| Yainer Diaz | C | Hou | 41.4% |
+| Jeff Hoffman | RP | Tor | 41.3% |
 | Matthew Boyd | SP | ChC | 41.3% |
-| Jonathan Aranda | 1B | TB | 41.3% |
+| Jonathan Aranda | 1B | TB | 41.1% |
 | Pete Fairbanks | RP | Mia | 40.7% |
-| Aaron Nola | SP | Phi | 39.5% |
-| Jo Adell | CF | LAA | 38.7% |
-| Dustin May | SP | StL | 38.1% |
+| Dustin May | SP | StL | 39.6% |
+| Aaron Nola | SP | Phi | 38.5% |
+| Jo Adell | CF | LAA | 38.5% |
+| Roki Sasaki | SP | LAD | 38.4% |
 | Bryson Stott | 2B | Phi | 38.0% |
-| Alejandro Kirk | C | Tor | 37.4% |
-| Ryan Weathers | SP | NYY | 37.3% |
-| Chandler Simpson | CF | TB | 36.9% |
-| Roki Sasaki | SP | LAD | 36.8% |
-| Brayan Rocchio | SS | Cle | 36.5% |
-| Daniel Palencia | RP | ChC | 36.4% |
+| Alejandro Kirk | C | Tor | 37.0% |
+| Chandler Simpson | CF | TB | 36.5% |
+| TJ Rumfield | 3B | Col | 36.5% |
+| Gabriel Moreno | C | Ari | 36.1% |
+| Brayan Rocchio | SS | Cle | 36.0% |
