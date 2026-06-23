@@ -1,35 +1,35 @@
 # Data Pipeline Status
 
-_Generated: 2026-06-22T04:30 ET — db latest pull: 2026-06-21_
+_Generated: 2026-06-23T04:30 ET — db latest pull: 2026-06-22_
 
 ## Row counts
 
 - **db_path**: /Users/claudeserver/fantasy-bot/fantasy.db
-- **latest_pull**: 2026-06-21
+- **latest_pull**: 2026-06-22
 - **earliest_pull**: 2026-03-26
-- **players**: 1247
-- **hitting_stats**: 41708
-- **pitching_stats**: 48823
-- **statcast**: 20028
-- **rosters**: 7266
-- **standings**: 350
-- **matchups**: 2435
-- **fa_pool**: 7003
-- **pull_log**: 39
+- **players**: 1250
+- **hitting_stats**: 42280
+- **pitching_stats**: 49526
+- **statcast**: 20646
+- **rosters**: 7472
+- **standings**: 360
+- **matchups**: 2490
+- **fa_pool**: 7203
+- **pull_log**: 40
 
 ## Last pull log
 
-- id: 39
-- date_pulled: 2026-06-22
+- id: 40
+- date_pulled: 2026-06-23
 - mode: nightly
-- start_ts: 2026-06-22T03:30:01.004843
-- end_ts: 2026-06-22T03:57:07.557758
-- duration_sec: 1626.552915
-- players_tracked: 1247
+- start_ts: 2026-06-23T03:30:01.102721
+- end_ts: 2026-06-23T03:58:13.000232
+- duration_sec: 1691.897511
+- players_tracked: 1250
 - new_players: 0
 - hit_rows: 572
-- pit_rows: 704
-- statcast_rows: 620
+- pit_rows: 703
+- statcast_rows: 618
 - roster_rows: 206
 - standings_rows: 10
 - matchup_rows: 55
