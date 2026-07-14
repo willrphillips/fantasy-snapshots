@@ -1,6 +1,6 @@
 # Trade Targets — Other Teams' Power Bats
 
-_Generated: 2026-07-13T04:30 ET — db latest pull: 2026-07-12_
+_Generated: 2026-07-14T04:30 ET — db latest pull: 2026-07-13_
 
 ## Antonio's Astounding Team
 
@@ -179,6 +179,6 @@ _Generated: 2026-07-13T04:30 ET — db latest pull: 2026-07-12_
 | Bryan Baker | P | P,RP,BE,IL | ACTIVE | TB | None | None | None | None | None | None |
 | Bryan Woo | BE | P,SP,BE,IL | ACTIVE | SEA | None | None | None | None | None | None |
 | Bryce Miller | BE | P,SP,BE,IL | ACTIVE | SEA | None | None | None | None | None | None |
-| Chase Burns | P | P,SP,BE,IL | ACTIVE | CIN | None | None | None | None | None | None |
+| Chase Burns | P | P,SP,BE,IL | DAY_TO_DAY | CIN | None | None | None | None | None | None |
 | Foster Griffin | P | P,SP,BE,IL | ACTIVE | WSH | None | None | None | None | None | None |
 
