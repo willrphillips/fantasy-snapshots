@@ -1,5 +1,5 @@
 # Captain Phillips League Snapshot
-_Generated: 2026-07-14 03:00 _
+_Generated: 2026-07-15 03:00 _
 _Current matchup period: 15_
 
 ## Standings
@@ -113,7 +113,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 
 | Slot | Player | Pos | Team | Status |
 |------|--------|-----|------|--------|
-| 3B | Junior Caminero | 3B | TB |  |
+| 3B | Junior Caminero | 3B | TB | DAY_TO_DAY |
 | IL | Nick Kurtz | 1B | Oak | TEN_DAY_DL |
 | 2B | Ketel Marte | 2B | Ari |  |
 | OF | Pete Crow-Armstrong | CF | ChC |  |
@@ -294,7 +294,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | OF | Juan Soto | RF | NYM |  |
 | P | Yoshinobu Yamamoto | SP | LAD |  |
 | IL | Max Fried | SP | NYY | FIFTEEN_DAY_DL |
-| UTIL | Freddie Freeman | 1B | LAD |  |
+| 1B | Freddie Freeman | 1B | LAD |  |
 | C | Shea Langeliers | C | Oak |  |
 | BE | Ozzie Albies | 2B | Atl |  |
 | P | Emerson Hancock | SP | Sea | DAY_TO_DAY |
@@ -309,7 +309,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | BE | Luke Raley | RF | Sea |  |
 | BE | Samuel Basallo | C | Bal |  |
 | OF | Brandon Marsh | CF | Phi |  |
-| 1B | Willson Contreras | 1B | Bos | SUSPENSION |
+| UTIL | Willson Contreras | 1B | Bos | SUSPENSION |
 | OF | JJ Bleday | CF | Cin |  |
 | IL | Ben Brown | SP | ChC | FIFTEEN_DAY_DL |
 
@@ -399,53 +399,53 @@ Where each team ranks across all 11 categories. Bold = league leader, italic = b
 
 | Player | Pos | Team | %Owned |
 |--------|-----|------|--------|
-| Kevin Gausman | SP | Tor | 89.6% |
-| Adley Rutschman | C | Bal | 82.7% |
+| Kevin Gausman | SP | Tor | 89.5% |
+| Adley Rutschman | C | Bal | 82.8% |
 | Geraldo Perdomo | SS | Ari | 80.3% |
-| Shota Imanaga | SP | ChC | 78.4% |
-| Tyler Glasnow | SP | LAD | 75.9% |
-| Taj Bradley | SP | Min | 72.2% |
-| Christian Walker | 1B | Hou | 69.1% |
-| Davis Martin | SP | ChW | 68.9% |
-| Maikel Garcia | 3B | KC | 68.0% |
-| George Springer | DH | Tor | 62.8% |
-| Nick Martinez | SP | TB | 61.8% |
+| Shota Imanaga | SP | ChC | 78.5% |
+| Tyler Glasnow | SP | LAD | 76.0% |
+| Taj Bradley | SP | Min | 72.8% |
+| Christian Walker | 1B | Hou | 69.2% |
+| Davis Martin | SP | ChW | 68.8% |
+| Maikel Garcia | 3B | KC | 67.9% |
+| George Springer | DH | Tor | 62.7% |
+| Nick Martinez | SP | TB | 62.2% |
 | Jung Hoo Lee | CF | SF | 61.2% |
-| Salvador Perez | C | KC | 60.7% |
+| Salvador Perez | C | KC | 60.6% |
 | MacKenzie Gore | SP | Tex | 58.8% |
 | Corey Seager | SS | Tex | 58.3% |
-| Michael Wacha | SP | KC | 57.1% |
+| Michael Wacha | SP | KC | 57.3% |
 | Daylen Lile | RF | Wsh | 57.1% |
-| Steven Kwan | LF | Cle | 56.2% |
-| Shane McClanahan | SP | TB | 55.2% |
+| Steven Kwan | LF | Cle | 56.1% |
+| Shane McClanahan | SP | TB | 55.8% |
 | Nick Pivetta | SP | SD | 55.0% |
 | Matt Chapman | 3B | SF | 54.0% |
-| Cole Ragans | SP | KC | 52.5% |
-| Troy Melton | RP | Det | 52.1% |
-| Michael Soroka | SP | Ari | 51.4% |
-| Willy Adames | SS | SF | 50.7% |
+| Troy Melton | RP | Det | 53.1% |
+| Cole Ragans | SP | KC | 52.3% |
+| Michael Soroka | SP | Ari | 51.7% |
+| Willy Adames | SS | SF | 50.8% |
 | Payton Tolle | SP | Bos | 50.5% |
-| Matthew Boyd | SP | ChC | 50.3% |
-| Griffin Jax | RP | TB | 49.2% |
-| Brent Rooker | DH | Oak | 48.9% |
+| Matthew Boyd | SP | ChC | 50.2% |
+| Griffin Jax | RP | TB | 49.6% |
+| Brent Rooker | DH | Oak | 48.6% |
+| Jonathan Aranda | 1B | TB | 47.5% |
 | Gleyber Torres | 2B | Det | 47.3% |
-| Reid Detmers | RP | LAA | 47.2% |
-| Jonathan Aranda | 1B | TB | 47.0% |
-| Vinnie Pasquantino | 1B | KC | 46.3% |
-| Luke Keaschall | 2B | Min | 45.8% |
-| Casey Mize | SP | Det | 45.3% |
+| Reid Detmers | RP | LAA | 47.3% |
+| Vinnie Pasquantino | 1B | KC | 46.1% |
+| Luke Keaschall | 2B | Min | 45.9% |
+| Casey Mize | SP | Det | 45.7% |
 | Jacob Wilson | SS | Oak | 45.2% |
-| Trevor Rogers | SP | Bal | 43.7% |
-| Brooks Lee | SS | Min | 43.5% |
-| Andrew Abbott | SP | Cin | 43.0% |
-| Pete Fairbanks | RP | Mia | 41.2% |
-| Yainer Diaz | C | Hou | 41.1% |
+| Trevor Rogers | SP | Bal | 43.9% |
+| Brooks Lee | SS | Min | 43.7% |
+| Andrew Abbott | SP | Cin | 42.9% |
+| Pete Fairbanks | RP | Mia | 41.3% |
+| Yainer Diaz | C | Hou | 41.0% |
 | Eugenio Suarez | 3B | Cin | 41.0% |
+| Bryson Stott | 2B | Phi | 40.4% |
 | Jeff Hoffman | RP | Tor | 40.3% |
-| Bryson Stott | 2B | Phi | 40.2% |
 | Ryan Helsley | RP | Bal | 40.2% |
-| Gabriel Moreno | C | Ari | 39.4% |
-| Jac Caglianone | RF | KC | 38.8% |
-| Isaac Paredes | 3B | Hou | 38.0% |
-| Jack Flaherty | SP | Det | 37.8% |
+| Gabriel Moreno | C | Ari | 39.6% |
+| Jac Caglianone | RF | KC | 38.9% |
+| Isaac Paredes | 3B | Hou | 38.1% |
+| Jack Flaherty | SP | Det | 37.9% |
 | Aaron Nola | SP | Phi | 37.3% |
