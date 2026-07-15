@@ -1,56 +1,56 @@
 # Regression Watch
 
-_Generated: 2026-07-14T04:30 ET — db latest pull: 2026-07-13_
+_Generated: 2026-07-15T04:30 ET — db latest pull: 2026-07-14_
 
 ## Hitters — biggest xwOBA-wOBA gaps (positive = expect improvement)
 
 | name | team | primary_pos | woba | xwoba | gap | pa | avg | hr | ops |
 |---|---|---|---|---|---|---|---|---|---|
-| Austin Wells | NYY | C | 0.227 | 0.283 | 0.056 | 216 | 0.147 | 6 | 0.488 |
-| Brandon Nimmo | TEX | RF | 0.326 | 0.381 | 0.055 | 384 | 0.263 | 9 | 0.756 |
-| Cam Smith | HOU | RF | 0.293 | 0.34 | 0.047 | 361 | 0.218 | 12 | 0.669 |
+| Austin Wells | NYY | C | 0.229 | 0.285 | 0.056 | 216 | 0.147 | 6 | 0.488 |
+| Brandon Nimmo | TEX | RF | 0.33 | 0.379 | 0.049 | 384 | 0.263 | 9 | 0.756 |
+| Cam Smith | HOU | RF | 0.295 | 0.34 | 0.045 | 361 | 0.218 | 12 | 0.669 |
 | Edouard Julien | COL | None | 0.296 | 0.341 | 0.045 | 247 | 0.222 | 3 | 0.639 |
 | Marcus Semien | NYM | 2B | 0.271 | 0.316 | 0.045 | 318 | 0.214 | 9 | 0.612 |
 | Corey Seager | TEX | SS | 0.293 | 0.336 | 0.043 | 219 | 0.182 | 10 | 0.666 |
-| Miguel Vargas | CWS | 3B | 0.364 | 0.403 | 0.039 | 409 | 0.245 | 21 | 0.848 |
-| Matt Vierling | DET | None | 0.265 | 0.303 | 0.038 | 262 | 0.206 | 5 | 0.597 |
-| Bobby Witt Jr. | KC | SS | 0.352 | 0.388 | 0.036 | 403 | 0.286 | 13 | 0.816 |
-| Yordan Alvarez | HOU | DH | 0.438 | 0.474 | 0.036 | 420 | 0.318 | 31 | 1.059 |
-| Mike Trout | LAA | CF | 0.373 | 0.409 | 0.036 | 354 | 0.237 | 18 | 0.863 |
-| Lawrence Butler | ATH | RF | 0.275 | 0.311 | 0.036 | 274 | 0.196 | 5 | 0.592 |
-| Marcell Ozuna | PIT | DH | 0.273 | 0.309 | 0.036 | 250 | 0.205 | 8 | 0.623 |
-| Alec Burleson | STL | 1B | 0.346 | 0.381 | 0.035 | 398 | 0.273 | 15 | 0.805 |
+| Matt Vierling | DET | None | 0.262 | 0.3 | 0.038 | 262 | 0.206 | 5 | 0.597 |
+| Bobby Witt Jr. | KC | SS | 0.353 | 0.389 | 0.036 | 403 | 0.286 | 13 | 0.816 |
+| Alec Burleson | STL | 1B | 0.347 | 0.383 | 0.036 | 398 | 0.273 | 15 | 0.805 |
+| Lawrence Butler | ATH | RF | 0.271 | 0.307 | 0.036 | 274 | 0.196 | 5 | 0.592 |
+| Miguel Vargas | CWS | 3B | 0.366 | 0.401 | 0.035 | 409 | 0.245 | 21 | 0.848 |
+| Drake Baldwin | ATL | C | 0.344 | 0.379 | 0.035 | 319 | 0.254 | 15 | 0.782 |
+| Yordan Alvarez | HOU | DH | 0.439 | 0.474 | 0.035 | 420 | 0.318 | 31 | 1.059 |
+| Mike Trout | LAA | CF | 0.374 | 0.409 | 0.035 | 354 | 0.237 | 18 | 0.863 |
+| Nico Hoerner | CHC | 2B | 0.284 | 0.318 | 0.034 | 420 | 0.233 | 4 | 0.631 |
 | Matt McLain | CIN | 2B | 0.283 | 0.317 | 0.034 | 309 | 0.19 | 8 | 0.621 |
-| Nico Hoerner | CHC | 2B | 0.287 | 0.319 | 0.032 | 420 | 0.233 | 4 | 0.631 |
-| Bo Bichette | NYM | 3B | 0.298 | 0.33 | 0.032 | 413 | 0.255 | 10 | 0.676 |
-| Drake Baldwin | ATL | C | 0.342 | 0.373 | 0.031 | 319 | 0.254 | 15 | 0.782 |
-| J.T. Realmuto | PHI | C | 0.277 | 0.308 | 0.031 | 257 | 0.206 | 7 | 0.634 |
-| Vladimir Guerrero Jr. | TOR | 1B | 0.314 | 0.344 | 0.03 | 387 | 0.262 | 6 | 0.703 |
+| Marcell Ozuna | PIT | DH | 0.279 | 0.313 | 0.034 | 250 | 0.205 | 8 | 0.623 |
+| Bo Bichette | NYM | 3B | 0.297 | 0.33 | 0.033 | 413 | 0.255 | 10 | 0.676 |
+| Ketel Marte | AZ | 2B | 0.332 | 0.364 | 0.032 | 405 | 0.256 | 17 | 0.772 |
+| Vladimir Guerrero Jr. | TOR | 1B | 0.312 | 0.343 | 0.031 | 387 | 0.262 | 6 | 0.703 |
 
 ## Hitters — biggest wOBA-xwOBA gaps (negative = expect cooling)
 
 | name | team | primary_pos | woba | xwoba | gap | pa | avg | hr | ops |
 |---|---|---|---|---|---|---|---|---|---|
-| Mickey Moniak | COL | LF | 0.387 | 0.316 | -0.071 | 227 | 0.278 | 15 | 0.9 |
+| Mickey Moniak | COL | LF | 0.38 | 0.312 | -0.068 | 227 | 0.278 | 15 | 0.9 |
 | Zack Gelof | ATH | CF | 0.348 | 0.289 | -0.059 | 247 | 0.273 | 11 | 0.803 |
-| Keibert Ruiz | WSH | C | 0.333 | 0.274 | -0.059 | 212 | 0.275 | 7 | 0.767 |
-| TJ Rumfield | COL | 1B | 0.377 | 0.323 | -0.054 | 384 | 0.296 | 12 | 0.855 |
-| Tristan Peters | CWS | None | 0.363 | 0.309 | -0.054 | 275 | 0.301 | 6 | 0.832 |
-| Jake McCarthy | COL | None | 0.365 | 0.312 | -0.053 | 307 | 0.301 | 10 | 0.863 |
-| Ernie Clement | TOR | 2B | 0.325 | 0.275 | -0.05 | 374 | 0.296 | 8 | 0.751 |
-| Ceddanne Rafaela | BOS | CF | 0.335 | 0.287 | -0.048 | 368 | 0.281 | 8 | 0.761 |
-| Luis Arraez | SF | 2B | 0.357 | 0.309 | -0.048 | 398 | 0.33 | 4 | 0.828 |
+| Jake McCarthy | COL | None | 0.369 | 0.314 | -0.055 | 307 | 0.301 | 10 | 0.863 |
+| Keibert Ruiz | WSH | C | 0.329 | 0.274 | -0.055 | 212 | 0.275 | 7 | 0.767 |
+| Tristan Peters | CWS | None | 0.361 | 0.308 | -0.053 | 275 | 0.301 | 6 | 0.832 |
+| Ernie Clement | TOR | 2B | 0.326 | 0.274 | -0.052 | 374 | 0.296 | 8 | 0.751 |
+| TJ Rumfield | COL | 1B | 0.374 | 0.323 | -0.051 | 384 | 0.296 | 12 | 0.855 |
+| Ceddanne Rafaela | BOS | CF | 0.333 | 0.286 | -0.047 | 368 | 0.281 | 8 | 0.761 |
+| Luis Arraez | SF | 2B | 0.355 | 0.308 | -0.047 | 398 | 0.33 | 4 | 0.828 |
 | Liam Hicks | MIA | C | 0.357 | 0.31 | -0.047 | 342 | 0.29 | 13 | 0.822 |
-| Brooks Lee | MIN | SS | 0.323 | 0.278 | -0.045 | 373 | 0.249 | 14 | 0.737 |
-| Jake Mangum | PIT | None | 0.332 | 0.29 | -0.042 | 253 | 0.31 | 2 | 0.753 |
-| Otto Lopez | MIA | SS | 0.38 | 0.339 | -0.041 | 410 | 0.334 | 9 | 0.873 |
-| Ozzie Albies | ATL | 2B | 0.326 | 0.291 | -0.035 | 410 | 0.267 | 14 | 0.759 |
-| Chase Meidroth | CWS | 2B | 0.325 | 0.29 | -0.035 | 392 | 0.269 | 7 | 0.72 |
-| José Caballero | NYY | SS | 0.307 | 0.272 | -0.035 | 294 | 0.25 | 10 | 0.7 |
-| Paul Goldschmidt | NYY | None | 0.348 | 0.313 | -0.035 | 262 | 0.258 | 15 | 0.809 |
-| Ty France | SD | None | 0.348 | 0.313 | -0.035 | 229 | 0.267 | 11 | 0.815 |
-| Brandon Marsh | PHI | LF | 0.358 | 0.324 | -0.034 | 363 | 0.301 | 15 | 0.829 |
-| Javier Sanoja | MIA | None | 0.311 | 0.277 | -0.034 | 244 | 0.272 | 3 | 0.717 |
+| Jake Mangum | PIT | None | 0.335 | 0.291 | -0.044 | 253 | 0.31 | 2 | 0.753 |
+| Brooks Lee | MIN | SS | 0.322 | 0.279 | -0.043 | 373 | 0.249 | 14 | 0.737 |
+| Otto Lopez | MIA | SS | 0.376 | 0.336 | -0.04 | 410 | 0.334 | 9 | 0.873 |
+| Javier Sanoja | MIA | None | 0.313 | 0.275 | -0.038 | 244 | 0.272 | 3 | 0.717 |
+| José Caballero | NYY | SS | 0.306 | 0.27 | -0.036 | 294 | 0.25 | 10 | 0.7 |
+| Ozzie Albies | ATL | 2B | 0.327 | 0.292 | -0.035 | 410 | 0.267 | 14 | 0.759 |
+| Chase Meidroth | CWS | 2B | 0.322 | 0.288 | -0.034 | 392 | 0.269 | 7 | 0.72 |
+| Brandon Marsh | PHI | LF | 0.356 | 0.322 | -0.034 | 363 | 0.301 | 15 | 0.829 |
+| Hunter Goodman | COL | C | 0.366 | 0.334 | -0.032 | 376 | 0.254 | 27 | 0.862 |
+| Paul Goldschmidt | NYY | None | 0.348 | 0.316 | -0.032 | 262 | 0.258 | 15 | 0.809 |
 
 ## Pitchers — biggest ERA-FIP gaps (positive = unlucky, expect improvement)
 
