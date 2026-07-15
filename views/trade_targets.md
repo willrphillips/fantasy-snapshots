@@ -1,6 +1,6 @@
 # Trade Targets — Other Teams' Power Bats
 
-_Generated: 2026-07-14T04:30 ET — db latest pull: 2026-07-13_
+_Generated: 2026-07-15T04:30 ET — db latest pull: 2026-07-14_
 
 ## Antonio's Astounding Team
 
@@ -26,7 +26,7 @@ _Generated: 2026-07-14T04:30 ET — db latest pull: 2026-07-13_
 
 | player_name | slot | eligible_pos | status | mlb_team | avg | hr | rbi | r | sb | ops |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Junior Caminero | 3B | 3B,1B/3B,IF,UTIL,BE,IL | ACTIVE | TB | 0.279 | 28 | 59 | 61 | 2 | 0.927 |
+| Junior Caminero | 3B | 3B,1B/3B,IF,UTIL,BE,IL | DAY_TO_DAY | TB | 0.279 | 28 | 59 | 61 | 2 | 0.927 |
 | Pete Crow-Armstrong | OF | CF,OF,UTIL,BE,IL | ACTIVE | CHC | 0.291 | 21 | 53 | 63 | 24 | 0.917 |
 | Nick Kurtz | IL | 1B,1B/3B,IF,UTIL,BE,IL | TEN_DAY_DL | ATH | 0.266 | 20 | 66 | 61 | 7 | 0.902 |
 | Jake Bauers | 1B | 1B,1B/3B,IF,LF,OF,UTIL,BE,IL,RF | ACTIVE | MIL | 0.268 | 18 | 59 | 56 | 6 | 0.881 |
