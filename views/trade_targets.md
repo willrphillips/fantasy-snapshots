@@ -1,6 +1,6 @@
 # Trade Targets — Other Teams' Power Bats
 
-_Generated: 2026-07-15T04:30 ET — db latest pull: 2026-07-14_
+_Generated: 2026-07-16T04:30 ET — db latest pull: 2026-07-15_
 
 ## Antonio's Astounding Team
 
@@ -40,7 +40,7 @@ _Generated: 2026-07-15T04:30 ET — db latest pull: 2026-07-14_
 | Xavier Edwards | SS | 2B,SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | MIA | 0.303 | 6 | 37 | 50 | 13 | 0.81 |
 | Abner Uribe | BE | P,RP,BE,IL | ACTIVE | MIL | None | None | None | None | None | None |
 | Andres Munoz | BE | P,RP,BE,IL | ACTIVE | SEA | None | None | None | None | None | None |
-| Aroldis Chapman | P | P,RP,BE,IL | ACTIVE | BOS | None | None | None | None | None | None |
+| Aroldis Chapman | BE | P,RP,BE,IL | ACTIVE | BOS | None | None | None | None | None | None |
 
 ## Brian's Optimum Team
 
@@ -131,13 +131,13 @@ _Generated: 2026-07-15T04:30 ET — db latest pull: 2026-07-14_
 | Jordan Walker | OF | RF,OF,UTIL,BE,IL | ACTIVE | STL | 0.294 | 22 | 74 | 62 | 13 | 0.886 |
 | Sal Stewart | 3B | 1B,3B,1B/3B,IF,UTIL,BE,IL | ACTIVE | CIN | 0.256 | 19 | 65 | 51 | 11 | 0.812 |
 | Aaron Judge | IL | RF,OF,DH,UTIL,BE,IL | TEN_DAY_DL | NYY | 0.254 | 17 | 38 | 43 | 5 | 0.927 |
-| Gunnar Henderson | SS | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | BAL | 0.224 | 17 | 43 | 55 | 7 | 0.697 |
+| Gunnar Henderson | UTIL | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | BAL | 0.224 | 17 | 43 | 55 | 7 | 0.697 |
 | Tyler Soderstrom | OF | 1B,1B/3B,IF,LF,OF,UTIL,BE,IL | ACTIVE | ATH | 0.241 | 14 | 42 | 43 | 1 | 0.808 |
-| Jose Altuve | UTIL | 2B,2B/SS,IF,LF,OF,DH,UTIL,BE,IL | ACTIVE | HOU | 0.235 | 11 | 27 | 45 | 2 | 0.711 |
+| Jose Altuve | BE | 2B,2B/SS,IF,LF,OF,DH,UTIL,BE,IL | ACTIVE | HOU | 0.235 | 11 | 27 | 45 | 2 | 0.711 |
 | Wyatt Langford | OF | LF,CF,OF,UTIL,BE,IL | ACTIVE | TEX | 0.275 | 9 | 22 | 26 | 6 | 0.819 |
 | Bryce Eldridge | BE | DH,UTIL,BE,IL,1B,1B/3B,IF | ACTIVE | SF | 0.271 | 8 | 20 | 28 | 0 | 0.832 |
 | Josh Naylor | 1B | 1B,1B/3B,IF,DH,UTIL,BE,IL | ACTIVE | SEA | 0.252 | 8 | 36 | 35 | 18 | 0.671 |
-| Francisco Lindor | BE | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | NYM | 0.216 | 5 | 12 | 22 | 2 | 0.671 |
+| Francisco Lindor | SS | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | NYM | 0.216 | 5 | 12 | 22 | 2 | 0.671 |
 | Nico Hoerner | 2B | 2B,2B/SS,IF,UTIL,BE,IL,SS | ACTIVE | CHC | 0.233 | 4 | 38 | 37 | 14 | 0.631 |
 | Bryan Abreu | BE | P,RP,BE,IL | ACTIVE | HOU | None | None | None | None | None | None |
 | Cade Smith | P | P,RP,BE,IL | ACTIVE | CLE | None | None | None | None | None | None |
@@ -156,7 +156,7 @@ _Generated: 2026-07-15T04:30 ET — db latest pull: 2026-07-14_
 | Ivan Herrera | C | DH,UTIL,BE,IL,C | ACTIVE | STL | 0.249 | 11 | 40 | 60 | 5 | 0.771 |
 | Wilyer Abreu | OF | RF,OF,UTIL,BE,IL | ACTIVE | BOS | 0.261 | 11 | 43 | 45 | 6 | 0.76 |
 | Carlos Rodon | IL | P,SP,BE,IL | FIFTEEN_DAY_DL | NYY | None | None | None | None | None | None |
-| Devin Williams | P | P,RP,BE,IL | ACTIVE | NYM | None | None | None | None | None | None |
+| Devin Williams | BE | P,RP,BE,IL | ACTIVE | NYM | None | None | None | None | None | None |
 | Drew Rasmussen | P | P,SP,BE,IL | ACTIVE | TB | None | None | None | None | None | None |
 | Dylan Lee | P | P,RP,BE,IL | ACTIVE | ATL | None | None | None | None | None | None |
 | Eury Perez | BE | P,SP,BE,IL | ACTIVE | MIA | None | None | None | None | None | None |
