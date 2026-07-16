@@ -1,6 +1,6 @@
 # Anomaly Digest — Standout Game Lines
 
-_Generated: 2026-07-15T04:45 ET — game day 2026-07-14 (delta vs 2026-07-13)._
+_Generated: 2026-07-16T04:45 ET — game day 2026-07-15 (delta vs 2026-07-14)._
 
 ## Hitting
 
