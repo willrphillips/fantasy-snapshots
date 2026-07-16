@@ -1,6 +1,6 @@
 # Regression Watch
 
-_Generated: 2026-07-15T04:30 ET — db latest pull: 2026-07-14_
+_Generated: 2026-07-16T04:30 ET — db latest pull: 2026-07-15_
 
 ## Hitters — biggest xwOBA-wOBA gaps (positive = expect improvement)
 
@@ -45,9 +45,9 @@ _Generated: 2026-07-15T04:30 ET — db latest pull: 2026-07-14_
 | Brooks Lee | MIN | SS | 0.322 | 0.279 | -0.043 | 373 | 0.249 | 14 | 0.737 |
 | Otto Lopez | MIA | SS | 0.376 | 0.336 | -0.04 | 410 | 0.334 | 9 | 0.873 |
 | Javier Sanoja | MIA | None | 0.313 | 0.275 | -0.038 | 244 | 0.272 | 3 | 0.717 |
-| José Caballero | NYY | SS | 0.306 | 0.27 | -0.036 | 294 | 0.25 | 10 | 0.7 |
 | Ozzie Albies | ATL | 2B | 0.327 | 0.292 | -0.035 | 410 | 0.267 | 14 | 0.759 |
-| Chase Meidroth | CWS | 2B | 0.322 | 0.288 | -0.034 | 392 | 0.269 | 7 | 0.72 |
+| Chase Meidroth | CWS | 2B | 0.322 | 0.287 | -0.035 | 392 | 0.269 | 7 | 0.72 |
+| José Caballero | NYY | SS | 0.306 | 0.271 | -0.035 | 294 | 0.25 | 10 | 0.7 |
 | Brandon Marsh | PHI | LF | 0.356 | 0.322 | -0.034 | 363 | 0.301 | 15 | 0.829 |
 | Hunter Goodman | COL | C | 0.366 | 0.334 | -0.032 | 376 | 0.254 | 27 | 0.862 |
 | Paul Goldschmidt | NYY | None | 0.348 | 0.316 | -0.032 | 262 | 0.258 | 15 | 0.809 |
