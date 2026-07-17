@@ -1,16 +1,16 @@
 # Trade Targets — Other Teams' Power Bats
 
-_Generated: 2026-07-16T04:30 ET — db latest pull: 2026-07-15_
+_Generated: 2026-07-17T04:30 ET — db latest pull: 2026-07-16_
 
 ## Antonio's Astounding Team
 
 | player_name | slot | eligible_pos | status | mlb_team | avg | hr | rbi | r | sb | ops |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Kyle Schwarber | UTIL | DH,UTIL,BE,IL | ACTIVE | PHI | 0.254 | 32 | 59 | 57 | 2 | 0.927 |
+| Kyle Schwarber | UTIL | DH,UTIL,BE,IL | ACTIVE | PHI | 0.254 | 32 | 59 | 57 | 2 | 0.925 |
 | James Wood | OF | LF,OF,DH,UTIL,BE,IL,RF | ACTIVE | WSH | 0.279 | 28 | 64 | 89 | 15 | 0.985 |
 | Kazuma Okamoto | 3B | 3B,1B/3B,IF,UTIL,BE,IL | ACTIVE | TOR | 0.239 | 22 | 62 | 50 | 0 | 0.788 |
 | Michael Busch | 1B | 1B,1B/3B,IF,UTIL,BE,IL | ACTIVE | CHC | 0.239 | 11 | 49 | 40 | 2 | 0.763 |
-| Bo Bichette | SS | SS,2B/SS,IF,UTIL,BE,IL,3B,1B/3B | DAY_TO_DAY | NYM | 0.255 | 10 | 51 | 48 | 1 | 0.676 |
+| Bo Bichette | SS | SS,2B/SS,IF,UTIL,BE,IL,3B,1B/3B | ACTIVE | NYM | 0.253 | 10 | 51 | 48 | 1 | 0.669 |
 | Ceddanne Rafaela | 2B | 2B,2B/SS,IF,CF,OF,UTIL,BE,IL | ACTIVE | BOS | 0.281 | 8 | 39 | 41 | 12 | 0.761 |
 | Kyle Tucker | OF | RF,OF,UTIL,BE,IL | ACTIVE | LAD | 0.244 | 7 | 47 | 53 | 6 | 0.716 |
 | Ronald Acuna Jr. | OF | RF,OF,UTIL,BE,IL | TEN_DAY_DL | ATL | 0.251 | 7 | 22 | 31 | 15 | 0.794 |
@@ -67,13 +67,13 @@ _Generated: 2026-07-16T04:30 ET — db latest pull: 2026-07-15_
 | player_name | slot | eligible_pos | status | mlb_team | avg | hr | rbi | r | sb | ops |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Brandon Lowe | 2B | 2B,2B/SS,IF,UTIL,BE,IL | ACTIVE | PIT | 0.246 | 21 | 64 | 59 | 1 | 0.803 |
-| Bryce Harper | 1B | 1B,1B/3B,IF,UTIL,BE,IL | ACTIVE | PHI | 0.26 | 20 | 57 | 59 | 5 | 0.862 |
+| Bryce Harper | 1B | 1B,1B/3B,IF,UTIL,BE,IL | ACTIVE | PHI | 0.261 | 20 | 57 | 59 | 5 | 0.866 |
 | Rafael Devers | UTIL | 1B,1B/3B,IF,DH,UTIL,BE,IL | ACTIVE | SF | 0.249 | 19 | 52 | 49 | 0 | 0.802 |
 | Corbin Carroll | OF | RF,OF,UTIL,BE,IL | ACTIVE | AZ | 0.252 | 13 | 45 | 54 | 10 | 0.825 |
 | Liam Hicks | C | C,1B,1B/3B,IF,DH,UTIL,BE,IL | ACTIVE | MIA | 0.29 | 13 | 58 | 50 | 2 | 0.822 |
 | Riley Greene | OF | LF,OF,DH,UTIL,BE,IL | ACTIVE | DET | 0.288 | 13 | 45 | 48 | 2 | 0.842 |
 | Kyle Stowers | BE | LF,RF,OF,UTIL,BE,IL,1B,1B/3B,IF | ACTIVE | MIA | 0.239 | 12 | 42 | 36 | 1 | 0.777 |
-| Trea Turner | SS | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | PHI | 0.236 | 10 | 33 | 62 | 16 | 0.639 |
+| Trea Turner | SS | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | PHI | 0.236 | 11 | 34 | 63 | 16 | 0.646 |
 | Austin Riley | 3B | 3B,1B/3B,IF,UTIL,BE,IL | ACTIVE | ATL | 0.207 | 9 | 42 | 38 | 6 | 0.617 |
 | Fernando Tatis Jr. | OF | RF,OF,UTIL,BE,IL,2B,2B/SS,IF | ACTIVE | SD | 0.277 | 5 | 35 | 45 | 23 | 0.714 |
 | Lawrence Butler | BE | CF,RF,OF,UTIL,BE,IL | ACTIVE | ATH | 0.196 | 5 | 22 | 31 | 6 | 0.592 |
@@ -87,14 +87,14 @@ _Generated: 2026-07-16T04:30 ET — db latest pull: 2026-07-15_
 | player_name | slot | eligible_pos | status | mlb_team | avg | hr | rbi | r | sb | ops |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Yordan Alvarez | OF | LF,OF,DH,UTIL,BE,IL | ACTIVE | HOU | 0.318 | 31 | 70 | 65 | 1 | 1.059 |
-| Pete Alonso | BE | 1B,1B/3B,IF,UTIL,BE,IL | ACTIVE | BAL | 0.252 | 21 | 65 | 59 | 2 | 0.82 |
+| Pete Alonso | UTIL | 1B,1B/3B,IF,UTIL,BE,IL | ACTIVE | BAL | 0.252 | 21 | 65 | 59 | 2 | 0.82 |
 | Dillon Dingler | C | C,UTIL,BE,IL,DH | ACTIVE | DET | 0.262 | 19 | 60 | 48 | 0 | 0.831 |
 | Ian Happ | BE | LF,OF,UTIL,BE,IL | ACTIVE | CHC | 0.22 | 17 | 42 | 59 | 4 | 0.758 |
 | Elly De La Cruz | SS | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | CIN | 0.274 | 15 | 44 | 50 | 14 | 0.839 |
 | Seiya Suzuki | OF | RF,OF,DH,UTIL,BE,IL | ACTIVE | CHC | 0.268 | 15 | 48 | 47 | 1 | 0.811 |
 | Brice Turang | 2B | 2B,2B/SS,IF,UTIL,BE,IL | ACTIVE | MIL | 0.266 | 14 | 60 | 66 | 15 | 0.826 |
 | Oneil Cruz | IL | CF,OF,UTIL,BE,IL | TEN_DAY_DL | PIT | 0.264 | 14 | 44 | 45 | 21 | 0.822 |
-| JJ Wetherholt | UTIL | 2B,SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | STL | 0.259 | 13 | 36 | 58 | 9 | 0.755 |
+| JJ Wetherholt | BE | 2B,SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | STL | 0.259 | 13 | 36 | 58 | 9 | 0.755 |
 | Mauricio Dubon | OF | 2B,3B,SS,2B/SS,1B/3B,IF,LF,OF,UTIL,BE,IL,CF | ACTIVE | ATL | 0.265 | 10 | 51 | 42 | 3 | 0.739 |
 | William Contreras | BE | C,DH,UTIL,BE,IL | ACTIVE | MIL | 0.282 | 9 | 53 | 48 | 1 | 0.742 |
 | Ernie Clement | 3B | 2B,3B,SS,2B/SS,1B/3B,IF,UTIL,BE,IL | ACTIVE | TOR | 0.296 | 8 | 32 | 42 | 3 | 0.751 |
@@ -131,15 +131,15 @@ _Generated: 2026-07-16T04:30 ET — db latest pull: 2026-07-15_
 | Jordan Walker | OF | RF,OF,UTIL,BE,IL | ACTIVE | STL | 0.294 | 22 | 74 | 62 | 13 | 0.886 |
 | Sal Stewart | 3B | 1B,3B,1B/3B,IF,UTIL,BE,IL | ACTIVE | CIN | 0.256 | 19 | 65 | 51 | 11 | 0.812 |
 | Aaron Judge | IL | RF,OF,DH,UTIL,BE,IL | TEN_DAY_DL | NYY | 0.254 | 17 | 38 | 43 | 5 | 0.927 |
-| Gunnar Henderson | UTIL | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | BAL | 0.224 | 17 | 43 | 55 | 7 | 0.697 |
+| Gunnar Henderson | SS | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | BAL | 0.224 | 17 | 43 | 55 | 7 | 0.697 |
 | Tyler Soderstrom | OF | 1B,1B/3B,IF,LF,OF,UTIL,BE,IL | ACTIVE | ATH | 0.241 | 14 | 42 | 43 | 1 | 0.808 |
-| Jose Altuve | BE | 2B,2B/SS,IF,LF,OF,DH,UTIL,BE,IL | ACTIVE | HOU | 0.235 | 11 | 27 | 45 | 2 | 0.711 |
+| Jose Altuve | UTIL | 2B,2B/SS,IF,LF,OF,DH,UTIL,BE,IL | ACTIVE | HOU | 0.235 | 11 | 27 | 45 | 2 | 0.711 |
 | Wyatt Langford | OF | LF,CF,OF,UTIL,BE,IL | ACTIVE | TEX | 0.275 | 9 | 22 | 26 | 6 | 0.819 |
 | Bryce Eldridge | BE | DH,UTIL,BE,IL,1B,1B/3B,IF | ACTIVE | SF | 0.271 | 8 | 20 | 28 | 0 | 0.832 |
 | Josh Naylor | 1B | 1B,1B/3B,IF,DH,UTIL,BE,IL | ACTIVE | SEA | 0.252 | 8 | 36 | 35 | 18 | 0.671 |
-| Francisco Lindor | SS | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | NYM | 0.216 | 5 | 12 | 22 | 2 | 0.671 |
+| Francisco Lindor | BE | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | NYM | 0.21 | 5 | 12 | 22 | 2 | 0.654 |
 | Nico Hoerner | 2B | 2B,2B/SS,IF,UTIL,BE,IL,SS | ACTIVE | CHC | 0.233 | 4 | 38 | 37 | 14 | 0.631 |
-| Bryan Abreu | BE | P,RP,BE,IL | ACTIVE | HOU | None | None | None | None | None | None |
+| Bryan Abreu | P | P,RP,BE,IL | ACTIVE | HOU | None | None | None | None | None | None |
 | Cade Smith | P | P,RP,BE,IL | ACTIVE | CLE | None | None | None | None | None | None |
 
 ## Southside Hitmen
@@ -178,7 +178,7 @@ _Generated: 2026-07-16T04:30 ET — db latest pull: 2026-07-15_
 | Cal Raleigh | C | C,DH,UTIL,BE,IL | ACTIVE | SEA | 0.169 | 9 | 29 | 23 | 2 | 0.581 |
 | Bryan Baker | P | P,RP,BE,IL | ACTIVE | TB | None | None | None | None | None | None |
 | Bryan Woo | BE | P,SP,BE,IL | ACTIVE | SEA | None | None | None | None | None | None |
-| Bryce Miller | BE | P,SP,BE,IL | ACTIVE | SEA | None | None | None | None | None | None |
-| Chase Burns | P | P,SP,BE,IL | DAY_TO_DAY | CIN | None | None | None | None | None | None |
+| Bryce Miller | P | P,SP,BE,IL | ACTIVE | SEA | None | None | None | None | None | None |
+| Chase Burns | P | P,SP,BE,IL | ACTIVE | CIN | None | None | None | None | None | None |
 | Foster Griffin | P | P,SP,BE,IL | ACTIVE | WSH | None | None | None | None | None | None |
 
