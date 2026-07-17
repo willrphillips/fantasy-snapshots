@@ -1,6 +1,6 @@
 # Regression Watch
 
-_Generated: 2026-07-16T04:30 ET — db latest pull: 2026-07-15_
+_Generated: 2026-07-17T04:30 ET — db latest pull: 2026-07-16_
 
 ## Hitters — biggest xwOBA-wOBA gaps (positive = expect improvement)
 
@@ -23,7 +23,7 @@ _Generated: 2026-07-16T04:30 ET — db latest pull: 2026-07-15_
 | Nico Hoerner | CHC | 2B | 0.284 | 0.318 | 0.034 | 420 | 0.233 | 4 | 0.631 |
 | Matt McLain | CIN | 2B | 0.283 | 0.317 | 0.034 | 309 | 0.19 | 8 | 0.621 |
 | Marcell Ozuna | PIT | DH | 0.279 | 0.313 | 0.034 | 250 | 0.205 | 8 | 0.623 |
-| Bo Bichette | NYM | 3B | 0.297 | 0.33 | 0.033 | 413 | 0.255 | 10 | 0.676 |
+| Bo Bichette | NYM | 3B | 0.297 | 0.33 | 0.033 | 417 | 0.253 | 10 | 0.669 |
 | Ketel Marte | AZ | 2B | 0.332 | 0.364 | 0.032 | 405 | 0.256 | 17 | 0.772 |
 | Vladimir Guerrero Jr. | TOR | 1B | 0.312 | 0.343 | 0.031 | 387 | 0.262 | 6 | 0.703 |
 
@@ -48,7 +48,7 @@ _Generated: 2026-07-16T04:30 ET — db latest pull: 2026-07-15_
 | Ozzie Albies | ATL | 2B | 0.327 | 0.292 | -0.035 | 410 | 0.267 | 14 | 0.759 |
 | Chase Meidroth | CWS | 2B | 0.322 | 0.287 | -0.035 | 392 | 0.269 | 7 | 0.72 |
 | José Caballero | NYY | SS | 0.306 | 0.271 | -0.035 | 294 | 0.25 | 10 | 0.7 |
-| Brandon Marsh | PHI | LF | 0.356 | 0.322 | -0.034 | 363 | 0.301 | 15 | 0.829 |
+| Brandon Marsh | PHI | LF | 0.356 | 0.322 | -0.034 | 367 | 0.297 | 15 | 0.819 |
 | Hunter Goodman | COL | C | 0.366 | 0.334 | -0.032 | 376 | 0.254 | 27 | 0.862 |
 | Paul Goldschmidt | NYY | None | 0.348 | 0.316 | -0.032 | 262 | 0.258 | 15 | 0.809 |
 
