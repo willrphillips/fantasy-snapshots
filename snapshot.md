@@ -1,5 +1,5 @@
 # Captain Phillips League Snapshot
-_Generated: 2026-07-16 03:00 _
+_Generated: 2026-07-17 03:00 _
 _Current matchup period: 15_
 
 ## Standings
@@ -43,7 +43,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 
 | Cat | Antonio's Astounding | Ellz Bellz | Leader |
 |-----|--------|--------|--------|
-| AVG | 0.290 | 0.221 | ✅ Antonio's Astoundi |
+| AVG | 0.282 | 0.221 | ✅ Antonio's Astoundi |
 | R | 28 | 28 | 🟰 Tied |
 | HR | 11 | 11 | 🟰 Tied |
 | RBI | 28 | 30 | ✅ Ellz Bellz |
@@ -77,7 +77,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 
 | Cat | Brian's Optimum Team | Sh'Dynasty | Leader |
 |-----|--------|--------|--------|
-| AVG | 0.261 | 0.242 | ✅ Brian's Optimum Te |
+| AVG | 0.261 | 0.237 | ✅ Brian's Optimum Te |
 | R | 30 | 31 | ✅ Sh'Dynasty |
 | HR | 12 | 11 | ✅ Brian's Optimum Te |
 | RBI | 36 | 23 | ✅ Brian's Optimum Te |
@@ -94,10 +94,10 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 
 | Cat | Southside Hitmen | EL TORNADO | Leader |
 |-----|--------|--------|--------|
-| AVG | 0.225 | 0.209 | ✅ Southside Hitmen |
-| R | 28 | 30 | ✅ EL TORNADO |
-| HR | 6 | 1 | ✅ Southside Hitmen |
-| RBI | 22 | 13 | ✅ Southside Hitmen |
+| AVG | 0.225 | 0.211 | ✅ Southside Hitmen |
+| R | 28 | 31 | ✅ EL TORNADO |
+| HR | 6 | 2 | ✅ Southside Hitmen |
+| RBI | 22 | 14 | ✅ Southside Hitmen |
 | SB | 2 | 6 | ✅ EL TORNADO |
 | K | 72 | 37 | ✅ Southside Hitmen |
 | W | 2 | 0 | ✅ Southside Hitmen |
@@ -167,7 +167,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 |------|--------|-----|------|--------|
 | SS | Elly De La Cruz | SS | Cin |  |
 | P | Tarik Skubal | SP | Det |  |
-| BE | Pete Alonso | 1B | Bal |  |
+| UTIL | Pete Alonso | 1B | Bal |  |
 | OF | Yordan Alvarez | DH | Hou |  |
 | BE | William Contreras | C | Mil |  |
 | 2B | Brice Turang | 2B | Mil |  |
@@ -175,7 +175,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | P | Gavin Williams | SP | Cle |  |
 | 3B | Ernie Clement | 3B | Tor |  |
 | P | Louis Varland | RP | Tor |  |
-| UTIL | JJ Wetherholt | SS | StL |  |
+| BE | JJ Wetherholt | SS | StL |  |
 | P | Parker Messick | SP | Cle |  |
 | OF | Mauricio Dubon | LF | Atl |  |
 | 1B | Luis Arraez | 1B | SF |  |
@@ -191,14 +191,14 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | Slot | Player | Pos | Team | Status |
 |------|--------|-----|------|--------|
 | IL | Aaron Judge | RF | NYY | TEN_DAY_DL |
-| UTIL | Gunnar Henderson | SS | Bal |  |
-| SS | Francisco Lindor | SS | NYM |  |
+| SS | Gunnar Henderson | SS | Bal |  |
+| BE | Francisco Lindor | SS | NYM |  |
 | P | Chris Sale | SP | Atl |  |
 | P | Jacob deGrom | SP | Tex | DAY_TO_DAY |
 | 1B | Josh Naylor | 1B | Sea |  |
 | P | Cade Smith | RP | Cle |  |
 | C | Hunter Goodman | C | Col |  |
-| P | Kyle Bradish | SP | Bal |  |
+| BE | Kyle Bradish | SP | Bal |  |
 | P | Jacob Misiorowski | SP | Mil | DAY_TO_DAY |
 | 3B | Sal Stewart | 1B | Cin |  |
 | OF | Jordan Walker | RF | StL |  |
@@ -208,9 +208,9 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | IL | Ranger Suarez | SP | Bos | FIFTEEN_DAY_DL |
 | OF | Tyler Soderstrom | LF | Oak |  |
 | 2B | Nico Hoerner | 2B | ChC |  |
-| BE | Jose Altuve | 2B | Hou |  |
+| UTIL | Jose Altuve | 2B | Hou |  |
 | BE | Bryce Eldridge | DH | SF |  |
-| BE | Bryan Abreu | RP | Hou |  |
+| P | Bryan Abreu | RP | Hou |  |
 | P | Eduardo Rodriguez | SP | Ari |  |
 
 ### The Fellowship of the Skenes (74-67-13)
@@ -223,11 +223,11 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | BE | Bryan Woo | SP | Sea |  |
 | SS | CJ Abrams | SS | Wsh |  |
 | OF | Randy Arozarena | LF | Sea |  |
-| P | Chase Burns | SP | Cin | DAY_TO_DAY |
+| P | Chase Burns | SP | Cin |  |
 | OF | Mike Trout | DH | LAA |  |
-| P | Zack Wheeler | SP | Phi |  |
+| BE | Zack Wheeler | SP | Phi |  |
 | P | Bryan Baker | RP | TB |  |
-| BE | Bryce Miller | SP | Sea |  |
+| P | Bryce Miller | SP | Sea |  |
 | P | Jacob Latz | RP | Tex |  |
 | P | Kevin Kelly | RP | TB |  |
 | 3B | TJ Rumfield | 3B | Col |  |
@@ -291,25 +291,25 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 
 | Slot | Player | Pos | Team | Status |
 |------|--------|-----|------|--------|
-| OF | Juan Soto | RF | NYM |  |
+| BE | Juan Soto | RF | NYM | DAY_TO_DAY |
 | P | Yoshinobu Yamamoto | SP | LAD |  |
 | IL | Max Fried | SP | NYY | FIFTEEN_DAY_DL |
 | 1B | Freddie Freeman | 1B | LAD |  |
-| C | Shea Langeliers | C | Oak |  |
-| BE | Ozzie Albies | 2B | Atl |  |
+| UTIL | Shea Langeliers | C | Oak |  |
+| 2B | Ozzie Albies | 2B | Atl |  |
 | P | Emerson Hancock | SP | Sea | DAY_TO_DAY |
 | P | Erik Sabrowski | RP | Cle |  |
 | P | Bryce Elder | SP | Atl |  |
 | 3B | Max Muncy | 3B | LAD |  |
 | SS | Kevin McGonigle | SS | Det |  |
 | P | Braxton Ashcraft | RP | Pit |  |
-| 2B | Casey Schmitt | 2B | SF |  |
+| OF | Casey Schmitt | 2B | SF |  |
 | P | Trey Yesavage | SP | Tor |  |
 | IL | Teoscar Hernandez | RF | LAD |  |
-| BE | Luke Raley | RF | Sea |  |
-| BE | Samuel Basallo | C | Bal |  |
-| OF | Brandon Marsh | CF | Phi |  |
-| UTIL | Willson Contreras | 1B | Bos | SUSPENSION |
+| OF | Luke Raley | RF | Sea |  |
+| C | Samuel Basallo | C | Bal |  |
+| BE | Brandon Marsh | CF | Phi |  |
+| BE | Willson Contreras | 1B | Bos | SUSPENSION |
 | OF | JJ Bleday | CF | Cin |  |
 | IL | Ben Brown | SP | ChC | FIFTEEN_DAY_DL |
 
@@ -324,7 +324,7 @@ Each matchup shows category-by-category state. ✅ = winning, ❌ = losing, 🟰
 | OF | James Wood | LF | Wsh |  |
 | P | Jesus Luzardo | SP | Phi |  |
 | P | Framber Valdez | SP | Det | BEREAVEMENT |
-| SS | Bo Bichette | SS | NYM | DAY_TO_DAY |
+| SS | Bo Bichette | SS | NYM |  |
 | 1B | Michael Busch | 1B | ChC |  |
 | C | Agustin Ramirez | C | Mia |  |
 | P | Spencer Strider | SP | Atl | SIXTY_DAY_DL |
@@ -374,9 +374,9 @@ Where each team ranks across all 11 categories. Bold = league leader, italic = b
 | Sh'Dynasty | 0.254 | 486 | 157 | 456 | 88 | 808 | 44 | 49 | 4 | 3.06 | 1.11 |
 | The Fellowship of the  | 0.241 | 463 | 133 | 430 | 82 | 889 | 57 | 42 | 20 | 3.53 | 1.11 |
 | Brian's Optimum Team | 0.269 | 481 | 138 | 454 | 55 | 729 | 42 | 17 | 1 | 3.68 | 1.25 |
-| EL TORNADO | 0.254 | 456 | 121 | 417 | 64 | 484 | 28 | 26 | 0 | 3.95 | 1.26 |
+| EL TORNADO | 0.254 | 457 | 122 | 418 | 64 | 484 | 28 | 26 | 0 | 3.95 | 1.26 |
 | Captain Phillips | 0.249 | 466 | 136 | 419 | 55 | 641 | 46 | 11 | 13 | 3.99 | 1.19 |
-| Antonio's Astounding T | 0.255 | 423 | 127 | 407 | 56 | 552 | 36 | 18 | 19 | 3.49 | 1.15 |
+| Antonio's Astounding T | 0.254 | 423 | 127 | 407 | 56 | 552 | 36 | 18 | 19 | 3.49 | 1.15 |
 | Pete's Perfect Team | 0.249 | 346 | 83 | 293 | 58 | 384 | 20 | 21 | 1 | 3.77 | 1.17 |
 
 ### Category Leaders
@@ -399,53 +399,53 @@ Where each team ranks across all 11 categories. Bold = league leader, italic = b
 
 | Player | Pos | Team | %Owned |
 |--------|-----|------|--------|
-| Kevin Gausman | SP | Tor | 89.5% |
-| Adley Rutschman | C | Bal | 82.8% |
+| Kevin Gausman | SP | Tor | 89.2% |
+| Adley Rutschman | C | Bal | 83.0% |
 | Geraldo Perdomo | SS | Ari | 80.4% |
-| Shota Imanaga | SP | ChC | 78.6% |
-| Tyler Glasnow | SP | LAD | 76.2% |
-| Taj Bradley | SP | Min | 73.2% |
-| Christian Walker | 1B | Hou | 69.2% |
-| Davis Martin | SP | ChW | 68.8% |
+| Shota Imanaga | SP | ChC | 78.8% |
+| Tyler Glasnow | SP | LAD | 76.4% |
+| Taj Bradley | SP | Min | 73.3% |
+| Christian Walker | 1B | Hou | 69.3% |
+| Davis Martin | SP | ChW | 68.9% |
 | Maikel Garcia | 3B | KC | 67.9% |
-| George Springer | DH | Tor | 62.6% |
-| Nick Martinez | SP | TB | 62.5% |
-| Jung Hoo Lee | CF | SF | 61.1% |
-| Salvador Perez | C | KC | 60.6% |
-| MacKenzie Gore | SP | Tex | 58.8% |
-| Corey Seager | SS | Tex | 58.3% |
+| Nick Martinez | SP | TB | 62.7% |
+| George Springer | DH | Tor | 62.5% |
+| Jung Hoo Lee | CF | SF | 60.9% |
+| Salvador Perez | C | KC | 60.5% |
+| MacKenzie Gore | SP | Tex | 58.7% |
+| Corey Seager | SS | Tex | 58.2% |
 | Michael Wacha | SP | KC | 57.4% |
 | Daylen Lile | RF | Wsh | 57.1% |
-| Shane McClanahan | SP | TB | 56.3% |
+| Troy Melton | RP | Det | 57.0% |
+| Shane McClanahan | SP | TB | 56.8% |
 | Steven Kwan | LF | Cle | 56.0% |
 | Nick Pivetta | SP | SD | 55.0% |
-| Troy Melton | RP | Det | 54.3% |
 | Matt Chapman | 3B | SF | 54.0% |
-| Cole Ragans | SP | KC | 52.1% |
-| Michael Soroka | SP | Ari | 52.0% |
-| Willy Adames | SS | SF | 50.8% |
-| Payton Tolle | SP | Bos | 50.5% |
-| Matthew Boyd | SP | ChC | 50.2% |
-| Griffin Jax | RP | TB | 50.0% |
-| Brent Rooker | DH | Oak | 48.5% |
-| Jonathan Aranda | 1B | TB | 48.0% |
+| Michael Soroka | SP | Ari | 52.2% |
+| Cole Ragans | SP | KC | 51.9% |
+| Griffin Jax | RP | TB | 51.1% |
+| Willy Adames | SS | SF | 50.9% |
+| Matthew Boyd | SP | ChC | 49.9% |
+| Payton Tolle | SP | Bos | 49.5% |
+| Jonathan Aranda | 1B | TB | 48.8% |
+| Brent Rooker | DH | Oak | 48.2% |
+| Reid Detmers | RP | LAA | 48.1% |
 | Gleyber Torres | 2B | Det | 47.3% |
-| Reid Detmers | RP | LAA | 47.3% |
-| Vinnie Pasquantino | 1B | KC | 46.1% |
 | Casey Mize | SP | Det | 46.0% |
+| Vinnie Pasquantino | 1B | KC | 45.9% |
 | Luke Keaschall | 2B | Min | 45.9% |
-| Jacob Wilson | SS | Oak | 45.3% |
-| Trevor Rogers | SP | Bal | 44.0% |
-| Brooks Lee | SS | Min | 43.9% |
-| Andrew Abbott | SP | Cin | 42.8% |
-| Pete Fairbanks | RP | Mia | 41.3% |
+| Jacob Wilson | SS | Oak | 45.4% |
+| Trevor Rogers | SP | Bal | 44.1% |
+| Brooks Lee | SS | Min | 44.0% |
+| Andrew Abbott | SP | Cin | 42.5% |
+| Pete Fairbanks | RP | Mia | 41.4% |
 | Yainer Diaz | C | Hou | 41.1% |
 | Eugenio Suarez | 3B | Cin | 41.0% |
-| Bryson Stott | 2B | Phi | 40.6% |
-| Jeff Hoffman | RP | Tor | 40.3% |
+| Bryson Stott | 2B | Phi | 40.9% |
+| Jeff Hoffman | RP | Tor | 40.4% |
 | Ryan Helsley | RP | Bal | 40.1% |
-| Gabriel Moreno | C | Ari | 39.7% |
-| Jac Caglianone | RF | KC | 39.0% |
-| Isaac Paredes | 3B | Hou | 38.2% |
-| Jack Flaherty | SP | Det | 38.0% |
-| Aaron Nola | SP | Phi | 38.0% |
+| Aaron Nola | SP | Phi | 40.1% |
+| Gabriel Moreno | C | Ari | 39.9% |
+| Jac Caglianone | RF | KC | 39.1% |
+| Jake Bennett | SP | Bos | 39.0% |
+| Isaac Paredes | 3B | Hou | 38.3% |
