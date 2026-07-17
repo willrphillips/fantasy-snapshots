@@ -1,10 +1,10 @@
 # Anomaly Digest — Standout Game Lines
 
-_Generated: 2026-07-16T04:45 ET — game day 2026-07-15 (delta vs 2026-07-14)._
+_Generated: 2026-07-17T04:45 ET — game day 2026-07-16 (delta vs 2026-07-15)._
 
 ## Hitting
 
-_No standout hitting lines for this game day._
+- **Francisco Alvarez** (NYM, C) — 2-for-3, 2 HR, 2 RBI, 2 R, 1 BB. _Season: .259/.325/.448, 11 HR in 236 PA_
 
 ## Pitching
 
