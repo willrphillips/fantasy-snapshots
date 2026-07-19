@@ -1,6 +1,6 @@
 # Captain Phillips — Team Review
 
-_Generated: 2026-07-18T04:30 ET — db latest pull: 2026-07-17_
+_Generated: 2026-07-19T04:30 ET — db latest pull: 2026-07-18_
 
 ## Roster
 
@@ -18,10 +18,10 @@ _Generated: 2026-07-18T04:30 ET — db latest pull: 2026-07-17_
 | Captain Phillips | IL | Teoscar Hernandez | RF,OF,UTIL,BE,IL,LF | ACTIVE | LAD | LF | 606192 |
 | Captain Phillips | OF | Brandon Marsh | LF,CF,OF,UTIL,BE,IL,RF | ACTIVE | PHI | LF | 669016 |
 | Captain Phillips | OF | JJ Bleday | CF,RF,OF,UTIL,BE,IL,LF | ACTIVE | CIN | LF | 668709 |
-| Captain Phillips | OF | Juan Soto | RF,OF,UTIL,BE,IL,DH,LF | DAY_TO_DAY | NYM | LF | 665742 |
+| Captain Phillips | OF | Juan Soto | RF,OF,UTIL,BE,IL,DH,LF | ACTIVE | NYM | LF | 665742 |
 | Captain Phillips | P | Braxton Ashcraft | P,SP,RP,BE,IL | ACTIVE | PIT | P | 677952 |
 | Captain Phillips | P | Bryce Elder | P,SP,BE,IL | ACTIVE | ATL | P | 693821 |
-| Captain Phillips | P | Emerson Hancock | P,SP,BE,IL | DAY_TO_DAY | SEA | P | 676106 |
+| Captain Phillips | P | Emerson Hancock | P,SP,BE,IL | ACTIVE | SEA | P | 676106 |
 | Captain Phillips | P | Erik Sabrowski | P,RP,BE,IL | ACTIVE | CLE | P | 681870 |
 | Captain Phillips | P | Trey Yesavage | P,SP,BE,IL | ACTIVE | TOR | P | 702056 |
 | Captain Phillips | P | Yoshinobu Yamamoto | P,SP,BE,IL | ACTIVE | LAD | P | 808967 |
@@ -32,18 +32,18 @@ _Generated: 2026-07-18T04:30 ET — db latest pull: 2026-07-17_
 
 | Player | S_AVG | S_HR | S_RBI | S_R | S_SB | S_OPS | L14_AVG | L14_HR | L14_RBI | L14_R | L14_OPS | L30_AVG | L30_HR | L30_RBI | L30_OPS |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Casey Schmitt | 0.284 | 19 | 50 | 43 | 8 | 0.81 | 0.286 | 3 | 6 | 6 | 0.881 | 0.278 | 4 | 12 | 0.754 |
-| Ozzie Albies | 0.27 | 14 | 52 | 62 | 1 | 0.762 | 0.244 | 0 | 3 | 7 | 0.716 | 0.244 | 4 | 15 | 0.764 |
-| Max Muncy | 0.26 | 18 | 42 | 55 | 1 | 0.853 | 0.167 | 1 | 3 | 2 | 0.619 | 0.247 | 2 | 14 | 0.746 |
-| Luke Raley | 0.23 | 14 | 36 | 25 | 1 | 0.74 | 0.222 | 0 | 1 | 0 | 0.537 | 0.188 | 0 | 1 | 0.481 |
-| Samuel Basallo | 0.245 | 16 | 46 | 34 | 0 | 0.762 | 0.152 | 3 | 7 | 4 | 0.6 | 0.197 | 6 | 16 | 0.69 |
-| Willson Contreras | 0.285 | 21 | 62 | 47 | 2 | 0.925 | 0.263 | 3 | 9 | 4 | 1.122 | 0.254 | 5 | 19 | 0.873 |
-| Shea Langeliers | 0.257 | 22 | 47 | 53 | 2 | 0.812 | 0.167 | 2 | 3 | 2 | 0.676 | 0.187 | 4 | 11 | 0.616 |
-| Brandon Marsh | 0.297 | 15 | 46 | 52 | 8 | 0.819 | 0.143 | 0 | 0 | 2 | 0.374 | 0.232 | 6 | 11 | 0.719 |
-| JJ Bleday | 0.243 | 16 | 43 | 36 | 4 | 0.846 | 0.281 | 3 | 6 | 6 | 0.957 | 0.195 | 3 | 8 | 0.644 |
-| Juan Soto | 0.292 | 21 | 51 | 44 | 7 | 0.975 | 0.258 | 3 | 10 | 5 | 1.003 | 0.279 | 6 | 15 | 1.05 |
-| Kevin McGonigle | 0.28 | 8 | 34 | 58 | 11 | 0.803 | 0.235 | 1 | 3 | 4 | 0.657 | 0.273 | 2 | 8 | 0.76 |
-| Freddie Freeman | 0.287 | 15 | 49 | 52 | 3 | 0.853 | 0.229 | 1 | 2 | 2 | 0.593 | 0.31 | 3 | 9 | 0.864 |
+| Casey Schmitt | 0.281 | 19 | 50 | 43 | 8 | 0.803 | 0.244 | 3 | 6 | 5 | 0.799 | 0.266 | 4 | 12 | 0.729 |
+| Ozzie Albies | 0.267 | 14 | 53 | 62 | 1 | 0.754 | 0.22 | 0 | 4 | 6 | 0.624 | 0.234 | 4 | 16 | 0.73 |
+| Max Muncy | 0.26 | 18 | 42 | 55 | 1 | 0.853 | 0.19 | 1 | 3 | 2 | 0.701 | 0.247 | 2 | 14 | 0.746 |
+| Luke Raley | 0.227 | 14 | 36 | 25 | 1 | 0.731 | 0.222 | 0 | 1 | 0 | 0.51 | 0.176 | 0 | 1 | 0.453 |
+| Samuel Basallo | 0.242 | 16 | 46 | 34 | 0 | 0.758 | 0.125 | 2 | 4 | 3 | 0.488 | 0.197 | 6 | 16 | 0.699 |
+| Willson Contreras | 0.283 | 21 | 62 | 47 | 2 | 0.923 | 0.25 | 2 | 6 | 3 | 1.088 | 0.261 | 5 | 18 | 0.913 |
+| Shea Langeliers | 0.258 | 22 | 50 | 53 | 2 | 0.817 | 0.185 | 2 | 6 | 2 | 0.756 | 0.189 | 3 | 11 | 0.615 |
+| Brandon Marsh | 0.294 | 15 | 46 | 52 | 8 | 0.811 | 0.147 | 0 | 0 | 2 | 0.403 | 0.232 | 6 | 11 | 0.726 |
+| JJ Bleday | 0.243 | 16 | 43 | 36 | 4 | 0.841 | 0.281 | 3 | 6 | 6 | 0.94 | 0.198 | 3 | 8 | 0.637 |
+| Juan Soto | 0.288 | 21 | 51 | 44 | 7 | 0.963 | 0.226 | 3 | 10 | 5 | 0.948 | 0.25 | 4 | 13 | 0.906 |
+| Kevin McGonigle | 0.281 | 8 | 34 | 60 | 11 | 0.807 | 0.278 | 1 | 3 | 6 | 0.739 | 0.28 | 2 | 8 | 0.772 |
+| Freddie Freeman | 0.287 | 15 | 49 | 52 | 3 | 0.853 | 0.188 | 0 | 0 | 1 | 0.407 | 0.31 | 3 | 9 | 0.864 |
 
 ## Pitching — season vs L14 vs L30
 
@@ -51,9 +51,9 @@ _Generated: 2026-07-18T04:30 ET — db latest pull: 2026-07-17_
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Ben Brown | 68.0 | 1.85 | 0.94 | 2.5 | 65 | 4 | 1 | 2 | 0.0 | None | None | 0 | 6.0 | 3.0 | 3.93 |
 | Max Fried | 55.1 | 3.58 | 1.07 | 2.7 | 46 | 3 | 0 | 0 | 0.0 | None | None | 0 | 0.0 | None | None |
-| Braxton Ashcraft | 113.1 | 3.49 | 1.11 | 3.32 | 128 | 9 | 0 | 0 | 10.9 | 4.95 | 5.39 | 13 | 22.9 | 4.72 | 4.45 |
+| Braxton Ashcraft | 113.1 | 3.49 | 1.11 | 3.32 | 128 | 9 | 0 | 0 | 5.0 | 9.0 | 7.1 | 6 | 22.9 | 4.72 | 4.45 |
 | Bryce Elder | 102.2 | 4.12 | 1.25 | 4.32 | 86 | 5 | 0 | 0 | 4.0 | 6.75 | 12.85 | 3 | 14.0 | 10.29 | 7.89 |
 | Emerson Hancock | 99.1 | 3.17 | 1.01 | 3.65 | 94 | 6 | 0 | 0 | 8.9 | 0.0 | 2.54 | 7 | 19.9 | 2.71 | 3.05 |
-| Erik Sabrowski | 27.1 | 3.62 | 1.35 | 3.21 | 48 | 3 | 0 | 20 | 2.1 | 8.57 | 15.48 | 1 | 6.1 | 10.33 | 7.85 |
-| Trey Yesavage | 75.0 | 3.72 | 1.16 | 4.11 | 69 | 4 | 0 | 0 | 7.9 | 6.84 | 6.14 | 8 | 27.8 | 3.56 | 5.01 |
-| Yoshinobu Yamamoto | 110.2 | 2.85 | 0.91 | 3.35 | 106 | 9 | 0 | 0 | 13.0 | 4.15 | 3.02 | 16 | 25.0 | 3.96 | 3.26 |
+| Erik Sabrowski | 28.0 | 3.54 | 1.32 | 3.21 | 48 | 3 | 0 | 20 | 3.0 | 6.0 | 11.77 | 1 | 7.0 | 9.0 | 7.24 |
+| Trey Yesavage | 75.0 | 3.72 | 1.16 | 4.11 | 69 | 4 | 0 | 0 | 7.9 | 6.84 | 6.14 | 8 | 20.0 | 3.6 | 5.05 |
+| Yoshinobu Yamamoto | 110.2 | 2.85 | 0.91 | 3.35 | 106 | 9 | 0 | 0 | 6.0 | 9.0 | 5.27 | 6 | 25.0 | 3.96 | 3.26 |
