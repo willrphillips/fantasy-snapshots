@@ -1,6 +1,6 @@
 # Waiver Pitchers — L14 Best FIP (FA only)
 
-_Generated: 2026-07-21T04:30 ET — db latest pull: 2026-07-20_
+_Generated: 2026-07-21T14:31 ET — db latest pull: 2026-07-20_
 
 | name | team | primary_pos | gs | ip | so | bb | er | hr | w | sv | hld | era | whip | fip |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
