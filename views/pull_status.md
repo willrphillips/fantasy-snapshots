@@ -1,10 +1,10 @@
 # Data Pipeline Status
 
-_Generated: 2026-07-21T04:30 ET — db latest pull: 2026-07-20_
+_Generated: 2026-07-21T14:31 ET — db latest pull: 2026-07-20_
 
 ## Row counts
 
-- **db_path**: /Users/claudeserver/fantasy-bot/fantasy.db
+- **db_path**: /home/edwincode/fantasy-bot/fantasy.db
 - **latest_pull**: 2026-07-20
 - **earliest_pull**: 2026-03-26
 - **players**: 1322
