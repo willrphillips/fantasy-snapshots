@@ -1,29 +1,29 @@
 # Anomaly Digest — Standout Game Lines
 
-_Generated: 2026-07-20T04:45 ET — game day 2026-07-19 (delta vs 2026-07-18)._
+_Generated: 2026-07-21T04:45 ET — game day 2026-07-20 (delta vs 2026-07-19)._
 
 ## Hitting
 
-- **Hunter Goodman** (COL, C) — 3-for-4, 3 HR, 5 RBI, 3 R. _Season: .257/.326/.561, 30 HR in 384 PA_
-- **Jackson Merrill** (SD, CF) — 4-for-6, 2 HR, 4 RBI, 2 R, 1 SB. _Season: .221/.277/.363, 12 HR in 407 PA_
-- **Drake Baldwin** (ATL, C) — 5-for-5, 2 HR, 2 RBI, 3 R, 1 SB. _Season: .276/.362/.481, 18 HR in 334 PA_
-- **Ty France** (SD) — 2-for-6, 2 HR, 5 RBI, 2 R. _Season: .275/.335/.537, 14 HR in 243 PA_
-- **Austin Riley** (ATL, 3B) — 3-for-4, 2 HR, 4 RBI, 2 R. _Season: .217/.296/.361, 12 HR in 398 PA_
-- **Tyler Stephenson** (CIN) — 3-for-4, 2 HR, 1 2B, 3 RBI, 2 R. _Season: .247/.325/.396, 8 HR in 265 PA_
-- **Tommy Edman** (LAD) — 3-for-6, 1 HR, 3 RBI, 4 R. _Season: .355/.430/.526, 2 HR in 88 PA_
-- **Francisco Lindor** (NYM, SS) — 3-for-3, 1 HR, 1 2B, 3 RBI, 1 R, 2 BB. _Season: .220/.304/.390, 6 HR in 184 PA_
-- **Wyatt Langford** (TEX, LF) — 3-for-5, 1 HR, 1 2B, 2 RBI, 2 R. _Season: .283/.328/.508, 10 HR in 204 PA_
+- **Trea Turner** (PHI, SS) — 3-for-5, 2 HR, 1 2B, 5 RBI, 2 R. _Season: .246/.296/.396, 14 HR in 433 PA_
+- **Mookie Betts** (LAD, SS) — 4-for-5, 2 HR, 3 RBI, 3 R. _Season: .237/.300/.431, 13 HR in 277 PA_
+- **Jazz Chisholm Jr.** (NYY, 2B) — 2-for-4, 2 HR, 5 RBI, 2 R. _Season: .227/.302/.423, 16 HR in 371 PA_
+- **Petey Halpin** (CLE) — 3-for-5, 2 HR, 1 2B, 3 RBI, 3 R. _Season: .222/.243/.375, 2 HR in 76 PA_
+- **Dillon Dingler** (DET, C) — 4-for-5, 2 HR, 3 RBI, 3 R. _Season: .268/.332/.524, 21 HR in 379 PA_
+- **Yordan Alvarez** (HOU, DH) — 3-for-4, 2 HR, 2 RBI, 2 R. _Season: .324/.432/.651, 33 HR in 438 PA_
+- **Rhys Hoskins** (CLE) — 2-for-5, 2 HR, 2 RBI, 2 R. _Season: .182/.314/.387, 11 HR in 274 PA_
+- **Cal Raleigh** (SEA, C) — 1-for-5, 1 HR, 5 RBI, 1 R. _Season: .163/.266/.307, 10 HR in 297 PA_
+- **Cooper Pratt** (MIL) — 3-for-4, 1 HR, 1 RBI, 2 R, 1 SB. _Season: .267/.356/.360, 1 HR in 101 PA_
+- **Travis Bazzana** (CLE, 2B) — 3-for-5, 1 HR, 1 RBI, 2 R. _Season: .246/.337/.419, 9 HR in 300 PA_
+- **Jacob Young** (WSH) — 3-for-4, 1 HR, 1 RBI, 1 R. _Season: .233/.289/.387, 9 HR in 302 PA_
+- **Chase DeLauter** (CLE, RF) — 4-for-5, 2 2B, 3 RBI. _Season: .286/.351/.457, 11 HR in 350 PA_
+- **Victor Robles** (SEA) — 4-for-4, 2 R, 1 SB. _Season: .240/.286/.269, 0 HR in 113 PA_
+- **Gunnar Henderson** (BAL, SS) — 3-for-5, 3 2B, 1 R. _Season: .224/.293/.402, 17 HR in 458 PA_
+- **Tommy White** (ATH) — 4-for-5, 1 R. _Season: .455/.500/.545, 0 HR in 12 PA_
 
 ## Pitching
 
-- **Nolan McLean** (NYM) — 6.0 IP, 0 ER, 10 K, 2 BB, 2 H, W. _Season: 3.34 ERA, 3.29 FIP, 135 K in 113.1 IP_
-- **Logan Gilbert** (SEA) — 6.0 IP, 3 ER, 10 K, 1 BB, 4 H, W. _Season: 3.38 ERA, 3.33 FIP, 129 K in 120.0 IP_
-- **Eury Pérez** (MIA) — 6.0 IP, 0 ER, 9 K, 3 BB, 1 H. _Season: 3.53 ERA, 4.12 FIP, 104 K in 91.2 IP_
-- **Sean Burke** (CWS) — 6.9 IP, 0 ER, 5 K, 1 BB, 2 H, W. _Season: 3.20 ERA, 3.56 FIP, 120 K in 112.1 IP_
-- **Shota Imanaga** (CHC) — 7.0 IP, 0 ER, 4 K, 1 BB, 6 H, W. _Season: 3.91 ERA, 4.50 FIP, 109 K in 115.0 IP_
-- **Paul Skenes** (PIT) — 7.0 IP, 1 ER, 8 K, 2 BB, 7 H, W. _Season: 3.43 ERA, 2.80 FIP, 138 K in 115.1 IP_
-- **Brandon Young** (BAL) — 7.0 IP, 1 ER, 7 K, 1 BB, 5 H, W. _Season: 3.25 ERA, 3.85 FIP, 74 K in 91.1 IP_
-- **Foster Griffin** (WSH) — 7.0 IP, 1 ER, 2 K, 1 BB, 8 H, W. _Season: 2.68 ERA, 3.96 FIP, 111 K in 117.1 IP_
+- **George Kirby** (SEA) — 6.0 IP, 0 ER, 6 K, 1 BB, 3 H, W. _Season: 3.57 ERA, 3.24 FIP, 104 K in 116.0 IP_
+- **Andrew Abbott** (CIN) — 6.0 IP, 0 ER, 6 K, 2 BB, 4 H. _Season: 3.89 ERA, 4.70 FIP, 90 K in 111.0 IP_
 
 ---
 _Thresholds: hitters need 2+ HR, 4+ H, 5+ RBI, 4+ R, 3+ SB, a multi-hit homer game, or 3+ XBH. Pitchers need 7+ IP with ≤1 ER, a 6+ IP shutout, or 10+ K. Baselines are season-to-date only._
