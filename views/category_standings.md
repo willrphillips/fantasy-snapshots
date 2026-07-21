@@ -1,6 +1,6 @@
 # Standings + Current Matchup
 
-_Generated: 2026-07-21T04:30 ET — db latest pull: 2026-07-20_
+_Generated: 2026-07-21T14:31 ET — db latest pull: 2026-07-20_
 
 ## Standings
 
