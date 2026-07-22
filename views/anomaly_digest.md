@@ -1,29 +1,22 @@
 # Anomaly Digest — Standout Game Lines
 
-_Generated: 2026-07-21T04:45 ET — game day 2026-07-20 (delta vs 2026-07-19)._
+_Generated: 2026-07-22T04:45 ET — game day 2026-07-21 (delta vs 2026-07-20)._
 
 ## Hitting
 
-- **Trea Turner** (PHI, SS) — 3-for-5, 2 HR, 1 2B, 5 RBI, 2 R. _Season: .246/.296/.396, 14 HR in 433 PA_
-- **Mookie Betts** (LAD, SS) — 4-for-5, 2 HR, 3 RBI, 3 R. _Season: .237/.300/.431, 13 HR in 277 PA_
-- **Jazz Chisholm Jr.** (NYY, 2B) — 2-for-4, 2 HR, 5 RBI, 2 R. _Season: .227/.302/.423, 16 HR in 371 PA_
-- **Petey Halpin** (CLE) — 3-for-5, 2 HR, 1 2B, 3 RBI, 3 R. _Season: .222/.243/.375, 2 HR in 76 PA_
-- **Dillon Dingler** (DET, C) — 4-for-5, 2 HR, 3 RBI, 3 R. _Season: .268/.332/.524, 21 HR in 379 PA_
-- **Yordan Alvarez** (HOU, DH) — 3-for-4, 2 HR, 2 RBI, 2 R. _Season: .324/.432/.651, 33 HR in 438 PA_
-- **Rhys Hoskins** (CLE) — 2-for-5, 2 HR, 2 RBI, 2 R. _Season: .182/.314/.387, 11 HR in 274 PA_
-- **Cal Raleigh** (SEA, C) — 1-for-5, 1 HR, 5 RBI, 1 R. _Season: .163/.266/.307, 10 HR in 297 PA_
-- **Cooper Pratt** (MIL) — 3-for-4, 1 HR, 1 RBI, 2 R, 1 SB. _Season: .267/.356/.360, 1 HR in 101 PA_
-- **Travis Bazzana** (CLE, 2B) — 3-for-5, 1 HR, 1 RBI, 2 R. _Season: .246/.337/.419, 9 HR in 300 PA_
-- **Jacob Young** (WSH) — 3-for-4, 1 HR, 1 RBI, 1 R. _Season: .233/.289/.387, 9 HR in 302 PA_
-- **Chase DeLauter** (CLE, RF) — 4-for-5, 2 2B, 3 RBI. _Season: .286/.351/.457, 11 HR in 350 PA_
-- **Victor Robles** (SEA) — 4-for-4, 2 R, 1 SB. _Season: .240/.286/.269, 0 HR in 113 PA_
-- **Gunnar Henderson** (BAL, SS) — 3-for-5, 3 2B, 1 R. _Season: .224/.293/.402, 17 HR in 458 PA_
-- **Tommy White** (ATH) — 4-for-5, 1 R. _Season: .455/.500/.545, 0 HR in 12 PA_
+- **CJ Abrams** (WSH, SS) — 2-for-3, 2 HR, 4 RBI, 2 R, 1 BB. _Season: .279/.354/.538, 24 HR in 418 PA_
+- **Manny Machado** (SD, 3B) — 2-for-5, 2 HR, 2 RBI, 2 R. _Season: .204/.294/.433, 22 HR in 413 PA_
+- **Nick Fortes** (TB) — 3-for-5, 1 HR, 4 RBI, 2 R. _Season: .266/.308/.369, 4 HR in 239 PA_
+- **Fernando Tatis Jr.** (SD, RF) — 3-for-5, 1 HR, 1 2B, 3 RBI, 2 R. _Season: .286/.349/.403, 8 HR in 439 PA_
+- **Brandon Nimmo** (TEX, RF) — 4-for-4, 1 HR, 2 RBI, 2 R. _Season: .268/.336/.433, 10 HR in 405 PA_
+- **Chandler Simpson** (TB, LF) — 4-for-5, 1 RBI, 1 R. _Season: .289/.324/.352, 0 HR in 375 PA_
+- **Ben Williamson** (TB) — 4-for-5, 2 R. _Season: .257/.321/.336, 2 HR in 235 PA_
 
 ## Pitching
 
-- **George Kirby** (SEA) — 6.0 IP, 0 ER, 6 K, 1 BB, 3 H, W. _Season: 3.57 ERA, 3.24 FIP, 104 K in 116.0 IP_
-- **Andrew Abbott** (CIN) — 6.0 IP, 0 ER, 6 K, 2 BB, 4 H. _Season: 3.89 ERA, 4.70 FIP, 90 K in 111.0 IP_
+- **Kumar Rocker** (TEX) — 6.0 IP, 0 ER, 6 K, 2 BB, 1 H, W. _Season: 4.13 ERA, 4.15 FIP, 86 K in 96.0 IP_
+- **David Peterson** (CHC) — 6.9 IP, 0 ER, 4 K, 1 BB, 3 H, W. _Season: 5.57 ERA, 5.05 FIP, 11 K in 21.0 IP_
+- **Zac Thornton** (NYM) — 6.0 IP, 0 ER, 2 K, 1 BB, 3 H, W. _Season: 1.93 ERA, 2.97 FIP, 17 K in 23.1 IP_
 
 ---
 _Thresholds: hitters need 2+ HR, 4+ H, 5+ RBI, 4+ R, 3+ SB, a multi-hit homer game, or 3+ XBH. Pitchers need 7+ IP with ≤1 ER, a 6+ IP shutout, or 10+ K. Baselines are season-to-date only._
