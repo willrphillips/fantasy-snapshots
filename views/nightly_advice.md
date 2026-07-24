@@ -1,9 +1,13 @@
-# Morning brief — July 23, 2026
+# Morning brief — July 24, 2026
 
-_db latest: 2026-07-22_
+_db latest: 2026-07-23_
 
-Nothing worth changing this morning, sir. A thin schedule leaves most of the roster idle, and what can play is already on the field. Albies, McGonigle and Kwan are your only bats with a game, and all three are seated; Kwan is carrying a .441 fortnight, so he stays put. The three arms that can actually throw today, Sabrowski, Cantillo and Melton, all Cleveland or Detroit relievers, are already in your active pitching slots. The four starters filling the rest, Yamamoto, Hancock, Scott and Baz, have no game today, but neither does anything on the bench, so there is nobody better to promote. No empty slots, and no idle starter left in front of a reliever who could throw.
+Nothing worth changing this morning, sir.
 
-The wire dangles Ty France and his five home runs in the last fortnight, tempting under Baronball, but he is the one bat cooling on the expected numbers, a .041 wOBA overshoot, while Kwan is the one heating up. I will not swap a hot bat who plays today for a cold one on a hunch, and the honest bar here is a clear upgrade, not a gamble.
+The three arms that can put runs on the board today are already on the mound: Cantillo starting against Tampa Bay, with Sabrowski and Melton both in relief for clubs that play. The four idle starters sitting in pitching slots, Yamamoto, Baz, Hancock and Yesavage, would record nothing whether they sat here or on the bench, and the only arms in reserve are Fried and Scott, equally idle today. Ben Brown stays on the injured list where he belongs. There is no seating change that collects a single extra inning.
 
-The lineup is right as it stands. I have touched nothing, so there is nothing to reverse.
+Every bat in an active slot has a game. Soto is cold over the fortnight and Albies colder still, but both are genuine assets with lineups to fill today, and the one hitter on the bench, Marsh, is battier than either at .129 over two weeks. Trading a star's at-bats for his does us no good.
+
+No empty slots, no free agent clearly better than a man I would care to drop, and the waiver bats on offer are singles-hitters who do nothing for the power and strikeout upside we are chasing into August. The deadline is three weeks out; today asks for patience, not activity.
+
+I have touched nothing. Should you wake wanting a different arm in a slot, it is all as you left it.
