@@ -1,16 +1,15 @@
-# Morning brief — July 26, 2026
+# Morning brief — July 27, 2026
 
-_db latest: 2026-07-25_
+_db latest: 2026-07-26_
 
-Two moves this morning, sir, both plain.
+One move worth making this morning, sir, and it is a bat.
 
-Start Brandon Marsh in the outfield over Juan Soto. Soto stays on the ten-day list and will bank a clean zero today, while Marsh is healthy and his club plays New York. A cold bat that takes the field still beats a good one on the shelf.
+Your catcher slot has sat empty since Langeliers went on the IL, and an open slot is a guaranteed zero for every day it stays that way. Salvador Perez is a free agent with four home runs in his last fourteen games, which is precisely the power this roster is meant to be chasing now. Add him for Troy Melton and start him behind the plate. Melton's 1.95 ERA is a mirage; his FIP is 4.05 and the regression watch has him flagged to hand all of it back, so he is the arm I can best afford to lose from a staff already ten deep.
 
-Fill the empty shortstop slot. Add Willy Adames and drop Christian Scott. Adames has three home runs and an .837 OPS across the last fortnight, which is precisely the ceiling we are chasing, and an unfilled slot banks nothing at all. Scott sits tenth on a staff of ten with no active role and 8.7 percent ownership, so the innings will not be missed.
+Shortstop is empty as well, but I am spending a single claim this morning rather than two. I cannot see how much of the weekly acquisition budget remains, and I would sooner land the catcher than risk losing both. The shortstop keeps until tomorrow.
 
-The rest holds. All three relievers who can throw today are already seated, and no idle starter on the bench betters the idle starters in place, so I have disturbed nothing there.
+Nothing else needs touching. No starter of yours takes the mound today, so the idle arms cost nothing where they sit, and the relievers who can actually throw are already in your lineup. There is no hitter on the bench with a game to promote in anyone's place.
 
-The Marsh swap is submitted and yours to reverse at will. The Adames add has gone in as well; whether it beat the weekly acquisition cap you will see recorded just below.
+The lineup is set and you may reverse any of it. The Perez claim has been submitted, and you will see below whether it cleared.
 
-Failed to add Willy Adames for Christian Scott: HTTP 409 — {"messages":["Willy Adames is not on waivers"],"details":[{"message":"Willy Adames is not on waivers","shortMessage":"Willy Adames is not on waivers","resolution":null,"type":"TRAN_PLAYER_NOT_WAIVERS","metaData":null}]} | retried as FREEAGENT: HTTP 409 — {"messages":["Team 9 has exceeded the matchup acquisition limit."],"details":[{"message":"Team 9 has exceeded the matchup acquisition limit.","shortMessage":"Team 9 has exceeded the matchup acquisition limit.","resolution":null,"type":"TRAN_ACQUISITION_LIMIT_EXCEEDED_MATCHUP","metaData":null}]}
-Started Brandon Marsh over Juan Soto.
+Added Salvador Perez, dropped Troy Melton.
