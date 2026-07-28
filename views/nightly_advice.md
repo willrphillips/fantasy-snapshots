@@ -1,15 +1,11 @@
-# Morning brief — July 27, 2026
+# Morning brief — July 28, 2026
 
-_db latest: 2026-07-26_
+_db latest: 2026-07-27_
 
-One move worth making this morning, sir, and it is a bat.
+Nothing worth changing this morning, sir. The lineup is already right.
 
-Your catcher slot has sat empty since Langeliers went on the IL, and an open slot is a guaranteed zero for every day it stays that way. Salvador Perez is a free agent with four home runs in his last fourteen games, which is precisely the power this roster is meant to be chasing now. Add him for Troy Melton and start him behind the plate. Melton's 1.95 ERA is a mirage; his FIP is 4.05 and the regression watch has him flagged to hand all of it back, so he is the arm I can best afford to lose from a staff already ten deep.
+Every active slot is filled and every man in one has a game today, so there is no idle bat to rescue and no empty pitching slot leaking free innings. On the mound nobody is scheduled to start, and Sabrowski is your only live arm, already seated. The other six pitching slots hold starters who are dark today, but there is no reliever on the bench or the wire I can confirm throws today to replace them, and swapping one dormant starter for another gains nothing. Jones sits idle on the bench for the same reason. Tomorrow's card reshuffles all of it.
 
-Shortstop is empty as well, but I am spending a single claim this morning rather than two. I cannot see how much of the weekly acquisition budget remains, and I would sooner land the catcher than risk losing both. The shortstop keeps until tomorrow.
+The bench offers no upgrade worth the churn. Freeman and Stott both play, but Contreras and France are scorching in the slots they would take, and neither bench man brings the power your approach now demands. Kwan carries no thump, true to form, though a .455 fortnight is not something I will bench for a boom-or-bust waiver flyer hitting under .200. That is a lateral move dressed as ambition.
 
-Nothing else needs touching. No starter of yours takes the mound today, so the idle arms cost nothing where they sit, and the relievers who can actually throw are already in your lineup. There is no hitter on the bench with a game to promote in anyone's place.
-
-The lineup is set and you may reverse any of it. The Perez claim has been submitted, and you will see below whether it cleared.
-
-Added Salvador Perez, dropped Troy Melton.
+Nothing on the wire clears the bar over a producing arm or bat, so I am spending none of your acquisitions today. The staff is deep, the bats have games, and the sensible play is to let it ride and check again in the morning.
