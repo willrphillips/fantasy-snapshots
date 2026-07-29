@@ -1,11 +1,15 @@
-# Morning brief — July 28, 2026
+# Morning brief — July 29, 2026
 
-_db latest: 2026-07-27_
+_db latest: 2026-07-28_
 
-Nothing worth changing this morning, sir. The lineup is already right.
+Good morning, sir. One move today, and it is not optional.
 
-Every active slot is filled and every man in one has a game today, so there is no idle bat to rescue and no empty pitching slot leaking free innings. On the mound nobody is scheduled to start, and Sabrowski is your only live arm, already seated. The other six pitching slots hold starters who are dark today, but there is no reliever on the bench or the wire I can confirm throws today to replace them, and swapping one dormant starter for another gains nothing. Jones sits idle on the bench for the same reason. Tomorrow's card reshuffles all of it.
+Jared Jones is marked STARTING today against Arizona yet sits on the bench, while Shane Baz occupies an active pitching slot and will not take the mound at all. That is a live start going uncollected in favour of a guaranteed zero, so Jones comes in and Baz sits. Jones has been excellent of late besides, a 1.64 ERA across his last fortnight, which suits the swing-for-the-fences mandate nicely.
 
-The bench offers no upgrade worth the churn. Freeman and Stott both play, but Contreras and France are scorching in the slots they would take, and neither bench man brings the power your approach now demands. Kwan carries no thump, true to form, though a .455 fortnight is not something I will bench for a boom-or-bust waiver flyer hitting under .200. That is a lateral move dressed as ambition.
+Hancock and Christian Scott, your other two men on the mound today, are already correctly seated, as is Sabrowski, who can at least throw in relief. Yamamoto, Fried and Bradish are idle today but keep their slots; this lineup runs again tomorrow, so nothing is lost by leaving the aces parked until their turns come round.
 
-Nothing on the wire clears the bar over a producing arm or bat, so I am spending none of your acquisitions today. The staff is deep, the bats have games, and the sensible play is to let it ride and check again in the morning.
+The bats need no attention. Every active hitter has a game, so there is no idle body to shuffle out, and no bench hitter offers a clear enough upgrade to bother. Marsh is dreadful of late at a .346 OPS over fourteen days, but he is an outfielder and your bench alternatives are not, so he stays put for now. Worth revisiting if he keeps this up.
+
+The Jones-for-Baz swap is done and you may reverse it at your leisure. No adds or drops this morning.
+
+Started Jared Jones over Shane Baz.
