@@ -1,13 +1,13 @@
-# Morning brief — July 30, 2026
+# Morning brief — July 31, 2026
 
-_db latest: 2026-07-29_
+_db latest: 2026-07-30_
 
 Nothing worth changing this morning, sir.
 
-Every arm you own is dark today. Not one of the seven in your pitching slots is on the mound, Sabrowski and Baz have no game at all, and Bradish sits idle on the bench, so there is no reliever to promote and no seat swap that buys you a single inning. Leave them.
+Every active slot is filled and every bat in one has a game today, so there is no idle man to swap out. The pitching is the usual quiet Thursday: not one of your starters is on the mound, and the only live arm is Sabrowski in relief, already seated. Baz on the bench is himself an idle starter and Ben Brown is on the IL, so there is no reliever to promote over the dormant rotation. Tomorrow will reshuffle when someone actually takes the ball.
 
-The bats are already arranged as well as they can be. Six of your nine active hitters are playing; the two that are not, Marsh and Kwan, are both outfielders, and the only bench hitter with a game today is Contreras, who carries no outfield eligibility and cannot legally take either slot. Every infield and utility spot he could fill is held by a man who is also playing, so moving him in gains nothing.
+The bench holds Contreras, who is scalding at a 1.114 OPS over the fortnight, but he slots only at first or UTIL, and Freeman and France are both filling those and both hitting. No seat to give him without demoting a man who is producing.
 
-As for the wire, no free agent is a clean enough upgrade to justify burning an acquisition you cannot verify is still available. Hernández and his eight home runs in thirty days are tempting for the power chase, but I will not sell Marsh or Kwan low on a hot fortnight, and Kwan is hitting .391 over the last two weeks regardless of the empty power column.
+On the wire, nothing clears the bar. The available power bats and strikeout arms are lateral moves at best, and I will not spend an acquisition on a coin flip while the deadline is still a fortnight off. Albies is cold, but his power ceiling is the point of keeping him over Stott's safer average, which suits how you are playing this.
 
-The roster is right as it stands. I have touched nothing.
+I have left the lineup as it stands. There is nothing to reverse.
