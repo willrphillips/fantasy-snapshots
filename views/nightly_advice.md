@@ -1,13 +1,11 @@
-# Morning brief — July 31, 2026
+# Morning brief — August 1, 2026
 
-_db latest: 2026-07-30_
+_db latest: 2026-07-31_
 
 Nothing worth changing this morning, sir.
 
-Every active slot is filled and every bat in one has a game today, so there is no idle man to swap out. The pitching is the usual quiet Thursday: not one of your starters is on the mound, and the only live arm is Sabrowski in relief, already seated. Baz on the bench is himself an idle starter and Ben Brown is on the IL, so there is no reliever to promote over the dormant rotation. Tomorrow will reshuffle when someone actually takes the ball.
+The three arms on the mound today, Yamamoto against Boston, Fried against the Cubs and Baz against Philadelphia, are all seated where they belong, and Sabrowski holds the last pitching slot as a reliever whose club plays, which is exactly the order these things should run. Hancock, Bradish and Jones are idle today, but the only pitcher on the bench is Christian Scott, equally idle, so there is nothing to gain by shuffling one bystander for another. It costs us nothing to leave them; the brief runs again tomorrow when their turns come round.
 
-The bench holds Contreras, who is scalding at a 1.114 OPS over the fortnight, but he slots only at first or UTIL, and Freeman and France are both filling those and both hitting. No seat to give him without demoting a man who is producing.
+Every hitter in an active slot has a game, so no one is drawing a guaranteed zero. Contreras and Stott sit on the bench with games of their own, but nobody ahead of them is idle, and Contreras is day-to-day besides, so I would not force the issue.
 
-On the wire, nothing clears the bar. The available power bats and strikeout arms are lateral moves at best, and I will not spend an acquisition on a coin flip while the deadline is still a fortnight off. Albies is cold, but his power ceiling is the point of keeping him over Stott's safer average, which suits how you are playing this.
-
-I have left the lineup as it stands. There is nothing to reverse.
+No free agent is a clear enough upgrade on your worst man to justify burning an acquisition on a guess, particularly when I cannot confirm from here who actually takes the ball today. The roster is right as it stands. Lineup is untouched, and there is nothing below to report.
