@@ -1,11 +1,11 @@
-# Morning brief — August 1, 2026
+# Morning brief — August 2, 2026
 
-_db latest: 2026-07-31_
+_db latest: 2026-08-01_
 
 Nothing worth changing this morning, sir.
 
-The three arms on the mound today, Yamamoto against Boston, Fried against the Cubs and Baz against Philadelphia, are all seated where they belong, and Sabrowski holds the last pitching slot as a reliever whose club plays, which is exactly the order these things should run. Hancock, Bradish and Jones are idle today, but the only pitcher on the bench is Christian Scott, equally idle, so there is nothing to gain by shuffling one bystander for another. It costs us nothing to leave them; the brief runs again tomorrow when their turns come round.
+Every active slot is filled and every one of your nine hitters has a game today, so there is no idle bat to rescue and no empty slot leaking innings. The two arms that will actually record something, Bradish starting against Philadelphia and Sabrowski available in relief for Cleveland, are both seated. The five starters resting their arms today, Yamamoto, Fried, Hancock, Scott and Baz, stay put only because the bench offers nothing live to replace them: Jones is also dark tonight and Brown is on the IL. Seating an idle ace over another idle ace changes nothing, and tomorrow's brief will sort them again.
 
-Every hitter in an active slot has a game, so no one is drawing a guaranteed zero. Contreras and Stott sit on the bench with games of their own, but nobody ahead of them is idle, and Contreras is day-to-day besides, so I would not force the issue.
+Contreras is the one temptation, red hot at a 1.108 mark over the last fortnight, but he carries no catcher eligibility and is day-to-day, so displacing an equally scorching and fully healthy Freeman or France for him invites a zero for no real gain. Stott over Albies is likewise a coin toss rather than an upgrade, and Baronball prefers Albies' power ceiling anyway. The waiver bats and arms on offer are all steady-value types that do you no good in your position and none clears a rostered asset by a margin worth a transaction.
 
-No free agent is a clear enough upgrade on your worst man to justify burning an acquisition on a guess, particularly when I cannot confirm from here who actually takes the ball today. The roster is right as it stands. Lineup is untouched, and there is nothing below to report.
+The staff is as aggressive as it can be with today's slate. I will look again in the morning.
