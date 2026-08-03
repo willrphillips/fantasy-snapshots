@@ -1,11 +1,15 @@
-# Morning brief — August 2, 2026
+# Morning brief — August 3, 2026
 
-_db latest: 2026-08-01_
+_db latest: 2026-08-02_
 
-Nothing worth changing this morning, sir.
+One change this morning, sir, and it is only arithmetic. Bryson Stott is at Washington today while Ozzie Albies sits idle, so I have moved Stott into the second-base slot over Albies. A live bat, however modest, beats a guaranteed zero, and that is the whole of the case.
 
-Every active slot is filled and every one of your nine hitters has a game today, so there is no idle bat to rescue and no empty slot leaking innings. The two arms that will actually record something, Bradish starting against Philadelphia and Sabrowski available in relief for Cleveland, are both seated. The five starters resting their arms today, Yamamoto, Fried, Hancock, Scott and Baz, stay put only because the bench offers nothing live to replace them: Jones is also dark tonight and Brown is on the IL. Seating an idle ace over another idle ace changes nothing, and tomorrow's brief will sort them again.
+The rest of your hitters with a game hold their places: Freeman and Muncy at Chicago, Marsh at Washington, France at Arizona. The idle men, Perez, Kwan, Soderstrom and Wilson, have no eligible replacement with a game on the bench, so they keep their slots by default rather than merit.
 
-Contreras is the one temptation, red hot at a 1.108 mark over the last fortnight, but he carries no catcher eligibility and is day-to-day, so displacing an equally scorching and fully healthy Freeman or France for him invites a zero for no real gain. Stott over Albies is likewise a coin toss rather than an upgrade, and Baronball prefers Albies' power ceiling anyway. The waiver bats and arms on offer are all steady-value types that do you no good in your position and none clears a rostered asset by a margin worth a transaction.
+The pitching staff is a graveyard today. Not one of your arms is on the mound, and neither Yamamoto nor Fried is starting, so there is nothing to reorder. A reliever whose team played would leapfrog an idle starter, but you have none available this morning, Jones included. Leaving the seven as they stand costs nothing, and the brief runs again tomorrow when their turns come round.
 
-The staff is as aggressive as it can be with today's slate. I will look again in the morning.
+No add or drop. Nothing on the wire is a clear enough upgrade to justify spending an acquisition, and I will not burn one to look busy.
+
+The Stott swap is in and you may reverse it at your leisure.
+
+Started Bryson Stott over Ozzie Albies.
