@@ -1,21 +1,23 @@
 # Anomaly Digest — Standout Game Lines
 
-_Generated: 2026-08-02T04:45 ET — game day 2026-08-01 (delta vs 2026-07-31)._
+_Generated: 2026-08-03T04:45 ET — game day 2026-08-02 (delta vs 2026-08-01)._
 
 ## Hitting
 
-- **Hunter Goodman** (COL, C) — 4-for-5, 2 HR, 5 RBI, 2 R. _Season: .258/.329/.559, 33 HR in 426 PA_
-- **Ceddanne Rafaela** (BOS, CF) — 2-for-4, 2 HR, 2 RBI, 2 R. _Season: .288/.327/.471, 14 HR in 436 PA_
-- **Henry Bolte** (ATH, CF) — 3-for-4, 1 HR, 1 2B, 3 RBI, 2 R, 1 BB. _Season: .257/.340/.350, 4 HR in 246 PA_
-- **Geraldo Perdomo** (AZ, SS) — 4-for-6, 1 HR, 3 RBI, 1 R. _Season: .238/.355/.366, 9 HR in 464 PA_
-- **Kevin McGonigle** (DET, SS) — 3-for-4, 1 HR, 2 RBI, 2 R, 1 BB. _Season: .290/.394/.435, 11 HR in 480 PA_
-- **Teoscar Hernández** (LAD, LF) — 3-for-4, 1 HR, 2 RBI, 1 R. _Season: .256/.325/.411, 10 HR in 302 PA_
+- **Yordan Alvarez** (HOU, DH) — 4-for-5, 3 2B, 2 RBI, 1 R. _Season: .330/.442/.650, 35 HR in 489 PA_
+- **Cole Young** (SEA, 2B) — 4-for-5, 1 RBI, 1 R. _Season: .269/.325/.421, 14 HR in 453 PA_
 
 ## Pitching
 
-- **Cristopher Sánchez** (PHI) — 6.0 IP, 0 ER, 11 K, 5 BB, 2 H, W. _Season: 2.61 ERA, 2.62 FIP, 168 K in 144.2 IP_
-- **Drew Rasmussen** (TB) — 6.0 IP, 0 ER, 10 K, 1 BB, 4 H, W. _Season: 2.91 ERA, 3.01 FIP, 122 K in 117.1 IP_
-- **Martín Pérez** (ATL) — 7.0 IP, 0 ER, 6 K, 2 BB, 1 H, W. _Season: 3.24 ERA, 4.29 FIP, 75 K in 97.1 IP_
+- **Gavin Williams** (CLE) — 5.9 IP, 0 ER, 10 K, 1 BB, 1 H, W. _Season: 3.56 ERA, 3.41 FIP, 178 K in 139.0 IP_
+- **Jacob Misiorowski** (MIL) — 7.0 IP, 2 ER, 10 K, 1 BB, 2 H. _Season: 1.63 ERA, 2.05 FIP, 195 K in 127.0 IP_
+- **Matthew Liberatore** (STL) — 6.0 IP, 0 ER, 7 K, 1 BB, 1 H. _Season: 4.97 ERA, 4.65 FIP, 107 K in 108.2 IP_
+- **Walbert Ureña** (LAA) — 6.0 IP, 0 ER, 7 K, 3 BB, 3 H, W. _Season: 2.54 ERA, 3.79 FIP, 95 K in 99.1 IP_
+- **Sandy Alcantara** (MIA) — 6.0 IP, 0 ER, 5 K, 2 BB, 4 H, W. _Season: 3.68 ERA, 3.90 FIP, 120 K in 156.2 IP_
+- **Kyle Freeland** (COL) — 9.0 IP, 1 ER, 8 K, 2 BB, 5 H, W. _Season: 6.81 ERA, 4.68 FIP, 93 K in 108.1 IP_
+- **George Kirby** (SEA) — 7.0 IP, 0 ER, 3 K, 1 BB, 5 H. _Season: 3.76 ERA, 3.59 FIP, 110 K in 127.0 IP_
+- **Anthony Kay** (CWS) — 6.8 IP, 0 ER, 3 K, 1 BB, 7 H, W. _Season: 4.01 ERA, 4.81 FIP, 90 K in 110.0 IP_
+- **Keider Montero** (DET) — 6.0 IP, 0 ER, 2 K, 2 BB, 2 H, W. _Season: 3.17 ERA, 3.71 FIP, 81 K in 116.1 IP_
 
 ---
 _Thresholds: hitters need 2+ HR, 4+ H, 5+ RBI, 4+ R, 3+ SB, a multi-hit homer game, or 3+ XBH. Pitchers need 7+ IP with ≤1 ER, a 6+ IP shutout, or 10+ K. Baselines are season-to-date only._
