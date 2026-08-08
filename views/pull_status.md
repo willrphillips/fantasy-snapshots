@@ -1,36 +1,36 @@
 # Data Pipeline Status
 
-_Generated: 2026-08-07T04:30 ET — db latest pull: 2026-08-06_
+_Generated: 2026-08-08T04:30 ET — db latest pull: 2026-08-07_
 
 ## Row counts
 
 - **db_path**: /home/edwincode/fantasy-bot/fantasy.db
-- **latest_pull**: 2026-08-06
+- **latest_pull**: 2026-08-07
 - **earliest_pull**: 2026-03-26
-- **players**: 1367
-- **hitting_stats**: 69187
-- **pitching_stats**: 83023
-- **statcast**: 48558
-- **rosters**: 16585
-- **standings**: 810
-- **matchups**: 4965
-- **fa_pool**: 16204
-- **pull_log**: 86
+- **players**: 1373
+- **hitting_stats**: 69812
+- **pitching_stats**: 83809
+- **statcast**: 49171
+- **rosters**: 16789
+- **standings**: 820
+- **matchups**: 5020
+- **fa_pool**: 16404
+- **pull_log**: 87
 
 ## Last pull log
 
-- id: 86
-- date_pulled: 2026-08-07
+- id: 87
+- date_pulled: 2026-08-08
 - mode: nightly
-- start_ts: 2026-08-07T03:30:01.740897
-- end_ts: 2026-08-07T03:42:20.943835
-- duration_sec: 739.202938
-- players_tracked: 1367
+- start_ts: 2026-08-08T03:30:01.858323
+- end_ts: 2026-08-08T03:45:09.782691
+- duration_sec: 907.924368
+- players_tracked: 1373
 - new_players: 0
-- hit_rows: 623
-- pit_rows: 784
-- statcast_rows: 612
-- roster_rows: 203
+- hit_rows: 625
+- pit_rows: 786
+- statcast_rows: 613
+- roster_rows: 204
 - standings_rows: 10
 - matchup_rows: 55
 - fa_rows: 200
