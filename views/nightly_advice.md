@@ -1,11 +1,11 @@
-# Morning brief — August 7, 2026
+# Morning brief — August 8, 2026
 
-_db latest: 2026-08-06_
+_db latest: 2026-08-07_
 
-Fried is starting for the Yankees against Atlanta and sitting on your bench while Kyle Bradish, who has no start today, occupies an active pitching slot. That is backwards. Fried in, Bradish out: guaranteed innings and a shot at a win beats zero innings from a pitcher not on the mound today.
+Lineup needs no adjustment this morning; every fielder has a game today, and the pitching slots already seat the correct men, Yamamoto and Bradish starting, Sabrowski working relief for a Cleveland club in action. The four idle starters on the staff have no bench reliever behind them to swap in, so they sit as intended and cost nothing extra. One move is worth making, sir.
 
-Everything else stands. No empty slots, no other starter parked ahead of a man actually pitching, and nothing on waivers clears the bar over what you're rostered.
+Drop Jared Jones for Payton Tolle. Jones has been rough of late, a 5.40 ERA and a 6.10 FIP over his last ten innings, while Tolle has struck out twenty-eight men in his last 17.8 innings with a 2.53 ERA and a 3.38 FIP. That is the strikeout ceiling Baronball is meant to chase, and Jones was not supplying it.
 
-The swap is done, sir, reversible if you disagree.
+Lineup stands as submitted; he may reverse it. The waiver claim has gone in and he will see below whether it cleared.
 
-Started Max Fried over Kyle Bradish.
+Added Payton Tolle, dropped Jared Jones (waiver claim, processes overnight).
