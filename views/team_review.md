@@ -1,6 +1,6 @@
 # Captain Phillips — Team Review
 
-_Generated: 2026-08-08T04:30 ET — db latest pull: 2026-08-07_
+_Generated: 2026-08-09T04:30 ET — db latest pull: 2026-08-08_
 
 ## Roster
 
@@ -10,8 +10,8 @@ _Generated: 2026-08-08T04:30 ET — db latest pull: 2026-08-07_
 | Captain Phillips | 2B | Ozzie Albies | 2B,2B/SS,IF,UTIL,BE,IL | ACTIVE | ATL | 2B | 645277 |
 | Captain Phillips | 3B | Max Muncy | 3B,1B/3B,IF,UTIL,BE,IL | ACTIVE | LAD | 3B | 571970 |
 | Captain Phillips | BE | Freddie Freeman | 1B,1B/3B,IF,UTIL,BE,IL | ACTIVE | LAD | 1B | 518692 |
-| Captain Phillips | BE | Jared Jones | P,SP,BE,IL | ACTIVE | PIT | None | 683003 |
-| Captain Phillips | BE | Willson Contreras | 1B,1B/3B,IF,UTIL,BE,IL | DAY_TO_DAY | BOS | 1B | 575929 |
+| Captain Phillips | BE | Payton Tolle | P,SP,BE,IL | ACTIVE | BOS | P | 801139 |
+| Captain Phillips | BE | Willson Contreras | 1B,1B/3B,IF,UTIL,BE,IL | ACTIVE | BOS | 1B | 575929 |
 | Captain Phillips | C | Salvador Perez | C,1B,1B/3B,IF,DH,UTIL,BE,IL | ACTIVE | KC | C | 521692 |
 | Captain Phillips | IL | Ben Brown | P,SP,RP,BE,IL | SIXTY_DAY_DL | CHC | P | 676962 |
 | Captain Phillips | IL | Juan Soto | RF,OF,UTIL,BE,IL,DH,LF | TEN_DAY_DL | NYM | LF | 665742 |
@@ -33,30 +33,30 @@ _Generated: 2026-08-08T04:30 ET — db latest pull: 2026-08-07_
 
 | Player | S_AVG | S_HR | S_RBI | S_R | S_SB | S_OPS | L14_AVG | L14_HR | L14_RBI | L14_R | L14_OPS | L30_AVG | L30_HR | L30_RBI | L30_OPS |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Ty France | 0.289 | 16 | 50 | 39 | 1 | 0.864 | 0.34 | 0 | 7 | 9 | 0.76 | 0.367 | 6 | 20 | 1.046 |
-| Ozzie Albies | 0.259 | 19 | 63 | 71 | 2 | 0.744 | 0.217 | 3 | 7 | 5 | 0.693 | 0.208 | 5 | 13 | 0.659 |
-| Max Muncy | 0.251 | 22 | 52 | 62 | 2 | 0.834 | 0.158 | 2 | 5 | 4 | 0.554 | 0.188 | 5 | 12 | 0.731 |
-| Freddie Freeman | 0.307 | 15 | 55 | 57 | 5 | 0.861 | 0.413 | 0 | 4 | 1 | 0.861 | 0.354 | 0 | 6 | 0.781 |
-| Willson Contreras | 0.288 | 23 | 70 | 57 | 3 | 0.935 | 0.231 | 1 | 4 | 5 | 0.805 | 0.306 | 3 | 9 | 1.016 |
-| Salvador Perez | 0.216 | 16 | 49 | 40 | 0 | 0.637 | 0.267 | 2 | 6 | 3 | 0.795 | 0.23 | 5 | 13 | 0.767 |
-| Juan Soto | 0.283 | 21 | 52 | 46 | 7 | 0.947 | None | 0 | 0 | 0 | None | 0.172 | 1 | 3 | 0.666 |
-| Shea Langeliers | 0.263 | 23 | 51 | 55 | 2 | 0.829 | None | 0 | 0 | 0 | None | 0.282 | 3 | 6 | 0.968 |
-| Brandon Marsh | 0.278 | 16 | 51 | 60 | 10 | 0.765 | 0.196 | 0 | 4 | 6 | 0.499 | 0.176 | 1 | 5 | 0.474 |
-| Steven Kwan | 0.264 | 2 | 22 | 47 | 8 | 0.695 | 0.386 | 1 | 4 | 5 | 0.951 | 0.415 | 1 | 8 | 1.002 |
-| Tyler Soderstrom | 0.245 | 18 | 53 | 54 | 1 | 0.807 | 0.224 | 2 | 4 | 6 | 0.712 | 0.253 | 5 | 12 | 0.801 |
-| Jacob Wilson | 0.268 | 7 | 36 | 33 | 4 | 0.687 | 0.159 | 0 | 4 | 3 | 0.423 | 0.267 | 3 | 10 | 0.712 |
-| Bryson Stott | 0.258 | 8 | 52 | 49 | 20 | 0.745 | 0.342 | 1 | 10 | 9 | 1.115 | 0.312 | 1 | 11 | 0.943 |
+| Ty France | 0.287 | 16 | 50 | 39 | 1 | 0.862 | 0.311 | 0 | 4 | 8 | 0.733 | 0.359 | 6 | 20 | 1.036 |
+| Ozzie Albies | 0.259 | 19 | 63 | 71 | 2 | 0.745 | 0.217 | 2 | 6 | 4 | 0.65 | 0.208 | 5 | 12 | 0.652 |
+| Max Muncy | 0.249 | 22 | 52 | 62 | 2 | 0.829 | 0.162 | 2 | 5 | 4 | 0.586 | 0.179 | 5 | 12 | 0.709 |
+| Freddie Freeman | 0.304 | 15 | 55 | 57 | 5 | 0.854 | 0.348 | 0 | 4 | 1 | 0.732 | 0.337 | 0 | 6 | 0.747 |
+| Willson Contreras | 0.287 | 23 | 70 | 57 | 3 | 0.929 | 0.241 | 1 | 4 | 5 | 0.781 | 0.296 | 3 | 9 | 0.965 |
+| Salvador Perez | 0.216 | 16 | 49 | 40 | 0 | 0.637 | 0.268 | 1 | 5 | 2 | 0.75 | 0.241 | 5 | 13 | 0.803 |
+| Juan Soto | 0.283 | 21 | 52 | 46 | 7 | 0.947 | None | 0 | 0 | 0 | None | 0.148 | 0 | 2 | 0.499 |
+| Shea Langeliers | 0.263 | 23 | 51 | 55 | 2 | 0.829 | None | 0 | 0 | 0 | None | 0.27 | 3 | 6 | 0.936 |
+| Brandon Marsh | 0.275 | 16 | 52 | 60 | 10 | 0.757 | 0.188 | 0 | 5 | 6 | 0.474 | 0.153 | 1 | 6 | 0.427 |
+| Steven Kwan | 0.263 | 2 | 22 | 47 | 8 | 0.691 | 0.378 | 1 | 4 | 5 | 0.931 | 0.412 | 1 | 8 | 0.98 |
+| Tyler Soderstrom | 0.245 | 19 | 54 | 55 | 1 | 0.812 | 0.224 | 3 | 5 | 7 | 0.786 | 0.256 | 6 | 13 | 0.838 |
+| Jacob Wilson | 0.27 | 7 | 36 | 35 | 4 | 0.696 | 0.2 | 0 | 4 | 5 | 0.545 | 0.264 | 3 | 10 | 0.727 |
+| Bryson Stott | 0.261 | 8 | 52 | 50 | 21 | 0.752 | 0.395 | 1 | 10 | 10 | 1.242 | 0.325 | 1 | 11 | 0.973 |
 
 ## Pitching — season vs L14 vs L30
 
 | Player | S_IP | S_ERA | S_WHIP | S_FIP | S_K | S_W | S_SV | S_HLD | L14_IP | L14_ERA | L14_FIP | L14_K | L30_IP | L30_ERA | L30_FIP |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Jared Jones | 56.0 | 4.02 | 1.11 | 3.83 | 62 | 2 | 0 | 0 | 10.0 | 5.4 | 6.1 | 9 | 21.0 | 3.43 | 4.1 |
+| Payton Tolle | 107.0 | 3.2 | 1.1 | 3.26 | 124 | 7 | 0 | 0 | 17.8 | 2.53 | 3.38 | 28 | 26.9 | 3.35 | 2.91 |
 | Ben Brown | 68.0 | 1.85 | 0.94 | 2.5 | 65 | 4 | 1 | 2 | 0.0 | None | None | 0 | 0.0 | None | None |
 | Christian Scott | 74.1 | 3.15 | 1.26 | 3.38 | 92 | 3 | 0 | 0 | 11.0 | 3.27 | 1.65 | 14 | 20.1 | 3.13 | 1.46 |
 | Emerson Hancock | 116.1 | 3.33 | 1.07 | 3.77 | 108 | 6 | 0 | 0 | 11.0 | 4.91 | 4.28 | 11 | 18.9 | 3.81 | 4.26 |
-| Erik Sabrowski | 31.1 | 3.73 | 1.4 | 3.07 | 53 | 4 | 0 | 20 | 1.0 | 9.0 | 0.1 | 3 | 4.1 | 6.59 | 6.03 |
-| Kyle Bradish | 121.0 | 3.79 | 1.36 | 3.95 | 117 | 7 | 0 | 0 | 7.9 | 7.97 | 4.11 | 7 | 20.8 | 3.89 | 3.2 |
+| Erik Sabrowski | 31.2 | 3.69 | 1.39 | 3.07 | 53 | 4 | 0 | 20 | 1.1 | 8.18 | 0.37 | 3 | 4.2 | 6.43 | 5.96 |
+| Kyle Bradish | 127.0 | 3.69 | 1.34 | 3.87 | 121 | 7 | 0 | 0 | 13.9 | 5.18 | 3.32 | 11 | 26.8 | 3.36 | 2.99 |
 | Max Fried | 75.0 | 3.12 | 1.01 | 2.38 | 71 | 3 | 0 | 0 | 14.9 | 2.42 | 1.69 | 18 | 19.9 | 1.81 | 1.49 |
 | Shane Baz | 136.1 | 3.76 | 1.32 | 3.37 | 120 | 4 | 0 | 0 | 18.9 | 1.9 | 2.84 | 15 | 29.1 | 2.16 | 1.9 |
-| Yoshinobu Yamamoto | 133.2 | 2.76 | 0.88 | 3.47 | 121 | 11 | 0 | 0 | 14.0 | 2.57 | 4.67 | 8 | 29.0 | 3.72 | 4.27 |
+| Yoshinobu Yamamoto | 139.1 | 2.65 | 0.89 | 3.45 | 127 | 11 | 0 | 0 | 13.9 | 1.94 | 4.75 | 9 | 34.9 | 3.09 | 4.07 |
