@@ -1,11 +1,12 @@
-# Morning brief — August 8, 2026
+# Morning brief — August 9, 2026
 
-_db latest: 2026-08-07_
+_db latest: 2026-08-08_
 
-Lineup needs no adjustment this morning; every fielder has a game today, and the pitching slots already seat the correct men, Yamamoto and Bradish starting, Sabrowski working relief for a Cleveland club in action. The four idle starters on the staff have no bench reliever behind them to swap in, so they sit as intended and cost nothing extra. One move is worth making, sir.
+One thing worth doing this morning, sir. Brandon Marsh has gone ice cold, an OPS of .474 over the last two weeks and .427 over the last month, with zero home runs in either span. Carson Benge is scorching on waivers by comparison, a 1.019 OPS with two homers, six RBI, and eight runs in a similar window, and he is outfield eligible, so he drops straight into Marsh's spot. Given the mandate to chase power over safety, the call is to drop Marsh, add Benge, and seat him over Marsh in the outfield.
 
-Drop Jared Jones for Payton Tolle. Jones has been rough of late, a 5.40 ERA and a 6.10 FIP over his last ten innings, while Tolle has struck out twenty-eight men in his last 17.8 innings with a 2.53 ERA and a 3.38 FIP. That is the strikeout ceiling Baronball is meant to chase, and Jones was not supplying it.
+Nothing else moves. All seven pitching slots are already occupied by rostered arms, and the only bench pitcher, Payton Tolle, is not starting today either, so there is no lineup gain to be had there; Emerson Hancock is correctly seated as tonight's lone starter. Ozzie Albies and Max Muncy are both cold at the plate but each carries real season power, nineteen and twenty-two home runs respectively, with no clear waiver upgrade at their positions, so they stay put.
 
-Lineup stands as submitted; he may reverse it. The waiver claim has gone in and he will see below whether it cleared.
+The lineup stands as is beyond the one swap, and that swap is reversible if you disagree. The add and drop have been submitted; you will see below whether it actually cleared.
 
-Added Payton Tolle, dropped Jared Jones (waiver claim, processes overnight).
+Added Carson Benge, dropped Brandon Marsh.
+Could not seat Carson Benge over Brandon Marsh: Brandon Marsh is not on the roster.
