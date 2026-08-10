@@ -1,12 +1,14 @@
-# Morning brief — August 9, 2026
+# Morning brief — August 10, 2026
 
-_db latest: 2026-08-08_
+_db latest: 2026-08-09_
 
-One thing worth doing this morning, sir. Brandon Marsh has gone ice cold, an OPS of .474 over the last two weeks and .427 over the last month, with zero home runs in either span. Carson Benge is scorching on waivers by comparison, a 1.019 OPS with two homers, six RBI, and eight runs in a similar window, and he is outfield eligible, so he drops straight into Marsh's spot. Given the mandate to chase power over safety, the call is to drop Marsh, add Benge, and seat him over Marsh in the outfield.
+One move worth making this morning, sir.
 
-Nothing else moves. All seven pitching slots are already occupied by rostered arms, and the only bench pitcher, Payton Tolle, is not starting today either, so there is no lineup gain to be had there; Emerson Hancock is correctly seated as tonight's lone starter. Ozzie Albies and Max Muncy are both cold at the plate but each carries real season power, nineteen and twenty-two home runs respectively, with no clear waiver upgrade at their positions, so they stay put.
+Steven Kwan carries two home runs for the entire season and has no game today. Daylen Lile has four home runs in his last fourteen games with ten RBI, and covers the same outfield slot. Baronball has no use for empty-calorie average, so I am dropping Kwan for Lile and seating him in the outfield.
 
-The lineup stands as is beyond the one swap, and that swap is reversible if you disagree. The add and drop have been submitted; you will see below whether it actually cleared.
+Nothing else needs touching. Christian Scott is already seated for his start against Atlanta. The other six pitching slots hold starters idle today, but no reliever sits on the bench to replace them, so they stay as is, and Erik Sabrowski stays for his holds. Freeman and Contreras remain benched only because neither carries outfield eligibility to relieve Kwan's old spot themselves; every other starter with a game today already outproduces his bench alternative, so the rest of the lineup is correctly set.
 
-Added Carson Benge, dropped Brandon Marsh.
-Could not seat Carson Benge over Brandon Marsh: Brandon Marsh is not on the roster.
+The outfield swap is done and reversible. The Kwan for Lile claim has been submitted; you will see below whether it cleared.
+
+Added Daylen Lile, dropped Steven Kwan (waiver claim, processes overnight).
+Could not seat Daylen Lile over Steven Kwan: Steven Kwan is not on the roster.
