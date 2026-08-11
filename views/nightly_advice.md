@@ -1,14 +1,13 @@
-# Morning brief — August 10, 2026
+# Morning brief — August 11, 2026
 
-_db latest: 2026-08-09_
+_db latest: 2026-08-10_
 
-One move worth making this morning, sir.
+One pitching swap earns its keep this morning, sir; the rest of the roster stands as is.
 
-Steven Kwan carries two home runs for the entire season and has no game today. Daylen Lile has four home runs in his last fourteen games with ten RBI, and covers the same outfield slot. Baronball has no use for empty-calorie average, so I am dropping Kwan for Lile and seating him in the outfield.
+Start Erik Sabrowski over Kyle Bradish. Every pitching slot is currently seated with a starter marked not throwing today, while Sabrowski's team plays and he sits idle on the bench; he owns 53 strikeouts and 20 holds on the season against Bradish's 7 strikeouts in his last 9 innings. A reliever who takes the mound beats an ace who does not, every time, and this one carries real strikeout weight besides.
 
-Nothing else needs touching. Christian Scott is already seated for his start against Atlanta. The other six pitching slots hold starters idle today, but no reliever sits on the bench to replace them, so they stay as is, and Erik Sabrowski stays for his holds. Freeman and Contreras remain benched only because neither carries outfield eligibility to relieve Kwan's old spot themselves; every other starter with a game today already outproduces his bench alternative, so the rest of the lineup is correctly set.
+Nothing else clears the bar. Every hitter in an active slot has a game today, so there is no bench bat to force in. Freeman and Contreras are the only hitters waiting behind them, and neither is a clear enough step up to be worth the disruption. The waiver pool has some hot lines, Cam Smith and Royce Lewis chief among them, but nothing there outclasses a rostered piece badly enough to justify a drop, and the acquisition limit for the week is not something I can see from here regardless.
 
-The outfield swap is done and reversible. The Kwan for Lile claim has been submitted; you will see below whether it cleared.
+The swap is in and reversible if you want it back. No add or drop went out today.
 
-Added Daylen Lile, dropped Steven Kwan (waiver claim, processes overnight).
-Could not seat Daylen Lile over Steven Kwan: Steven Kwan is not on the roster.
+Started Erik Sabrowski over Kyle Bradish.
