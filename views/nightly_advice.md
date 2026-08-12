@@ -1,13 +1,13 @@
-# Morning brief — August 11, 2026
+# Morning brief — August 12, 2026
 
-_db latest: 2026-08-10_
+_db latest: 2026-08-11_
 
-One pitching swap earns its keep this morning, sir; the rest of the roster stands as is.
+One thing worth doing this morning, sir.
 
-Start Erik Sabrowski over Kyle Bradish. Every pitching slot is currently seated with a starter marked not throwing today, while Sabrowski's team plays and he sits idle on the bench; he owns 53 strikeouts and 20 holds on the season against Bradish's 7 strikeouts in his last 9 innings. A reliever who takes the mound beats an ace who does not, every time, and this one carries real strikeout weight besides.
+Start Willson Contreras over Bryson Stott at utility. Contreras carries 23 home runs and 70 RBI this season against Stott's 8 and 53, and with SB and SV punted under Baronball, Stott's speed contributes nothing you're scoring. Both play today, Toronto and St. Louis, so it costs nothing in playing time either.
 
-Nothing else clears the bar. Every hitter in an active slot has a game today, so there is no bench bat to force in. Freeman and Contreras are the only hitters waiting behind them, and neither is a clear enough step up to be worth the disruption. The waiver pool has some hot lines, Cam Smith and Royce Lewis chief among them, but nothing there outclasses a rostered piece badly enough to justify a drop, and the acquisition limit for the week is not something I can see from here regardless.
+Everything else stands. Every pitching slot is already seated correctly, Shane Baz starting for Baltimore, Erik Sabrowski a live arm with Cleveland in action, and the five idle starters have no reliever behind them on the bench worth the swap. Every active hitter has a game today. Freeman and Muncy at the infield corners are already the right calls under this strategy, Muncy's recent power beating Freeman's punchless average tear. No waiver arm or bat on today's list clears the bar for a drop against what's rostered.
 
-The swap is in and reversible if you want it back. No add or drop went out today.
+The lineup swap is in, and you can reverse it if you disagree.
 
-Started Erik Sabrowski over Kyle Bradish.
+Started Willson Contreras over Bryson Stott.
