@@ -1,13 +1,9 @@
-# Morning brief — August 12, 2026
+# Morning brief — August 13, 2026
 
-_db latest: 2026-08-11_
+_db latest: 2026-08-12_
 
-One thing worth doing this morning, sir.
+Three lineup corrections this morning, sir, and nothing beyond that. Freeman starts at first over Ty France: France has no game, Freeman plays in Milwaukee. Stott takes second over Albies: Albies is idle today, Stott plays in Minnesota and has hit .375 with a 1.012 OPS over his last two weeks. Tolle takes the mound over Bradish: Tolle starts tonight against Toronto, Bradish has no game and would return nothing at all. All three are lineup swaps only, already submitted, and easily reversed if you disagree.
 
-Start Willson Contreras over Bryson Stott at utility. Contreras carries 23 home runs and 70 RBI this season against Stott's 8 and 53, and with SB and SV punted under Baronball, Stott's speed contributes nothing you're scoring. Both play today, Toronto and St. Louis, so it costs nothing in playing time either.
-
-Everything else stands. Every pitching slot is already seated correctly, Shane Baz starting for Baltimore, Erik Sabrowski a live arm with Cleveland in action, and the five idle starters have no reliever behind them on the bench worth the swap. Every active hitter has a game today. Freeman and Muncy at the infield corners are already the right calls under this strategy, Muncy's recent power beating Freeman's punchless average tear. No waiver arm or bat on today's list clears the bar for a drop against what's rostered.
-
-The lineup swap is in, and you can reverse it if you disagree.
-
-Started Willson Contreras over Bryson Stott.
+Started Freddie Freeman over Ty France.
+Started Bryson Stott over Ozzie Albies.
+Started Payton Tolle over Kyle Bradish.
