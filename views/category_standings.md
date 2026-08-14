@@ -1,78 +1,78 @@
 # Standings + Current Matchup
 
-_Generated: 2026-08-13T04:30 ET — db latest pull: 2026-08-12_
+_Generated: 2026-08-14T04:30 ET — db latest pull: 2026-08-13_
 
 ## Standings
 
 | id | date_pulled | team_name | rank | wins | losses | ties | pct |
 |---|---|---|---|---|---|---|---|
-| 921 | 2026-08-13 | Bay County Buccaneers | 1 | 111 | 73 | 14 | 0.596 |
-| 922 | 2026-08-13 | Sh'Dynasty | 2 | 105 | 76 | 17 | 0.573 |
-| 923 | 2026-08-13 | Southside Hitmen | 3 | 104 | 77 | 17 | 0.568 |
-| 924 | 2026-08-13 | The Fellowship of the Skenes | 4 | 104 | 77 | 17 | 0.568 |
-| 925 | 2026-08-13 | Ellz Bellz | 5 | 98 | 74 | 26 | 0.561 |
-| 926 | 2026-08-13 | Brian's Optimum Team | 6 | 89 | 86 | 23 | 0.508 |
-| 927 | 2026-08-13 | EL TORNADO | 7 | 80 | 97 | 21 | 0.457 |
-| 928 | 2026-08-13 | Captain Phillips | 8 | 70 | 107 | 21 | 0.407 |
-| 929 | 2026-08-13 | Antonio's Astounding Team | 9 | 73 | 110 | 15 | 0.407 |
-| 930 | 2026-08-13 | Pete's Perfect Team | 10 | 57 | 114 | 27 | 0.356 |
+| 931 | 2026-08-14 | Bay County Buccaneers | 1 | 111 | 73 | 14 | 0.596 |
+| 932 | 2026-08-14 | Sh'Dynasty | 2 | 105 | 76 | 17 | 0.573 |
+| 933 | 2026-08-14 | Southside Hitmen | 3 | 104 | 77 | 17 | 0.568 |
+| 934 | 2026-08-14 | The Fellowship of the Skenes | 4 | 104 | 77 | 17 | 0.568 |
+| 935 | 2026-08-14 | Ellz Bellz | 5 | 98 | 74 | 26 | 0.561 |
+| 936 | 2026-08-14 | Brian's Optimum Team | 6 | 89 | 86 | 23 | 0.508 |
+| 937 | 2026-08-14 | EL TORNADO | 7 | 80 | 97 | 21 | 0.457 |
+| 938 | 2026-08-14 | Captain Phillips | 8 | 70 | 107 | 21 | 0.407 |
+| 939 | 2026-08-14 | Antonio's Astounding Team | 9 | 73 | 110 | 15 | 0.407 |
+| 940 | 2026-08-14 | Pete's Perfect Team | 10 | 57 | 114 | 27 | 0.356 |
 
 ## Current Matchup (category leaders)
 
 | id | date_pulled | period | home_team | away_team | cat | home_value | away_value | leader |
 |---|---|---|---|---|---|---|---|---|
-| 5754 | 2026-08-13 | 142 | Antonio's Astounding Team | Bay County Buccaneers | AVG | 0.25 | 0.27083333 | away |
-| 5757 | 2026-08-13 | 142 | Antonio's Astounding Team | Bay County Buccaneers | ERA | 4.90909091 | 9.48648649 | away |
-| 5764 | 2026-08-13 | 142 | Antonio's Astounding Team | Bay County Buccaneers | HLD | 0.0 | 1.0 | away |
-| 5755 | 2026-08-13 | 142 | Antonio's Astounding Team | Bay County Buccaneers | HR | 2.0 | 4.0 | away |
-| 5758 | 2026-08-13 | 142 | Antonio's Astounding Team | Bay County Buccaneers | K | 3.0 | 9.0 | away |
-| 5759 | 2026-08-13 | 142 | Antonio's Astounding Team | Bay County Buccaneers | R | 11.0 | 13.0 | away |
-| 5760 | 2026-08-13 | 142 | Antonio's Astounding Team | Bay County Buccaneers | RBI | 10.0 | 15.0 | away |
-| 5762 | 2026-08-13 | 142 | Antonio's Astounding Team | Bay County Buccaneers | SB | 0.0 | 0.0 | tied |
-| 5763 | 2026-08-13 | 142 | Antonio's Astounding Team | Bay County Buccaneers | SV | 0.0 | 1.0 | away |
-| 5761 | 2026-08-13 | 142 | Antonio's Astounding Team | Bay County Buccaneers | W | 0.0 | 1.0 | away |
-| 5756 | 2026-08-13 | 142 | Antonio's Astounding Team | Bay County Buccaneers | WHIP | 1.63636364 | 1.86486486 | away |
-| 5732 | 2026-08-13 | 142 | Brian's Optimum Team | EL TORNADO | AVG | 0.30769231 | 0.23076923 | home |
-| 5735 | 2026-08-13 | 142 | Brian's Optimum Team | EL TORNADO | ERA | 3.98863636 | 4.15384615 | home |
-| 5742 | 2026-08-13 | 142 | Brian's Optimum Team | EL TORNADO | HLD | 0.0 | 0.0 | tied |
-| 5733 | 2026-08-13 | 142 | Brian's Optimum Team | EL TORNADO | HR | 3.0 | 5.0 | away |
-| 5736 | 2026-08-13 | 142 | Brian's Optimum Team | EL TORNADO | K | 33.0 | 11.0 | home |
-| 5737 | 2026-08-13 | 142 | Brian's Optimum Team | EL TORNADO | R | 14.0 | 15.0 | away |
-| 5738 | 2026-08-13 | 142 | Brian's Optimum Team | EL TORNADO | RBI | 14.0 | 8.0 | home |
-| 5740 | 2026-08-13 | 142 | Brian's Optimum Team | EL TORNADO | SB | 2.0 | 2.0 | tied |
-| 5741 | 2026-08-13 | 142 | Brian's Optimum Team | EL TORNADO | SV | 1.0 | 1.0 | tied |
-| 5739 | 2026-08-13 | 142 | Brian's Optimum Team | EL TORNADO | W | 1.0 | 0.0 | home |
-| 5734 | 2026-08-13 | 142 | Brian's Optimum Team | EL TORNADO | WHIP | 1.15909091 | 1.15384615 | away |
-| 5765 | 2026-08-13 | 142 | Captain Phillips | Ellz Bellz | AVG | 0.29545455 | 0.20618557 | home |
-| 5768 | 2026-08-13 | 142 | Captain Phillips | Ellz Bellz | ERA | 10.56521739 | 3.29268293 | away |
-| 5775 | 2026-08-13 | 142 | Captain Phillips | Ellz Bellz | HLD | 1.0 | 0.0 | home |
-| 5766 | 2026-08-13 | 142 | Captain Phillips | Ellz Bellz | HR | 3.0 | 2.0 | home |
-| 5769 | 2026-08-13 | 142 | Captain Phillips | Ellz Bellz | K | 10.0 | 12.0 | away |
-| 5770 | 2026-08-13 | 142 | Captain Phillips | Ellz Bellz | R | 9.0 | 13.0 | away |
-| 5771 | 2026-08-13 | 142 | Captain Phillips | Ellz Bellz | RBI | 15.0 | 15.0 | tied |
-| 5773 | 2026-08-13 | 142 | Captain Phillips | Ellz Bellz | SB | 3.0 | 0.0 | home |
-| 5774 | 2026-08-13 | 142 | Captain Phillips | Ellz Bellz | SV | 0.0 | 3.0 | away |
-| 5772 | 2026-08-13 | 142 | Captain Phillips | Ellz Bellz | W | 0.0 | 0.0 | tied |
-| 5767 | 2026-08-13 | 142 | Captain Phillips | Ellz Bellz | WHIP | 2.34782609 | 1.02439024 | away |
-| 5743 | 2026-08-13 | 142 | Pete's Perfect Team | Sh'Dynasty | AVG | 0.30882353 | 0.27380952 | home |
-| 5746 | 2026-08-13 | 142 | Pete's Perfect Team | Sh'Dynasty | ERA | 2.57142857 | 1.08 | home |
-| 5753 | 2026-08-13 | 142 | Pete's Perfect Team | Sh'Dynasty | HLD | 0.0 | 2.0 | away |
-| 5744 | 2026-08-13 | 142 | Pete's Perfect Team | Sh'Dynasty | HR | 9.0 | 3.0 | home |
-| 5747 | 2026-08-13 | 142 | Pete's Perfect Team | Sh'Dynasty | K | 19.0 | 7.0 | home |
-| 5748 | 2026-08-13 | 142 | Pete's Perfect Team | Sh'Dynasty | R | 19.0 | 19.0 | tied |
-| 5749 | 2026-08-13 | 142 | Pete's Perfect Team | Sh'Dynasty | RBI | 21.0 | 14.0 | home |
-| 5751 | 2026-08-13 | 142 | Pete's Perfect Team | Sh'Dynasty | SB | 2.0 | 4.0 | away |
-| 5752 | 2026-08-13 | 142 | Pete's Perfect Team | Sh'Dynasty | SV | 2.0 | 1.0 | home |
-| 5750 | 2026-08-13 | 142 | Pete's Perfect Team | Sh'Dynasty | W | 1.0 | 0.0 | home |
-| 5745 | 2026-08-13 | 142 | Pete's Perfect Team | Sh'Dynasty | WHIP | 0.85714286 | 1.2 | home |
-| 5721 | 2026-08-13 | 142 | Southside Hitmen | The Fellowship of the Skenes | AVG | 0.24719101 | 0.20238095 | home |
-| 5724 | 2026-08-13 | 142 | Southside Hitmen | The Fellowship of the Skenes | ERA | 3.23076923 | 2.57142857 | away |
-| 5731 | 2026-08-13 | 142 | Southside Hitmen | The Fellowship of the Skenes | HLD | 1.0 | 0.0 | home |
-| 5722 | 2026-08-13 | 142 | Southside Hitmen | The Fellowship of the Skenes | HR | 2.0 | 5.0 | away |
-| 5725 | 2026-08-13 | 142 | Southside Hitmen | The Fellowship of the Skenes | K | 33.0 | 18.0 | home |
-| 5726 | 2026-08-13 | 142 | Southside Hitmen | The Fellowship of the Skenes | R | 14.0 | 12.0 | home |
-| 5727 | 2026-08-13 | 142 | Southside Hitmen | The Fellowship of the Skenes | RBI | 7.0 | 13.0 | away |
-| 5729 | 2026-08-13 | 142 | Southside Hitmen | The Fellowship of the Skenes | SB | 3.0 | 1.0 | home |
-| 5730 | 2026-08-13 | 142 | Southside Hitmen | The Fellowship of the Skenes | SV | 1.0 | 1.0 | tied |
-| 5728 | 2026-08-13 | 142 | Southside Hitmen | The Fellowship of the Skenes | W | 3.0 | 1.0 | home |
-| 5723 | 2026-08-13 | 142 | Southside Hitmen | The Fellowship of the Skenes | WHIP | 1.02564103 | 1.0952381 | home |
+| 5809 | 2026-08-14 | 143 | Antonio's Astounding Team | Bay County Buccaneers | AVG | 0.24444444 | 0.24576271 | away |
+| 5812 | 2026-08-14 | 143 | Antonio's Astounding Team | Bay County Buccaneers | ERA | 2.51162791 | 8.1627907 | home |
+| 5819 | 2026-08-14 | 143 | Antonio's Astounding Team | Bay County Buccaneers | HLD | 0.0 | 1.0 | away |
+| 5810 | 2026-08-14 | 143 | Antonio's Astounding Team | Bay County Buccaneers | HR | 4.0 | 4.0 | tied |
+| 5813 | 2026-08-14 | 143 | Antonio's Astounding Team | Bay County Buccaneers | K | 11.0 | 11.0 | tied |
+| 5814 | 2026-08-14 | 143 | Antonio's Astounding Team | Bay County Buccaneers | R | 15.0 | 13.0 | home |
+| 5815 | 2026-08-14 | 143 | Antonio's Astounding Team | Bay County Buccaneers | RBI | 13.0 | 16.0 | away |
+| 5817 | 2026-08-14 | 143 | Antonio's Astounding Team | Bay County Buccaneers | SB | 0.0 | 3.0 | away |
+| 5818 | 2026-08-14 | 143 | Antonio's Astounding Team | Bay County Buccaneers | SV | 1.0 | 2.0 | away |
+| 5816 | 2026-08-14 | 143 | Antonio's Astounding Team | Bay County Buccaneers | W | 1.0 | 1.0 | tied |
+| 5811 | 2026-08-14 | 143 | Antonio's Astounding Team | Bay County Buccaneers | WHIP | 1.18604651 | 1.6744186 | home |
+| 5787 | 2026-08-14 | 143 | Brian's Optimum Team | EL TORNADO | AVG | 0.27522936 | 0.2278481 | home |
+| 5790 | 2026-08-14 | 143 | Brian's Optimum Team | EL TORNADO | ERA | 3.98863636 | 4.15384615 | home |
+| 5797 | 2026-08-14 | 143 | Brian's Optimum Team | EL TORNADO | HLD | 0.0 | 0.0 | tied |
+| 5788 | 2026-08-14 | 143 | Brian's Optimum Team | EL TORNADO | HR | 3.0 | 5.0 | away |
+| 5791 | 2026-08-14 | 143 | Brian's Optimum Team | EL TORNADO | K | 33.0 | 11.0 | home |
+| 5792 | 2026-08-14 | 143 | Brian's Optimum Team | EL TORNADO | R | 14.0 | 17.0 | away |
+| 5793 | 2026-08-14 | 143 | Brian's Optimum Team | EL TORNADO | RBI | 14.0 | 9.0 | home |
+| 5795 | 2026-08-14 | 143 | Brian's Optimum Team | EL TORNADO | SB | 2.0 | 2.0 | tied |
+| 5796 | 2026-08-14 | 143 | Brian's Optimum Team | EL TORNADO | SV | 1.0 | 1.0 | tied |
+| 5794 | 2026-08-14 | 143 | Brian's Optimum Team | EL TORNADO | W | 1.0 | 0.0 | home |
+| 5789 | 2026-08-14 | 143 | Brian's Optimum Team | EL TORNADO | WHIP | 1.15909091 | 1.15384615 | away |
+| 5820 | 2026-08-14 | 143 | Captain Phillips | Ellz Bellz | AVG | 0.29245283 | 0.19512195 | home |
+| 5823 | 2026-08-14 | 143 | Captain Phillips | Ellz Bellz | ERA | 4.35483871 | 3.25862069 | away |
+| 5830 | 2026-08-14 | 143 | Captain Phillips | Ellz Bellz | HLD | 1.0 | 0.0 | home |
+| 5821 | 2026-08-14 | 143 | Captain Phillips | Ellz Bellz | HR | 4.0 | 2.0 | home |
+| 5824 | 2026-08-14 | 143 | Captain Phillips | Ellz Bellz | K | 18.0 | 18.0 | tied |
+| 5825 | 2026-08-14 | 143 | Captain Phillips | Ellz Bellz | R | 12.0 | 14.0 | away |
+| 5826 | 2026-08-14 | 143 | Captain Phillips | Ellz Bellz | RBI | 21.0 | 16.0 | home |
+| 5828 | 2026-08-14 | 143 | Captain Phillips | Ellz Bellz | SB | 3.0 | 0.0 | home |
+| 5829 | 2026-08-14 | 143 | Captain Phillips | Ellz Bellz | SV | 0.0 | 3.0 | away |
+| 5827 | 2026-08-14 | 143 | Captain Phillips | Ellz Bellz | W | 1.0 | 0.0 | home |
+| 5822 | 2026-08-14 | 143 | Captain Phillips | Ellz Bellz | WHIP | 1.40322581 | 0.98275862 | away |
+| 5798 | 2026-08-14 | 143 | Pete's Perfect Team | Sh'Dynasty | AVG | 0.2875 | 0.28282828 | home |
+| 5801 | 2026-08-14 | 143 | Pete's Perfect Team | Sh'Dynasty | ERA | 2.45454545 | 2.53125 | home |
+| 5808 | 2026-08-14 | 143 | Pete's Perfect Team | Sh'Dynasty | HLD | 0.0 | 3.0 | away |
+| 5799 | 2026-08-14 | 143 | Pete's Perfect Team | Sh'Dynasty | HR | 9.0 | 4.0 | home |
+| 5802 | 2026-08-14 | 143 | Pete's Perfect Team | Sh'Dynasty | K | 19.0 | 10.0 | home |
+| 5803 | 2026-08-14 | 143 | Pete's Perfect Team | Sh'Dynasty | R | 19.0 | 24.0 | away |
+| 5804 | 2026-08-14 | 143 | Pete's Perfect Team | Sh'Dynasty | RBI | 21.0 | 16.0 | home |
+| 5806 | 2026-08-14 | 143 | Pete's Perfect Team | Sh'Dynasty | SB | 2.0 | 5.0 | away |
+| 5807 | 2026-08-14 | 143 | Pete's Perfect Team | Sh'Dynasty | SV | 3.0 | 1.0 | home |
+| 5805 | 2026-08-14 | 143 | Pete's Perfect Team | Sh'Dynasty | W | 1.0 | 0.0 | home |
+| 5800 | 2026-08-14 | 143 | Pete's Perfect Team | Sh'Dynasty | WHIP | 0.81818182 | 1.59375 | home |
+| 5776 | 2026-08-14 | 143 | Southside Hitmen | The Fellowship of the Skenes | AVG | 0.22018349 | 0.25 | away |
+| 5779 | 2026-08-14 | 143 | Southside Hitmen | The Fellowship of the Skenes | ERA | 4.1221374 | 2.57142857 | away |
+| 5786 | 2026-08-14 | 143 | Southside Hitmen | The Fellowship of the Skenes | HLD | 1.0 | 0.0 | home |
+| 5777 | 2026-08-14 | 143 | Southside Hitmen | The Fellowship of the Skenes | HR | 2.0 | 6.0 | away |
+| 5780 | 2026-08-14 | 143 | Southside Hitmen | The Fellowship of the Skenes | K | 40.0 | 18.0 | home |
+| 5781 | 2026-08-14 | 143 | Southside Hitmen | The Fellowship of the Skenes | R | 17.0 | 15.0 | home |
+| 5782 | 2026-08-14 | 143 | Southside Hitmen | The Fellowship of the Skenes | RBI | 8.0 | 19.0 | away |
+| 5784 | 2026-08-14 | 143 | Southside Hitmen | The Fellowship of the Skenes | SB | 3.0 | 1.0 | home |
+| 5785 | 2026-08-14 | 143 | Southside Hitmen | The Fellowship of the Skenes | SV | 1.0 | 1.0 | tied |
+| 5783 | 2026-08-14 | 143 | Southside Hitmen | The Fellowship of the Skenes | W | 3.0 | 1.0 | home |
+| 5778 | 2026-08-14 | 143 | Southside Hitmen | The Fellowship of the Skenes | WHIP | 1.09923664 | 1.0952381 | away |
