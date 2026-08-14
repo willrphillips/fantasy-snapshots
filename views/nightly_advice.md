@@ -1,9 +1,11 @@
-# Morning brief — August 13, 2026
+# Morning brief — August 14, 2026
 
-_db latest: 2026-08-12_
+_db latest: 2026-08-13_
 
-Three lineup corrections this morning, sir, and nothing beyond that. Freeman starts at first over Ty France: France has no game, Freeman plays in Milwaukee. Stott takes second over Albies: Albies is idle today, Stott plays in Minnesota and has hit .375 with a 1.012 OPS over his last two weeks. Tolle takes the mound over Bradish: Tolle starts tonight against Toronto, Bradish has no game and would return nothing at all. All three are lineup swaps only, already submitted, and easily reversed if you disagree.
+Bryson Stott has no game today; Ozzie Albies does. Start Albies at second in his place, sir. An idle bat returns nothing, and Albies has found the ball lately, six home runs in his last thirty days.
 
-Started Freddie Freeman over Ty France.
-Started Bryson Stott over Ozzie Albies.
-Started Payton Tolle over Kyle Bradish.
+The rest of the roster stands. Yamamoto is rightly on the mound. Sabrowski's team plays, so he stays in for the holds. The other five pitching slots are stuck on men not throwing today, Fried, Hancock, Scott, Bradish, and Tolle, but the only pitcher on the bench is Shane Baz, equally idle, so there is nothing to gain by shuffling them. No add or drop today. Ty France is hitting too well on the bench to disturb, and nothing on waivers clears the bar over what is already rostered.
+
+The lineup swap is done. You may reverse it.
+
+Started Ozzie Albies over Bryson Stott.
