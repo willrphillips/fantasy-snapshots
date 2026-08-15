@@ -1,11 +1,11 @@
-# Morning brief — August 14, 2026
+# Morning brief — August 15, 2026
 
-_db latest: 2026-08-13_
+_db latest: 2026-08-14_
 
-Bryson Stott has no game today; Ozzie Albies does. Start Albies at second in his place, sir. An idle bat returns nothing, and Albies has found the ball lately, six home runs in his last thirty days.
+One swap worth making this morning, sir. Start Ty France at first over Freddie Freeman; France is hitting .359 with 6 home runs over his last 30 games, Freeman has none in the same span, and both have games today.
 
-The rest of the roster stands. Yamamoto is rightly on the mound. Sabrowski's team plays, so he stays in for the holds. The other five pitching slots are stuck on men not throwing today, Fried, Hancock, Scott, Bradish, and Tolle, but the only pitcher on the bench is Shane Baz, equally idle, so there is nothing to gain by shuffling them. No add or drop today. Ty France is hitting too well on the bench to disturb, and nothing on waivers clears the bar over what is already rostered.
+Every pitching slot not on the mound today is stuck there for lack of a better arm on the bench, and Sabrowski's 21 holds earn his active spot regardless. Nothing on waivers clears the bar to disturb the rest of the roster.
 
-The lineup swap is done. You may reverse it.
+The lineup swap is done, and you can reverse it if you disagree.
 
-Started Ozzie Albies over Bryson Stott.
+Started Ty France over Freddie Freeman.
