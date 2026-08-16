@@ -1,11 +1,11 @@
-# Morning brief — August 15, 2026
+# Morning brief — August 16, 2026
 
-_db latest: 2026-08-14_
+_db latest: 2026-08-15_
 
-One swap worth making this morning, sir. Start Ty France at first over Freddie Freeman; France is hitting .359 with 6 home runs over his last 30 games, Freeman has none in the same span, and both have games today.
+Nothing worth changing this morning, sir.
 
-Every pitching slot not on the mound today is stuck there for lack of a better arm on the bench, and Sabrowski's 21 holds earn his active spot regardless. Nothing on waivers clears the bar to disturb the rest of the roster.
+Every pitching slot is seated correctly: Christian Scott starts against Washington, Erik Sabrowski's Cleveland plays San Diego, and the five men marked not starting today, Yamamoto, Fried, Hancock, Baz, Bradish, have no better alternative waiting. Payton Tolle is the only arm on the bench and he is idle too, so there is no reliever to swap in over them. All nine active hitters have games today; France, Albies, Muncy, Perez, Wilson, Contreras, Benge, Lile, and Soderstrom are each in play, and the bench bats, Freeman and Stott, would only be lateral moves into slots already filled by men with games of their own.
 
-The lineup swap is done, and you can reverse it if you disagree.
+Nothing on waivers clears the bar either. Ozzie Albies is cold over the last fortnight, .583 OPS, but he carries 20 home runs on the season and is not a player worth surrendering for a hot two-week free agent. Salvador Perez is your only healthy catcher; there is no replacing him regardless of his line. The rest of the staff, Tolle, Hancock, Fried, Yamamoto, is producing strikeouts at a rate no free agent arm clearly beats.
 
-Started Ty France over Freddie Freeman.
+The roster stands as it is, sir.
