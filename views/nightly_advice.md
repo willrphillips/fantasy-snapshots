@@ -1,17 +1,17 @@
-# Morning brief — August 19, 2026
+# Morning brief — August 20, 2026
 
-_db latest: 2026-08-18_
+_db latest: 2026-08-19_
 
-Three moves worth making this morning, sir.
+Three items this morning, sir.
 
-Payton Tolle starts today against Arizona; Max Fried does not pitch at all today and sits on the fifteen-day list besides. Tolle takes the mound slot, Fried to the bench, since idle innings collected are innings wasted.
+Kyle Bradish starts today against the Yankees while sitting on the bench; Christian Scott, who has no game and carries a 6.24 ERA over his last two weeks, was occupying an active arm slot instead. Bradish comes in, Scott goes out.
 
-Salvador Perez has gone cold, .189 with no home runs over his last fourteen days, an .414 OPS to show for it. Alejandro Kirk, a free agent, is hitting .432 with a 1.138 OPS over the same stretch. Kirk takes the catching spot, Perez comes off the roster.
+Ozzie Albies plays the White Sox today; Bryson Stott has no game. Albies takes second base, Stott to the bench.
 
-Daylen Lile has one home run in his last fourteen days. Trent Grisham, also unrostered, has five in that same window with a 1.038 OPS. The mandate this season is power over polish, so Grisham takes the outfield spot Lile is leaving cold.
+Waiver move: Trent Grisham has 5 home runs in 45 plate appearances over the last two weeks, a 1.123 OPS, and the Yankees play today. That is the ceiling Baronball is built to chase. He replaces Christian Scott, now cut loose from the bench, and starts in the outfield over Carson Benge, who has no game.
 
-The lineup swap is already in and reversible if you'd rather not. Both drops have been filed; you'll see below whether either actually cleared.
+The two lineup swaps are already in, and reversible if you disagree. The Grisham move has been sent to ESPN; whether it cleared, you will see below.
 
-Added Alejandro Kirk, dropped Salvador Perez.
-Started Payton Tolle over Max Fried.
-Could not seat Alejandro Kirk over Salvador Perez: Salvador Perez is not on the roster.
+Added Trent Grisham, dropped Christian Scott.
+Could not seat Kyle Bradish over Christian Scott: Christian Scott is not on the roster.
+Started Ozzie Albies over Bryson Stott.
