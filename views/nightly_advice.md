@@ -1,17 +1,14 @@
-# Morning brief — August 20, 2026
+# Morning brief — August 21, 2026
 
-_db latest: 2026-08-19_
+_db latest: 2026-08-20_
 
-Three items this morning, sir.
+One move worth making this morning, sir.
 
-Kyle Bradish starts today against the Yankees while sitting on the bench; Christian Scott, who has no game and carries a 6.24 ERA over his last two weeks, was occupying an active arm slot instead. Bradish comes in, Scott goes out.
+Drop Jacob Wilson for Corey Seager, both SS-eligible. Wilson is marked OUT today and has managed one home run and a .573 OPS over his last two weeks; there is no case for keeping him active. Seager, sitting on waivers, has posted a .929 OPS with three homers over his last month. Given the Baronball mandate to chase power over safety, this is not a close call.
 
-Ozzie Albies plays the White Sox today; Bryson Stott has no game. Albies takes second base, Stott to the bench.
+The rest of the lineup stands. Every active pitching slot already carries all seven eligible arms on the roster: Yamamoto starts today, Sabrowski and Ashby throw in relief for teams that play, and the remaining three sit as non-starters with no bench arm behind any of them to swap in. Rearranging that gains nothing. Every hitter in an active slot has a game today as well, so no bench swaps are called for there.
 
-Waiver move: Trent Grisham has 5 home runs in 45 plate appearances over the last two weeks, a 1.123 OPS, and the Yankees play today. That is the ceiling Baronball is built to chase. He replaces Christian Scott, now cut loose from the bench, and starts in the outfield over Carson Benge, who has no game.
+The lineup change is done and reversible if you disagree. The Seager pickup has been submitted; whether it clears the waiver queue you will see below.
 
-The two lineup swaps are already in, and reversible if you disagree. The Grisham move has been sent to ESPN; whether it cleared, you will see below.
-
-Added Trent Grisham, dropped Christian Scott.
-Could not seat Kyle Bradish over Christian Scott: Christian Scott is not on the roster.
-Started Ozzie Albies over Bryson Stott.
+Added Corey Seager, dropped Jacob Wilson (waiver claim, processes overnight).
+Could not seat Corey Seager over Jacob Wilson: Jacob Wilson is not on the roster.
