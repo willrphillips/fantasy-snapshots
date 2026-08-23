@@ -1,16 +1,16 @@
-# Morning brief — August 22, 2026
+# Morning brief — August 23, 2026
 
-_db latest: 2026-08-21_
+_db latest: 2026-08-22_
 
-Two swaps worth making this morning.
+Two things worth doing this morning, sir; the rest of the roster holds as is.
 
-Start Willson Contreras over Freddie Freeman at first. Freeman has gone ice cold, a .592 OPS and zero home runs over his last fortnight; Contreras has done the opposite, three home runs and a .952 OPS in the same span, and both have games today.
+Ozzie Albies is hitting .178 with a .536 OPS over the last two weeks and Bryson Stott is sitting on the bench with a .711 mark, both play today, so I have moved Stott into the second base slot and sent Albies to the bench.
 
-Start Max Muncy over Bryson Stott at third. Muncy has fourteen RBI and four home runs in his last fourteen days against Stott's seven and one; BARONBALL wants the counting stats, and Muncy is delivering them.
+Cade Cavalli is a free agent posting a 0.74 FIP with 21 strikeouts in 14 innings over his last two starts, well beyond anything Ty France offers from the bench, so I have submitted Cavalli in for France.
 
-The pitching staff stays as seated. Every active pitching slot already holds either a reliever with a game today or a starter with nowhere else to go; the bench carries no arms to swap in. Shane Baz's ERA looks wretched over the last two weeks, but his FIP is far kinder, so he is better kept than cut.
+The pitching staff otherwise sits as it should. Shane Baz starts today and stays regardless of his rough ERA. Sabrowski and Ashby hold the bullpen slots for men whose clubs actually play. The rest are starters without a game and there is no reliever on the bench to put in their place.
 
-Both lineup swaps are done, sir, reversible if you disagree. No add or drop went in this morning.
+Lineup swap is done and reversible. The add and drop has gone in; you will see below whether it cleared.
 
-Started Willson Contreras over Freddie Freeman.
-Started Max Muncy over Bryson Stott.
+Added Cade Cavalli, dropped Ty France.
+Started Bryson Stott over Ozzie Albies.
