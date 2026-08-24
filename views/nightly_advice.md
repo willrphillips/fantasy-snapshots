@@ -1,16 +1,17 @@
-# Morning brief — August 23, 2026
+# Morning brief — August 24, 2026
 
-_db latest: 2026-08-22_
+_db latest: 2026-08-23_
 
-Two things worth doing this morning, sir; the rest of the roster holds as is.
+Two matters want attending this morning, sir.
 
-Ozzie Albies is hitting .178 with a .536 OPS over the last two weeks and Bryson Stott is sitting on the bench with a .711 mark, both play today, so I have moved Stott into the second base slot and sent Albies to the bench.
+Cade Cavalli is starting today and was left rotting on the bench while Payton Tolle, who is not pitching at all, held his slot; Cavalli is now in for Tolle, a live start over an idle one.
 
-Cade Cavalli is a free agent posting a 0.74 FIP with 21 strikeouts in 14 innings over his last two starts, well beyond anything Ty France offers from the bench, so I have submitted Cavalli in for France.
+Kyle Bradish has been dreadful lately, a 4.02 ERA with only 8 strikeouts across his last 11.2 innings, while Reid Detmers sits available with a 0.45 ERA, 0.80 WHIP and 22 strikeouts in his last 20; Bradish is dropped, Detmers added and seated in his place.
 
-The pitching staff otherwise sits as it should. Shane Baz starts today and stays regardless of his rough ERA. Sabrowski and Ashby hold the bullpen slots for men whose clubs actually play. The rest are starters without a game and there is no reliever on the bench to put in their place.
+Everything else stands. Freeman and Albies are cold but remain the better players long term, not worth cutting for a hot fortnight from a lesser arm. The rest of the staff has nothing better waiting on the bench today.
 
-Lineup swap is done and reversible. The add and drop has gone in; you will see below whether it cleared.
+The lineup swaps are done and reversible. The add and drop have been submitted; whether either cleared depends on your weekly claim limit, and the result follows below.
 
-Added Cade Cavalli, dropped Ty France.
-Started Bryson Stott over Ozzie Albies.
+Added Reid Detmers, dropped Kyle Bradish (waiver claim, processes overnight).
+Started Cade Cavalli over Payton Tolle.
+Could not seat Reid Detmers over Kyle Bradish: Kyle Bradish is not on the roster.
