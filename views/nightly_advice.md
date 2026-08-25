@@ -1,17 +1,18 @@
-# Morning brief — August 24, 2026
+# Morning brief — August 25, 2026
 
-_db latest: 2026-08-23_
+_db latest: 2026-08-24_
 
-Two matters want attending this morning, sir.
+Two lineup swaps this morning, sir, nothing more.
 
-Cade Cavalli is starting today and was left rotting on the bench while Payton Tolle, who is not pitching at all, held his slot; Cavalli is now in for Tolle, a live start over an idle one.
+Tyler Soderstrom is on the sixty-day list and starting nothing; Carson Benge is in Milwaukee's lineup today and was sitting idle on your bench. He takes the outfield spot, Soderstrom sits.
 
-Kyle Bradish has been dreadful lately, a 4.02 ERA with only 8 strikeouts across his last 11.2 innings, while Reid Detmers sits available with a 0.45 ERA, 0.80 WHIP and 22 strikeouts in his last 20; Bradish is dropped, Detmers added and seated in his place.
+Bryson Stott has gone cold, a .190 average and one homer over his last fortnight, .568 OPS. Max Muncy has run hot the same stretch, four homers, a 1.169 OPS, and he's eligible at third from your bench. He takes the hot corner; power is the point of this season, and Muncy is supplying it while Stott isn't.
 
-Everything else stands. Freeman and Albies are cold but remain the better players long term, not worth cutting for a hot fortnight from a lesser arm. The rest of the staff has nothing better waiting on the bench today.
+The pitching staff stays as seated. Yamamoto, Fried, and Cavalli are parked in active slots without a start today, but nothing on your bench throws better than any of the three, so idle they remain rather than costing you the asset.
 
-The lineup swaps are done and reversible. The add and drop have been submitted; whether either cleared depends on your weekly claim limit, and the result follows below.
+No waiver moves this morning; nothing on the wire clearly outstrips what's already rostered.
 
-Added Reid Detmers, dropped Kyle Bradish (waiver claim, processes overnight).
-Started Cade Cavalli over Payton Tolle.
-Could not seat Reid Detmers over Kyle Bradish: Kyle Bradish is not on the roster.
+Both swaps are in now and reversible if you disagree. No add or drop went out.
+
+Started Carson Benge over Tyler Soderstrom.
+Started Max Muncy over Bryson Stott.
