@@ -1,18 +1,14 @@
-# Morning brief — August 25, 2026
+# Morning brief — August 26, 2026
 
-_db latest: 2026-08-24_
+_db latest: 2026-08-25_
 
-Two lineup swaps this morning, sir, nothing more.
+Two changes worth making this morning, sir.
 
-Tyler Soderstrom is on the sixty-day list and starting nothing; Carson Benge is in Milwaukee's lineup today and was sitting idle on your bench. He takes the outfield spot, Soderstrom sits.
+Reid Detmers comes off the bench to start today ahead of Max Fried: Detmers has been scoreless across his last fourteen innings with sixteen strikeouts and his team plays today, while Fried sits on the fifteen-day list, producing nothing in an active pitching slot.
 
-Bryson Stott has gone cold, a .190 average and one homer over his last fortnight, .568 OPS. Max Muncy has run hot the same stretch, four homers, a 1.169 OPS, and he's eligible at third from your bench. He takes the hot corner; power is the point of this season, and Muncy is supplying it while Stott isn't.
+I am also dropping Bryson Stott for Luis Robert Jr. off waivers: Robert has posted a 1.260 OPS with five home runs over his last fourteen days against Stott's .542 in the same window, and BARONBALL has no use for Stott's stolen bases when power ceiling is what we are chasing.
 
-The pitching staff stays as seated. Yamamoto, Fried, and Cavalli are parked in active slots without a start today, but nothing on your bench throws better than any of the three, so idle they remain rather than costing you the asset.
+The lineup swap is done and reversible if you disagree. The add and drop has been submitted; the acquisition limit is not something I can see from here, so the result appears below.
 
-No waiver moves this morning; nothing on the wire clearly outstrips what's already rostered.
-
-Both swaps are in now and reversible if you disagree. No add or drop went out.
-
-Started Carson Benge over Tyler Soderstrom.
-Started Max Muncy over Bryson Stott.
+Added Luis Robert Jr., dropped Bryson Stott (waiver claim, processes overnight).
+Started Reid Detmers over Max Fried.
