@@ -1,14 +1,9 @@
-# Morning brief — August 26, 2026
+# Morning brief — August 27, 2026
 
-_db latest: 2026-08-25_
+_db latest: 2026-08-26_
 
-Two changes worth making this morning, sir.
+One swap worth making this morning, sir. The rest of the roster stands as is. Luis Robert Jr. plays Milwaukee today. Willson Contreras has no game at all. I have moved Robert Jr. into the UTIL slot for Contreras, since a stray at-bat beats a certain zero. The rest of the lineup already has its bats in play: Freeman, Albies, Muncy, Kirk, Benge, Lile, and Grisham all play today. Corey Seager's open date has no bench player who can cover shortstop, so he sits with no fix available. Every pitching slot is seated correctly. Yamamoto starts against Atlanta, Ashby's Brewers are in action, and the three not-starting arms, Fried, Baz, and Cavalli, have no healthier bench alternative, since Detmers also has no game today. Standings show zero percent playoff odds under every scenario, so there is no case for caution. This swap costs nothing and gains a chance where there was none.
 
-Reid Detmers comes off the bench to start today ahead of Max Fried: Detmers has been scoreless across his last fourteen innings with sixteen strikeouts and his team plays today, while Fried sits on the fifteen-day list, producing nothing in an active pitching slot.
+The lineup swap is done and reversible if you disagree. No add or drop was submitted today.
 
-I am also dropping Bryson Stott for Luis Robert Jr. off waivers: Robert has posted a 1.260 OPS with five home runs over his last fourteen days against Stott's .542 in the same window, and BARONBALL has no use for Stott's stolen bases when power ceiling is what we are chasing.
-
-The lineup swap is done and reversible if you disagree. The add and drop has been submitted; the acquisition limit is not something I can see from here, so the result appears below.
-
-Added Luis Robert Jr., dropped Bryson Stott (waiver claim, processes overnight).
-Started Reid Detmers over Max Fried.
+Started Luis Robert Jr. over Willson Contreras.
