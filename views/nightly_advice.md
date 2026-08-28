@@ -1,9 +1,13 @@
-# Morning brief — August 27, 2026
+# Morning brief — August 28, 2026
 
-_db latest: 2026-08-26_
+_db latest: 2026-08-27_
 
-One swap worth making this morning, sir. The rest of the roster stands as is. Luis Robert Jr. plays Milwaukee today. Willson Contreras has no game at all. I have moved Robert Jr. into the UTIL slot for Contreras, since a stray at-bat beats a certain zero. The rest of the lineup already has its bats in play: Freeman, Albies, Muncy, Kirk, Benge, Lile, and Grisham all play today. Corey Seager's open date has no bench player who can cover shortstop, so he sits with no fix available. Every pitching slot is seated correctly. Yamamoto starts against Atlanta, Ashby's Brewers are in action, and the three not-starting arms, Fried, Baz, and Cavalli, have no healthier bench alternative, since Detmers also has no game today. Standings show zero percent playoff odds under every scenario, so there is no case for caution. This swap costs nothing and gains a chance where there was none.
+Three changes worth making this morning, sir.
 
-The lineup swap is done and reversible if you disagree. No add or drop was submitted today.
+Reid Detmers is starting today and was sitting on the bench behind Max Fried, who has not thrown a pitch in two weeks and will not throw one today either. Detmers takes the mound, Fried sits. Freddie Freeman has gone fourteen days without a home run and thirty without one, an .656 OPS over that stretch, while Willson Contreras has hit .289 with two homers and a .900 OPS in the same window. Contreras takes first base today. Trent Grisham's power has dried up, seven homers and a .777 OPS across the last month, while Jac Caglianone sits on waivers hitting .400 with seven homers and twenty-nine RBI over that same month. Grisham is dropped for Caglianone, who starts in his place.
 
-Started Luis Robert Jr. over Willson Contreras.
+Lineup swaps are already in and reversible if you disagree. The add and drop have gone in as well; whether it cleared the weekly acquisition limit will show below.
+
+Added Jac Caglianone, dropped Trent Grisham.
+Started Reid Detmers over Max Fried.
+Started Willson Contreras over Freddie Freeman.
