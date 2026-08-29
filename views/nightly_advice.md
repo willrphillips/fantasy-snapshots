@@ -1,13 +1,15 @@
-# Morning brief — August 28, 2026
+# Morning brief — August 29, 2026
 
-_db latest: 2026-08-27_
+_db latest: 2026-08-28_
 
-Three changes worth making this morning, sir.
+Two moves worth making this morning, sir.
 
-Reid Detmers is starting today and was sitting on the bench behind Max Fried, who has not thrown a pitch in two weeks and will not throw one today either. Detmers takes the mound, Fried sits. Freddie Freeman has gone fourteen days without a home run and thirty without one, an .656 OPS over that stretch, while Willson Contreras has hit .289 with two homers and a .900 OPS in the same window. Contreras takes first base today. Trent Grisham's power has dried up, seven homers and a .777 OPS across the last month, while Jac Caglianone sits on waivers hitting .400 with seven homers and twenty-nine RBI over that same month. Grisham is dropped for Caglianone, who starts in his place.
+Cade Cavalli, working a 1.50 ERA over his last two starts, takes the mound today against Miami and was stuck on the bench while Payton Tolle, who throws for no one today, held the active slot. Free innings going uncollected. Cavalli comes in, Tolle sits.
 
-Lineup swaps are already in and reversible if you disagree. The add and drop have gone in as well; whether it cleared the weekly acquisition limit will show below.
+Ozzie Albies has gone cold: two homers, seven RBI, a .621 OPS over his last thirty days, essentially singles with no pop. Luke Keaschall, a clean swap at second base, has outproduced him across that same window with four homers, ten RBI and a .919 OPS. Albies goes, Keaschall comes in and starts.
 
-Added Jac Caglianone, dropped Trent Grisham.
-Started Reid Detmers over Max Fried.
-Started Willson Contreras over Freddie Freeman.
+Lineup swaps are done, reversible if you disagree. The add and drop have been submitted; you'll see below whether it cleared.
+
+Added Luke Keaschall, dropped Ozzie Albies.
+Started Cade Cavalli over Payton Tolle.
+Could not seat Luke Keaschall over Ozzie Albies: Ozzie Albies is not on the roster.
