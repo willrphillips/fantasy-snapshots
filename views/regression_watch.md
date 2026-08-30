@@ -1,56 +1,56 @@
 # Regression Watch
 
-_Generated: 2026-08-29T04:30 ET — db latest pull: 2026-08-28_
+_Generated: 2026-08-30T04:30 ET — db latest pull: 2026-08-29_
 
 ## Hitters — biggest xwOBA-wOBA gaps (positive = expect improvement)
 
 | name | team | primary_pos | woba | xwoba | gap | pa | avg | hr | ops |
 |---|---|---|---|---|---|---|---|---|---|
-| Matt Vierling | DET | None | 0.258 | 0.304 | 0.046 | 291 | 0.207 | 5 | 0.59 |
+| Matt Vierling | DET | None | 0.259 | 0.304 | 0.045 | 291 | 0.207 | 5 | 0.59 |
 | Patrick Bailey | CLE | None | 0.258 | 0.302 | 0.044 | 86 | 0.152 | 1 | 0.411 |
-| Austin Wells | NYY | C | 0.262 | 0.297 | 0.035 | 310 | 0.173 | 8 | 0.556 |
-| Ronald Acuña Jr. | ATL | RF | 0.323 | 0.357 | 0.034 | 361 | 0.235 | 13 | 0.748 |
-| Xander Bogaerts | SD | SS | 0.292 | 0.324 | 0.032 | 508 | 0.217 | 11 | 0.64 |
-| Victor Caratini | MIN | None | 0.288 | 0.32 | 0.032 | 341 | 0.221 | 7 | 0.638 |
-| Marcus Semien | NYM | 2B | 0.275 | 0.306 | 0.031 | 448 | 0.216 | 14 | 0.626 |
-| J.T. Realmuto | PHI | C | 0.291 | 0.321 | 0.03 | 380 | 0.223 | 9 | 0.651 |
-| Brandon Nimmo | TEX | RF | 0.325 | 0.355 | 0.03 | 546 | 0.258 | 13 | 0.738 |
-| Julio Rodríguez | SEA | CF | 0.314 | 0.344 | 0.03 | 538 | 0.247 | 20 | 0.716 |
-| José Ramírez | CLE | 3B | 0.316 | 0.346 | 0.03 | 438 | 0.24 | 10 | 0.717 |
+| Ronald Acuña Jr. | ATL | RF | 0.323 | 0.357 | 0.034 | 365 | 0.236 | 13 | 0.749 |
+| Austin Wells | NYY | C | 0.26 | 0.294 | 0.034 | 315 | 0.173 | 8 | 0.553 |
+| Xander Bogaerts | SD | SS | 0.292 | 0.324 | 0.032 | 509 | 0.217 | 11 | 0.638 |
+| Victor Caratini | MIN | None | 0.288 | 0.32 | 0.032 | 344 | 0.222 | 7 | 0.638 |
+| Marcus Semien | NYM | 2B | 0.274 | 0.305 | 0.031 | 452 | 0.219 | 14 | 0.629 |
+| Brandon Nimmo | TEX | RF | 0.325 | 0.355 | 0.03 | 550 | 0.262 | 14 | 0.75 |
+| Julio Rodríguez | SEA | CF | 0.314 | 0.344 | 0.03 | 542 | 0.246 | 20 | 0.712 |
+| Cam Smith | HOU | RF | 0.292 | 0.321 | 0.029 | 477 | 0.213 | 17 | 0.665 |
+| J.T. Realmuto | PHI | C | 0.292 | 0.321 | 0.029 | 384 | 0.221 | 9 | 0.644 |
 | Luke Raley | SEA | RF | 0.313 | 0.342 | 0.029 | 287 | 0.225 | 15 | 0.723 |
-| JJ Wetherholt | STL | 2B | 0.326 | 0.355 | 0.029 | 582 | 0.244 | 17 | 0.718 |
-| Fernando Tatis Jr. | SD | RF | 0.348 | 0.376 | 0.028 | 586 | 0.285 | 17 | 0.798 |
-| Vladimir Guerrero Jr. | TOR | 1B | 0.305 | 0.333 | 0.028 | 511 | 0.26 | 7 | 0.685 |
-| Cam Smith | HOU | RF | 0.295 | 0.323 | 0.028 | 477 | 0.213 | 17 | 0.665 |
-| Jackson Merrill | SD | CF | 0.306 | 0.332 | 0.026 | 553 | 0.241 | 22 | 0.717 |
-| Jo Adell | CLE | RF | 0.304 | 0.33 | 0.026 | 456 | 0.239 | 16 | 0.682 |
-| Mike Trout | LAA | CF | 0.357 | 0.383 | 0.026 | 517 | 0.241 | 20 | 0.813 |
-| Matt McLain | CIN | 2B | 0.288 | 0.314 | 0.026 | 415 | 0.191 | 13 | 0.635 |
+| JJ Wetherholt | STL | 2B | 0.326 | 0.355 | 0.029 | 586 | 0.242 | 17 | 0.713 |
+| José Ramírez | CLE | 3B | 0.317 | 0.346 | 0.029 | 442 | 0.24 | 10 | 0.719 |
+| Fernando Tatis Jr. | SD | RF | 0.348 | 0.376 | 0.028 | 591 | 0.284 | 17 | 0.795 |
+| Vladimir Guerrero Jr. | TOR | 1B | 0.304 | 0.332 | 0.028 | 515 | 0.258 | 7 | 0.682 |
+| Jackson Merrill | SD | CF | 0.306 | 0.332 | 0.026 | 558 | 0.239 | 22 | 0.712 |
+| Mike Trout | LAA | CF | 0.357 | 0.383 | 0.026 | 522 | 0.239 | 20 | 0.806 |
+| Matt McLain | CIN | 2B | 0.288 | 0.314 | 0.026 | 419 | 0.189 | 13 | 0.628 |
+| Dylan Crews | WSH | RF | 0.293 | 0.319 | 0.026 | 349 | 0.223 | 10 | 0.66 |
 
 ## Hitters — biggest wOBA-xwOBA gaps (negative = expect cooling)
 
 | name | team | primary_pos | woba | xwoba | gap | pa | avg | hr | ops |
 |---|---|---|---|---|---|---|---|---|---|
-| Mickey Moniak | COL | LF | 0.343 | 0.285 | -0.058 | 362 | 0.256 | 21 | 0.816 |
-| Ceddanne Rafaela | BOS | CF | 0.337 | 0.284 | -0.053 | 545 | 0.287 | 16 | 0.779 |
-| Brooks Lee | MIN | SS | 0.32 | 0.273 | -0.047 | 517 | 0.248 | 22 | 0.743 |
-| Chandler Simpson | TB | LF | 0.308 | 0.263 | -0.045 | 509 | 0.309 | 0 | 0.701 |
-| Javier Sanoja | MIA | None | 0.322 | 0.278 | -0.044 | 376 | 0.28 | 6 | 0.742 |
-| Keibert Ruiz | WSH | C | 0.328 | 0.286 | -0.042 | 306 | 0.281 | 9 | 0.773 |
-| Tristan Peters | CWS | None | 0.357 | 0.315 | -0.042 | 404 | 0.282 | 12 | 0.817 |
-| Ernie Clement | TOR | 2B | 0.308 | 0.267 | -0.041 | 530 | 0.279 | 9 | 0.698 |
+| Mickey Moniak | COL | LF | 0.343 | 0.285 | -0.058 | 366 | 0.253 | 21 | 0.807 |
+| Ceddanne Rafaela | BOS | CF | 0.337 | 0.284 | -0.053 | 554 | 0.284 | 16 | 0.77 |
+| Keibert Ruiz | WSH | C | 0.334 | 0.284 | -0.05 | 310 | 0.28 | 9 | 0.769 |
+| Brooks Lee | MIN | SS | 0.32 | 0.273 | -0.047 | 521 | 0.246 | 22 | 0.737 |
+| Chandler Simpson | TB | LF | 0.308 | 0.263 | -0.045 | 513 | 0.311 | 0 | 0.705 |
+| Javier Sanoja | MIA | None | 0.322 | 0.278 | -0.044 | 380 | 0.281 | 6 | 0.743 |
+| Tristan Peters | CWS | None | 0.357 | 0.315 | -0.042 | 408 | 0.279 | 12 | 0.812 |
+| Ernie Clement | TOR | 2B | 0.307 | 0.267 | -0.04 | 534 | 0.277 | 9 | 0.692 |
 | Liam Hicks | TB | C | 0.358 | 0.319 | -0.039 | 409 | 0.282 | 14 | 0.795 |
-| Jose Altuve | HOU | 2B | 0.313 | 0.274 | -0.039 | 462 | 0.246 | 14 | 0.706 |
-| Ty France | SD | None | 0.371 | 0.332 | -0.039 | 395 | 0.285 | 18 | 0.856 |
-| Chase Meidroth | CWS | 2B | 0.332 | 0.294 | -0.038 | 544 | 0.273 | 12 | 0.748 |
-| Ezequiel Duran | TEX | 2B | 0.339 | 0.302 | -0.037 | 485 | 0.272 | 14 | 0.774 |
-| Zack Gelof | ATH | CF | 0.337 | 0.3 | -0.037 | 321 | 0.258 | 14 | 0.775 |
-| TJ Rumfield | COL | 1B | 0.36 | 0.323 | -0.037 | 531 | 0.29 | 13 | 0.822 |
-| CJ Abrams | WSH | SS | 0.373 | 0.337 | -0.036 | 556 | 0.272 | 29 | 0.864 |
-| Hunter Goodman | COL | C | 0.368 | 0.332 | -0.036 | 476 | 0.256 | 36 | 0.87 |
-| Pete Crow-Armstrong | CHC | CF | 0.393 | 0.358 | -0.035 | 602 | 0.277 | 33 | 0.922 |
-| Jake Mangum | PIT | None | 0.32 | 0.285 | -0.035 | 403 | 0.285 | 4 | 0.716 |
-| Nolan Arenado | AZ | 3B | 0.326 | 0.292 | -0.034 | 492 | 0.24 | 21 | 0.752 |
+| Ty France | SD | None | 0.371 | 0.332 | -0.039 | 400 | 0.287 | 19 | 0.865 |
+| Chase Meidroth | CWS | 2B | 0.332 | 0.294 | -0.038 | 548 | 0.271 | 12 | 0.742 |
+| TJ Rumfield | COL | 1B | 0.364 | 0.326 | -0.038 | 535 | 0.289 | 13 | 0.819 |
+| Ezequiel Duran | TEX | 2B | 0.339 | 0.302 | -0.037 | 489 | 0.271 | 14 | 0.771 |
+| Zack Gelof | ATH | CF | 0.337 | 0.3 | -0.037 | 326 | 0.257 | 14 | 0.768 |
+| Pete Crow-Armstrong | CHC | CF | 0.394 | 0.358 | -0.036 | 608 | 0.282 | 36 | 0.944 |
+| CJ Abrams | WSH | SS | 0.372 | 0.336 | -0.036 | 561 | 0.269 | 29 | 0.856 |
+| Jose Altuve | HOU | 2B | 0.31 | 0.274 | -0.036 | 466 | 0.246 | 14 | 0.707 |
+| Jake Mangum | PIT | None | 0.32 | 0.285 | -0.035 | 407 | 0.287 | 4 | 0.718 |
+| Hunter Goodman | COL | C | 0.367 | 0.332 | -0.035 | 480 | 0.254 | 36 | 0.866 |
+| Nolan Arenado | AZ | 3B | 0.326 | 0.292 | -0.034 | 500 | 0.238 | 21 | 0.743 |
 
 ## Pitchers — biggest ERA-FIP gaps (positive = unlucky, expect improvement)
 
@@ -69,13 +69,13 @@ _Generated: 2026-08-29T04:30 ET — db latest pull: 2026-08-28_
 | Yusei Kikuchi | LAA | 8 | 36.0 | 6.25 | 4.27 | 1.98 | 1.58 | 0.224 |
 | José Alvarado | PHI | 0 | 48.0 | 5.81 | 3.87 | 1.94 | 1.52 | 0.266 |
 | Grant Wolfram | BAL | 0 | 41.0 | 5.05 | 3.17 | 1.88 | 1.37 | 0.247 |
-| Jack Perkins | ATH | 11 | 90.1 | 6.68 | 4.81 | 1.87 | 1.48 | 0.253 |
 | Lance McCullers Jr. | MIL | 8 | 39.1 | 6.86 | 5.07 | 1.79 | 1.53 | 0.25 |
 | Tanner Banks | PHI | 1 | 29.0 | 7.14 | 5.38 | 1.76 | 2.0 | 0.219 |
 | Cole Winn | TEX | 1 | 48.0 | 5.63 | 4.02 | 1.61 | 1.46 | 0.228 |
 | Kyle Freeland | COL | 23 | 124.1 | 6.37 | 4.78 | 1.59 | 1.46 | 0.186 |
 | Devin Williams | NYM | 0 | 38.2 | 4.66 | 3.1 | 1.56 | 1.66 | 0.287 |
-| Kodai Senga | NYM | 8 | 53.0 | 7.64 | 6.08 | 1.56 | 1.66 | 0.262 |
+| Justin Slaten | BOS | 0 | 31.1 | 4.6 | 3.04 | 1.56 | 1.37 | 0.285 |
+| Simeon Woods Richardson | TOR | 10 | 47.2 | 7.74 | 6.19 | 1.55 | 1.89 | 0.115 |
 
 ## Pitchers — biggest FIP-ERA gaps (negative = lucky, expect regression)
 
@@ -83,12 +83,11 @@ _Generated: 2026-08-29T04:30 ET — db latest pull: 2026-08-28_
 |---|---|---|---|---|---|---|---|---|
 | Jacob Waguespack | DET | 1 | 31.1 | 2.59 | 5.19 | -2.6 | 0.89 | 0.146 |
 | PJ Poulin | WSH | 11 | 36.2 | 2.7 | 4.98 | -2.28 | 1.31 | 0.163 |
+| Yuki Matsui | SD | 0 | 52.1 | 2.06 | 4.29 | -2.23 | 1.15 | 0.263 |
 | Mason Black | KC | 0 | 31.1 | 4.31 | 6.51 | -2.2 | 1.6 | 0.134 |
-| Yuki Matsui | SD | 0 | 51.1 | 2.1 | 4.29 | -2.19 | 1.15 | 0.263 |
 | Jason Adam | SD | 0 | 32.1 | 2.51 | 4.69 | -2.18 | 1.18 | 0.164 |
-| Paul Blackburn | NYY | 2 | 75.2 | 1.67 | 3.7 | -2.03 | 1.04 | 0.203 |
 | Kyle Finnegan | DET | 0 | 54.1 | 3.31 | 5.34 | -2.03 | 1.56 | 0.174 |
-| Julian Garcia | CIN | 0 | 34.1 | 2.88 | 4.8 | -1.92 | 0.9 | 0.242 |
+| Paul Blackburn | NYY | 2 | 76.2 | 1.64 | 3.64 | -2.0 | 1.03 | 0.207 |
 | Troy Melton | DET | 16 | 97.0 | 1.86 | 3.75 | -1.89 | 1.01 | 0.209 |
 | Robert Suarez | ATL | 0 | 32.0 | 0.56 | 2.44 | -1.88 | 0.84 | 0.215 |
 | Randy Dobnak | KC | 8 | 51.2 | 1.92 | 3.76 | -1.84 | 1.37 | 0.154 |
@@ -97,7 +96,8 @@ _Generated: 2026-08-29T04:30 ET — db latest pull: 2026-08-28_
 | Trent Thornton | CHC | 0 | 43.1 | 3.32 | 4.93 | -1.61 | 1.15 | 0.145 |
 | Jalen Beeks | TEX | 0 | 26.0 | 3.81 | 5.41 | -1.6 | 1.38 | 0.186 |
 | Javier Assad | CHC | 10 | 83.1 | 3.46 | 4.99 | -1.53 | 1.1 | 0.166 |
+| Julian Garcia | CIN | 0 | 36.1 | 3.47 | 4.96 | -1.49 | 0.99 | 0.237 |
 | DL Hall | MIL | 1 | 45.0 | 2.2 | 3.68 | -1.48 | 1.07 | 0.284 |
 | Gabe Speier | SEA | 0 | 36.0 | 2.5 | 3.96 | -1.46 | 1.11 | 0.207 |
 | Tyler Kinley | DET | 0 | 42.2 | 4.01 | 5.45 | -1.44 | 1.29 | 0.235 |
-| Brock Burke | CIN | 0 | 64.0 | 2.67 | 4.05 | -1.38 | 1.33 | 0.236 |
+| Bryan Baker | TB | 0 | 53.0 | 1.53 | 2.93 | -1.4 | 0.89 | 0.284 |
