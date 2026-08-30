@@ -1,15 +1,14 @@
-# Morning brief — August 29, 2026
+# Morning brief — August 30, 2026
 
-_db latest: 2026-08-28_
+_db latest: 2026-08-29_
 
 Two moves worth making this morning, sir.
 
-Cade Cavalli, working a 1.50 ERA over his last two starts, takes the mound today against Miami and was stuck on the bench while Payton Tolle, who throws for no one today, held the active slot. Free innings going uncollected. Cavalli comes in, Tolle sits.
+Shane Baz is not on the mound today; Reid Detmers is, with the Angels in action, sporting a 0.75 ERA over his last fourteen innings. He takes Baz's rotation spot, since an idle starter collects nothing.
 
-Ozzie Albies has gone cold: two homers, seven RBI, a .621 OPS over his last thirty days, essentially singles with no pop. Luke Keaschall, a clean swap at second base, has outproduced him across that same window with four homers, ten RBI and a .919 OPS. Albies goes, Keaschall comes in and starts.
+Luke Keaschall has eight home runs all season; Cal Raleigh, sitting on waivers, has hit seven in the last two weeks alone. Keaschall's speed does nothing for a build that punts steals, so he goes for the power bat BARONBALL actually wants. Whether the pickup clears depends on the acquisition limit, which I cannot see from here.
 
-Lineup swaps are done, reversible if you disagree. The add and drop have been submitted; you'll see below whether it cleared.
+The lineup change is in and reversible. The add/drop has been submitted; you will see below if it held.
 
-Added Luke Keaschall, dropped Ozzie Albies.
-Started Cade Cavalli over Payton Tolle.
-Could not seat Luke Keaschall over Ozzie Albies: Ozzie Albies is not on the roster.
+Failed to add Cal Raleigh for Luke Keaschall: HTTP 409 — {"messages":["No adds allowed until ineligible player in IL/IR slot is moved."],"details":[{"message":"No adds allowed until ineligible player in IL/IR slot is moved.","shortMessage":"No adds allowed until ineligible player in IL/IR slot is moved.","resolution":null,"type":"TRAN_ROSTER_ADD_IR_VIOLAT
+Started Reid Detmers over Shane Baz.
