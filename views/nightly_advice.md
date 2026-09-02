@@ -1,17 +1,13 @@
-# Morning brief — September 1, 2026
+# Morning brief — September 2, 2026
 
-_db latest: 2026-08-31_
+_db latest: 2026-09-01_
 
-One move worth making this morning, sir: outfield.
+One pitching swap worth making this morning, sir.
 
-Start Luis Robert Jr. over Carson Benge. Robert is running a 1.022 OPS with 4 home runs over his last 14 days, the hottest bat on the bench, and he plays the Rockies at Coors today. Benge is the coldest man in the active outfield at .819 OPS over the same stretch. Both have games, so this is pure quality, and under Baronball the hotter power bat wins that argument every time.
+Start Reid Detmers over Payton Tolle. Detmers takes the mound today for the Angels against the Yankees, while Tolle throws nothing at all today, and his last fortnight, a 5.06 ERA, gives no case for leaving him parked in an active slot over a man who is actually pitching.
 
-The mound needs no touching. Every arm marked to start today is already seated, the three relievers whose clubs play (Sabrowski, Ashby, Detmers) hold the other live slots, and the four idle starters, Yamamoto, Fried, Tolle, Cavalli, are tied with Shane Baz on the bench in the one tier that matters today: not pitching. No swap among them changes a thing.
+The rest of the staff is correctly arranged: Yamamoto starts for the Dodgers today, Sabrowski and Ashby throw in relief for clubs in action, and Fried, Baz, and Cavalli hold their slots only for lack of a better arm behind them, though none of the three takes the mound today. Every bat in the lineup has a game, and nothing on the bench outproduces what is already started.
 
-Willson Contreras sits in an active slot despite the ten-day list, but no bench hitter carries first-base eligibility to relieve him, so there is nothing to execute there. Noted, not actionable.
+The swap is done, and you may reverse it if you disagree.
 
-Nothing on waivers clears the bar. The hot free-agent bats are either blocked by a full lineup or would only be parked on the bench themselves, and I will not spend a roster spot on a man who can't start.
-
-The lineup swap above is done, and you can reverse it if you disagree. No add or drop went out this morning.
-
-Started Luis Robert Jr. over Carson Benge.
+Started Reid Detmers over Payton Tolle.
