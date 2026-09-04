@@ -1,14 +1,14 @@
-# Morning brief — September 3, 2026
+# Morning brief — September 4, 2026
 
-_db latest: 2026-09-02_
+_db latest: 2026-09-03_
 
-Two changes worth making this morning, sir.
+Two matters for the pen this morning, sir.
 
-Start Luis Robert Jr. over Carson Benge in the outfield: Robert's Orioles play today and he is carrying a .971 OPS over the last two weeks, while Benge's Mets are idle, and idle guarantees zero.
+Start Shane Baz over Cade Cavalli in the rotation: Baz takes the mound against Boston today, Cavalli does not pitch at all and is day-to-day besides.
 
-Drop Benge for free agent Tristan Peters: Peters has outhomered him 5 to 1 over the last fortnight, five home runs in 47 plate appearances against Benge's one, and BARONBALL wants that ceiling, not Benge's cold bench bat.
+Start Juan Soto over Carson Benge in the outfield: Soto carries a .944 OPS on the season against Benge's .758, and both men have games today, so there is no case for leaving the better bat idle.
 
-Lineup swap is done, reversible if you disagree. The add and drop have been submitted; ESPN's ruling appears below.
+The lineup swaps are done, and you may reverse them at your leisure. No add or drop to report today.
 
-Added Tristan Peters, dropped Carson Benge.
-Started Luis Robert Jr. over Carson Benge.
+Started Shane Baz over Cade Cavalli.
+Started Juan Soto over Carson Benge.
