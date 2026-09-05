@@ -1,14 +1,11 @@
-# Morning brief — September 4, 2026
+# Morning brief — September 5, 2026
 
-_db latest: 2026-09-03_
+_db latest: 2026-09-04_
 
-Two matters for the pen this morning, sir.
+Two moves worth doing this morning, sir. First: Payton Tolle sits, not starting today and cold over the last fortnight (4.91 ERA), while Reid Detmers takes the mound slot; his team plays and he has carried a 1.38 ERA with 10 strikeouts across his last 13 innings. Second: Alejandro Kirk goes to the wire for Carter Jensen. Kirk has managed a .569 OPS over his last two weeks; Jensen has produced five home runs and ten RBI in that same span, a 1.214 OPS, and BARONBALL wants that ceiling at catcher. Jensen starts in Kirk's place.
 
-Start Shane Baz over Cade Cavalli in the rotation: Baz takes the mound against Boston today, Cavalli does not pitch at all and is day-to-day besides.
+Lineup swap is done, and you can reverse it. The Kirk-Jensen swap has been submitted; whether it actually cleared is below.
 
-Start Juan Soto over Carson Benge in the outfield: Soto carries a .944 OPS on the season against Benge's .758, and both men have games today, so there is no case for leaving the better bat idle.
-
-The lineup swaps are done, and you may reverse them at your leisure. No add or drop to report today.
-
-Started Shane Baz over Cade Cavalli.
-Started Juan Soto over Carson Benge.
+Added Carter Jensen, dropped Alejandro Kirk.
+Started Reid Detmers over Payton Tolle.
+Could not seat Carter Jensen over Alejandro Kirk: Alejandro Kirk is not on the roster.
