@@ -1,11 +1,15 @@
-# Morning brief — September 6, 2026
+# Morning brief — September 7, 2026
 
-_db latest: 2026-09-05_
+_db latest: 2026-09-06_
 
-One thing to fix this morning, sir: an idle arm is sitting where a working one should be.
+One thing worth doing this morning, sir. Tristan Peters has no game today; Juan Soto does, against Miami. An idle outfielder is a certain zero, so Soto takes Peters' outfield slot regardless of his own cold L14 line.
 
-Start Reid Detmers over Shane Baz. Detmers' Angels play Pittsburgh today and he has struck out 10 batters in his last 13 innings at a 1.38 ERA, while Baz is not pitching at all today and would contribute nothing from that slot.
+Every pitching slot is already seated correctly. Sabrowski, Ashby and Detmers cover the relief innings for teams in action today. The four starters not on the mound, Yamamoto, Baz, Tolle and Cavalli, occupy the rest only because the lone bench arm, Fried, has no game either, so there is nothing behind them worth promoting.
 
-The swap is in. Reverse it if you'd rather not.
+Seager has no game and no bench shortstop to replace him with, so he stays, unavoidably idle.
 
-Started Reid Detmers over Shane Baz.
+Nothing on the waiver wire clearly outperforms what is already rostered, and the club sits at a near-zero playoff figure regardless of any single swap, so I have left the wire alone this morning.
+
+The lineup swap is done and you can reverse it. No add or drop went in.
+
+Started Juan Soto over Tristan Peters.
