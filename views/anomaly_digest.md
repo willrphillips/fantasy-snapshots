@@ -1,23 +1,20 @@
 # Anomaly Digest — Standout Game Lines
 
-_Generated: 2026-09-07T04:45 ET — game day 2026-09-06 (delta vs 2026-09-05)._
+_Generated: 2026-09-08T04:45 ET — game day 2026-09-07 (delta vs 2026-09-06)._
 
 ## Hitting
 
-- **Jake Burger** (TEX, 1B) — 2-for-4, 2 HR, 3 RBI, 3 R, 1 BB. _Season: .239/.305/.433, 25 HR in 545 PA_
-- **Jake McCarthy** (COL) — 3-for-5, 1 HR, 3 RBI, 2 R. _Season: .293/.337/.484, 15 HR in 515 PA_
-- **Sam Antonacci** (CWS, LF) — 3-for-4, 3 2B, 2 RBI, 2 R. _Season: .268/.367/.393, 8 HR in 493 PA_
+- **Coby Mayo** (BAL) — 2-for-5, 2 HR, 3 RBI, 2 R. _Season: .224/.288/.460, 21 HR in 385 PA_
+- **Henry Bolte** (ATH, CF) — 1-for-2, 1 HR, 1 RBI, 3 R, 3 BB, 3 SB. _Season: .275/.358/.395, 9 HR in 399 PA_
+- **Riley Greene** (DET, LF) — 3-for-4, 1 HR, 2 RBI, 1 R. _Season: .279/.368/.475, 19 HR in 519 PA_
 
 ## Pitching
 
-- **Payton Tolle** (BOS) — 6.0 IP, 1 ER, 12 K, 4 H, W. _Season: 3.15 ERA, 3.10 FIP, 159 K in 137.0 IP_
-- **Gavin Williams** (CLE) — 6.0 IP, 2 ER, 11 K, 3 BB, 4 H. _Season: 3.78 ERA, 3.49 FIP, 228 K in 169.0 IP_
-- **Bryan Woo** (SEA) — 8.0 IP, 0 ER, 9 K, 2 BB, 1 H, W. _Season: 4.03 ERA, 3.34 FIP, 158 K in 156.1 IP_
-- **Cesar Perdomo** (SF) — 6.0 IP, 0 ER, 4 K, 1 BB, 3 H. _Season: 0.90 ERA, 3.40 FIP, 8 K in 10.0 IP_
-- **Tyler Mahle** (ATL) — 6.0 IP, 0 ER, 3 K, 1 BB, 4 H. _Season: 1.24 ERA, 2.82 FIP, 35 K in 36.1 IP_
-- **Michael King** (SD) — 6.0 IP, 0 ER, 3 K, 3 BB, 4 H, W. _Season: 3.00 ERA, 4.17 FIP, 144 K in 168.0 IP_
-- **Aaron Nola** (PHI) — 7.0 IP, 1 ER, 5 K, 1 BB, 4 H. _Season: 4.76 ERA, 4.72 FIP, 162 K in 155.0 IP_
-- **Walbert Ureña** (LAA) — 8.0 IP, 1 ER, 4 K, 1 BB, 3 H. _Season: 2.74 ERA, 3.77 FIP, 124 K in 131.1 IP_
+- **Jesús Luzardo** (PHI) — 9.0 IP, 0 ER, 12 K, 1 BB, 2 H, W. _Season: 2.87 ERA, 2.77 FIP, 221 K in 178.2 IP_
+- **Emmet Sheehan** (LAD) — 5.9 IP, 1 ER, 10 K, 1 BB, 3 H, W. _Season: 5.08 ERA, 4.62 FIP, 118 K in 101.0 IP_
+- **Noah Cameron** (KC) — 6.0 IP, 0 ER, 7 K, 2 BB, 3 H. _Season: 3.93 ERA, 3.62 FIP, 145 K in 160.1 IP_
+- **Grant Holmes** (ATL) — 6.0 IP, 0 ER, 6 K, 2 BB, 3 H. _Season: 3.46 ERA, 4.61 FIP, 110 K in 137.2 IP_
+- **Trevor Rogers** (BAL) — 7.1 IP, 1 ER, 6 K, 6 H, W. _Season: 4.15 ERA, 3.44 FIP, 138 K in 151.2 IP_
 
 ---
 _Thresholds: hitters need 2+ HR, 4+ H, 5+ RBI, 4+ R, 3+ SB, a multi-hit homer game, or 3+ XBH. Pitchers need 7+ IP with ≤1 ER, a 6+ IP shutout, or 10+ K. Baselines are season-to-date only._
