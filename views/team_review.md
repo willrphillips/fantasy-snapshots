@@ -1,6 +1,6 @@
 # Captain Phillips — Team Review
 
-_Generated: 2026-09-09T04:30 ET — db latest pull: 2026-09-08_
+_Generated: 2026-09-10T04:30 ET — db latest pull: 2026-09-09_
 
 ## Roster
 
@@ -10,7 +10,7 @@ _Generated: 2026-09-09T04:30 ET — db latest pull: 2026-09-08_
 | Captain Phillips | 2B | Luke Keaschall | 2B,2B/SS,IF,UTIL,BE,IL,RF,OF,CF | ACTIVE | MIN | 2B | 807712 |
 | Captain Phillips | 3B | Max Muncy | 3B,1B/3B,IF,UTIL,BE,IL | ACTIVE | LAD | 3B | 571970 |
 | Captain Phillips | BE | Juan Soto | RF,OF,UTIL,BE,IL,DH,LF | ACTIVE | NYM | LF | 665742 |
-| Captain Phillips | BE | Shane Baz | P,SP,BE,IL | ACTIVE | BAL | P | 669358 |
+| Captain Phillips | BE | Reid Detmers | P,RP,BE,IL,SP | ACTIVE | LAA | P | 672282 |
 | Captain Phillips | C | Carter Jensen | C,DH,UTIL,BE,IL | ACTIVE | KC | C | 695600 |
 | Captain Phillips | IL | Luis Robert Jr. | CF,OF,UTIL,BE,IL | TEN_DAY_DL | BAL | CF | 673357 |
 | Captain Phillips | IL | Shea Langeliers | C,UTIL,BE,IL,DH | TEN_DAY_DL | ATH | C | 669127 |
@@ -22,37 +22,37 @@ _Generated: 2026-09-09T04:30 ET — db latest pull: 2026-09-08_
 | Captain Phillips | P | Erik Sabrowski | P,RP,BE,IL | ACTIVE | CLE | P | 681870 |
 | Captain Phillips | P | Max Fried | P,SP,BE,IL | ACTIVE | NYY | P | 608331 |
 | Captain Phillips | P | Payton Tolle | P,SP,BE,IL | ACTIVE | BOS | P | 801139 |
-| Captain Phillips | P | Reid Detmers | P,RP,BE,IL,SP | ACTIVE | LAA | P | 672282 |
+| Captain Phillips | P | Shane Baz | P,SP,BE,IL | ACTIVE | BAL | P | 669358 |
 | Captain Phillips | P | Yoshinobu Yamamoto | P,SP,BE,IL | ACTIVE | LAD | P | 808967 |
 | Captain Phillips | SS | Corey Seager | SS,2B/SS,IF,UTIL,BE,IL | ACTIVE | TEX | SS | 608369 |
-| Captain Phillips | UTIL | Freddie Freeman | 1B,1B/3B,IF,UTIL,BE,IL | ACTIVE | LAD | 1B | 518692 |
+| Captain Phillips | UTIL | Freddie Freeman | 1B,1B/3B,IF,UTIL,BE,IL | DAY_TO_DAY | LAD | 1B | 518692 |
 
 ## Hitting — season vs L14 vs L30
 
 | Player | S_AVG | S_HR | S_RBI | S_R | S_SB | S_OPS | L14_AVG | L14_HR | L14_RBI | L14_R | L14_OPS | L30_AVG | L30_HR | L30_RBI | L30_OPS |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Willson Contreras | 0.274 | 26 | 79 | 66 | 3 | 0.9 | 0.071 | 0 | 1 | 0 | 0.402 | 0.212 | 3 | 9 | 0.749 |
-| Luke Keaschall | 0.276 | 9 | 44 | 71 | 17 | 0.76 | 0.304 | 1 | 4 | 11 | 0.875 | 0.327 | 3 | 10 | 0.937 |
-| Max Muncy | 0.253 | 26 | 68 | 73 | 2 | 0.843 | 0.219 | 0 | 1 | 4 | 0.687 | 0.276 | 4 | 16 | 0.917 |
-| Juan Soto | 0.279 | 24 | 59 | 55 | 8 | 0.936 | 0.243 | 3 | 7 | 9 | 0.847 | 0.243 | 3 | 7 | 0.847 |
-| Carter Jensen | 0.228 | 22 | 68 | 68 | 2 | 0.755 | 0.318 | 5 | 10 | 10 | 1.25 | 0.233 | 6 | 13 | 0.897 |
-| Luis Robert Jr. | 0.223 | 10 | 23 | 24 | 2 | 0.702 | 0.125 | 0 | 0 | 1 | 0.301 | 0.25 | 5 | 7 | 0.891 |
+| Willson Contreras | 0.274 | 26 | 79 | 66 | 3 | 0.9 | 0.071 | 0 | 1 | 0 | 0.402 | 0.222 | 3 | 9 | 0.773 |
+| Luke Keaschall | 0.274 | 9 | 44 | 71 | 17 | 0.757 | 0.318 | 1 | 4 | 11 | 0.921 | 0.316 | 3 | 10 | 0.914 |
+| Max Muncy | 0.252 | 27 | 70 | 74 | 2 | 0.845 | 0.242 | 1 | 3 | 5 | 0.799 | 0.273 | 5 | 15 | 0.932 |
+| Juan Soto | 0.275 | 24 | 59 | 55 | 8 | 0.925 | 0.214 | 3 | 7 | 9 | 0.764 | 0.214 | 3 | 7 | 0.764 |
+| Carter Jensen | 0.229 | 23 | 69 | 70 | 2 | 0.761 | 0.295 | 6 | 11 | 12 | 1.277 | 0.244 | 7 | 14 | 0.953 |
+| Luis Robert Jr. | 0.223 | 10 | 23 | 24 | 2 | 0.702 | 0.083 | 0 | 0 | 1 | 0.237 | 0.255 | 5 | 7 | 0.908 |
 | Shea Langeliers | 0.263 | 23 | 51 | 55 | 2 | 0.829 | None | 0 | 0 | 0 | None | None | 0 | 0 | None |
-| Daylen Lile | 0.253 | 20 | 82 | 75 | 14 | 0.742 | 0.302 | 3 | 10 | 8 | 1.043 | 0.28 | 5 | 21 | 0.852 |
-| Jac Caglianone | 0.283 | 23 | 70 | 66 | 6 | 0.825 | 0.35 | 1 | 10 | 7 | 0.891 | 0.375 | 3 | 21 | 0.967 |
-| Tristan Peters | 0.282 | 12 | 53 | 58 | 8 | 0.817 | 0.333 | 1 | 3 | 7 | 0.945 | 0.349 | 6 | 13 | 1.1 |
-| Corey Seager | 0.227 | 16 | 39 | 50 | 1 | 0.748 | 0.222 | 3 | 5 | 10 | 0.788 | 0.296 | 5 | 11 | 0.895 |
-| Freddie Freeman | 0.297 | 16 | 66 | 72 | 7 | 0.828 | 0.275 | 1 | 5 | 9 | 0.82 | 0.267 | 1 | 11 | 0.72 |
+| Daylen Lile | 0.251 | 20 | 82 | 75 | 14 | 0.736 | 0.295 | 3 | 10 | 8 | 1.021 | 0.269 | 5 | 21 | 0.82 |
+| Jac Caglianone | 0.283 | 23 | 70 | 66 | 6 | 0.825 | 0.389 | 1 | 10 | 7 | 0.988 | 0.368 | 2 | 18 | 0.926 |
+| Tristan Peters | 0.283 | 12 | 53 | 58 | 8 | 0.817 | 0.289 | 0 | 1 | 5 | 0.778 | 0.349 | 6 | 13 | 1.091 |
+| Corey Seager | 0.23 | 17 | 40 | 51 | 1 | 0.76 | 0.267 | 4 | 6 | 11 | 0.924 | 0.309 | 6 | 12 | 0.954 |
+| Freddie Freeman | 0.297 | 16 | 66 | 72 | 7 | 0.828 | 0.25 | 1 | 5 | 7 | 0.761 | 0.244 | 1 | 9 | 0.687 |
 
 ## Pitching — season vs L14 vs L30
 
 | Player | S_IP | S_ERA | S_WHIP | S_FIP | S_K | S_W | S_SV | S_HLD | L14_IP | L14_ERA | L14_FIP | L14_K | L30_IP | L30_ERA | L30_FIP |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Shane Baz | 163.1 | 3.91 | 1.33 | 3.4 | 145 | 5 | 0 | 0 | 12.0 | 2.25 | 4.02 | 10 | 27.0 | 4.67 | 3.54 |
+| Reid Detmers | 168.0 | 3.32 | 1.04 | 3.03 | 191 | 5 | 0 | 0 | 19.0 | 0.95 | 1.42 | 19 | 33.0 | 0.55 | 1.25 |
 | Aaron Ashby | 80.1 | 3.25 | 1.37 | 3.05 | 109 | 13 | 2 | 15 | 6.1 | 2.95 | 4.41 | 7 | 14.9 | 1.81 | 4.04 |
 | Cade Cavalli | 158.2 | 3.12 | 1.18 | 3.3 | 185 | 12 | 0 | 0 | 10.0 | 1.8 | 1.4 | 16 | 30.0 | 1.2 | 1.93 |
-| Erik Sabrowski | 42.1 | 2.76 | 1.2 | 2.77 | 67 | 5 | 1 | 23 | 4.1 | 0.0 | 2.37 | 3 | 10.0 | 0.0 | 0.9 |
+| Erik Sabrowski | 42.1 | 2.76 | 1.2 | 2.77 | 67 | 5 | 1 | 23 | 3.1 | 0.0 | 2.78 | 2 | 10.0 | 0.0 | 0.9 |
 | Max Fried | 89.1 | 2.92 | 1.03 | 2.65 | 83 | 3 | 0 | 0 | 9.1 | 1.98 | 3.43 | 8 | 14.1 | 1.91 | 4.09 |
 | Payton Tolle | 137.0 | 3.15 | 1.08 | 3.1 | 159 | 9 | 0 | 0 | 11.9 | 3.78 | 1.92 | 18 | 30.0 | 3.0 | 2.53 |
-| Reid Detmers | 168.0 | 3.32 | 1.04 | 3.03 | 191 | 5 | 0 | 0 | 19.0 | 0.95 | 1.42 | 19 | 39.0 | 0.69 | 1.54 |
-| Yoshinobu Yamamoto | 165.0 | 2.67 | 0.9 | 3.37 | 161 | 12 | 0 | 0 | 13.8 | 3.26 | 4.26 | 16 | 25.9 | 2.78 | 2.91 |
+| Shane Baz | 169.0 | 4.05 | 1.33 | 3.54 | 150 | 6 | 0 | 0 | 17.9 | 4.02 | 5.11 | 15 | 32.9 | 5.2 | 4.22 |
+| Yoshinobu Yamamoto | 172.0 | 2.62 | 0.88 | 3.33 | 171 | 13 | 0 | 0 | 20.8 | 2.6 | 3.68 | 26 | 32.9 | 2.46 | 2.83 |
