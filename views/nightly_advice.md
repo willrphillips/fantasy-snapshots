@@ -1,11 +1,11 @@
-# Morning brief — September 10, 2026
+# Morning brief — September 11, 2026
 
-_db latest: 2026-09-09_
+_db latest: 2026-09-10_
 
-One thing worth doing this morning, sir; the lineup itself is right as it stands, with nobody on the bench holding a game that a starter is missing.
+Nothing to see in the hitters this morning, sir, but the pitching staff wants one fix. Aaron Ashby is sitting on your bench while Milwaukee plays today; Payton Tolle occupies an active pitching slot and is not starting, so he throws nothing at all. Ashby's staff will pitch, Tolle's will not, and Tolle's own recent line (3.78 ERA over his last fortnight) is the softest of the idle starters, so nothing is lost benching him for a day. Seat Ashby, sit Tolle.
 
-Drop Shane Baz for Jared Jones off the wire. Baz has been dreadful his last two turns, a 5.11 FIP and 4.02 ERA, and the month view is no kinder at 4.22 FIP and a 5.20 ERA. Jones has thrown to a 2.02 FIP with 15 strikeouts in 10.2 innings over his last two starts, the kind of swing-for-the-fences arm the strategy calls for, and he lands on the bench until his next start comes round.
+No other move clears the bar. Every remaining hitter and starter in an active slot has a game today, the pitching slots are otherwise seated correctly under the starting-then-relief-then-idle order, and nothing on waivers is a clear enough upgrade over what you already carry to justify spending an add.
 
-Lineup stands untouched, nothing there to reverse. The Baz-for-Jones move has gone in and you will see below whether it cleared.
+The swap above has already gone to ESPN; reverse it if you disagree. No add or drop was submitted this morning.
 
-Added Jared Jones, dropped Shane Baz.
+Started Aaron Ashby over Payton Tolle.
